@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
+$normal-font-size: 16px;
+$normal-font-line-height: $normal-font-size * 1.5;
+
+html{
+  font-family: "Lato", helvetica, verdana, sans-serf;
+  font-size: $normal-font-size;
+  line-height: $normal-font-line-height;
+}
+
+
+.center-inside{
+  text-align: center;
+}
+
+h2{
+	color: $grey;
+	font-family: "Lato", helvetica, verdana, sans-serf;
+	font-weight: 200;
+	letter-spacing: .02rem;
+}
+

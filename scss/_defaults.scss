@@ -1,0 +1,119 @@
+/* structure defaults
+*/
+
+html {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    border: 0;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    @include appearance(button);
+    cursor: pointer;
+}
+
+.hidden{
+  display: none;
+}
+
+@include breakpoint(baby-bear) {
+.tablet{ display: none !important; }
+.full{ display: none !important; }
+.hide-on-mobile{display: none !important;}
+}
+@include breakpoint(mama-bear) {
+.mobile{ display: none !important; }
+.full{ display: none !important; }
+.hide-on-tablet{display: none !important;}
+}
+@include breakpoint(papa-bear) {
+
+.mobile{ display: none !important; }
+.tablet{ display: none !important; }
+}
+
+
+
+/* project defined:
+*/
+body {
+    background: $blue;
+    color: white;
+    height: 100%;
+}
+
+button, input{
+	outline: none;
+}
+
+.pageWidth{
+  width: 100%;
+  // @include breakpoint(baby-bear) {
+  //   width: 100%;
+  // }
+  // @include breakpoint(mama-bear) {
+  //   width: 95%;
+  // }
+  // @include breakpoint(papa-bear) {
+  //   width: 80%;
+  // }
+}
+
+.page{
+  padding: 20px 10px 0 10px;
+  @extend .pageWidth;
+  poistion: relative;
+  
+  background: white;
+  color: $concrete;
+
+ margin: 0 auto;
+
+  
+}
+
+.ruffle{
+    @extend .pageWidth;
+      @include breakpoint(papa-bear) {
+    margin: -200px auto 0 auto;
+  }
+  @include breakpoint(mama-bear) {
+  margin: -100px auto 0 auto;
+  }
+  @include breakpoint(baby-bear) {
+  margin: -55px auto 0 auto;
+  }
+
+  
+    Height: 9px;
+    background: url('../img/ruffle-sm.png');
+    content: '';
+    top: 0px;
+    display: block;
+    position: relative;
+
+  }
+
+.col1-2{
+  @include breakpoint(baby-bear) {
+    width: 100%;
+  }
+}
+
+.content{
+  @extend .pageWidth;
+  margin: 0 auto!important;
+}
+
+
