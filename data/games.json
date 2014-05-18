@@ -1,0 +1,38 @@
+[
+	[
+		{
+			"title": "Mr. Fluffykins' Great Sorting Adventure",
+			"link": "/fluffykins/",
+			"img": "http://twoscoopgames.com/wp-content/uploads/2014/02/MFGSA-still1.png",
+			"hoverimg": "http://twoscoopgames.com/wp-content/uploads/2014/02/MFGSA1.gif"
+		},
+		{
+			"title": "Two Scoop Blackjack",
+			"link": "/blackjack/",
+			"img": "img/blackjack.png",
+			"cornerBand": "COMING SOON"
+		}
+	],
+	[
+		{
+			"title": "Kick Bot",
+			"link": "/kickbot/",
+			"img": "img/kickbot.png",
+			"hoverimg": "img/kickbot-hover.gif"
+		},
+		{
+			"title": "Apartment 213",
+			"link": "/apartment213/",
+			"img": "img/apt213.png",
+			"hoverimg": "img/apt213-hover.gif"
+		}
+	],
+	[
+		{
+			"title": "Scurry",
+			"link": "/scurry/",
+			"img": "http://twoscoopgames.com/wp-content/uploads/2014/02/scurry.png",
+			"cornerBand": "COMING SOON"
+		}
+	]
+]

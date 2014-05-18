@@ -1,53 +1,22 @@
-<div class="games row">
-	<div class="col1-2">
-		<div class="module">
-			<a href="/fluffykins"> 
-				<img class="hoverGif" alt="" src="http://twoscoopgames.com/wp-content/uploads/2014/02/MFGSA-still1.png" width="100%" data-orig="http://twoscoopgames.com/wp-content/uploads/2014/02/MFGSA-still1.png" data-hover="http://twoscoopgames.com/wp-content/uploads/2014/02/MFGSA1.gif" />
-			</a>
+{{#each games}}
+	<div class="games row">
+		{{#each this}}
+			<div class="col1-2">
+				<div class="module">
+					<a href="{{link}}">
+						{{#if hoverimg}}
+							<img class="hoverGif" alt="{{title}}" src="{{img}}" width="100%" data-orig="{{img}}" data-hover="{{hoverimg}}" />
+						{{else}}
+							<img alt="{{title}}" src="{{img}}" width="100%" />
+						{{/if}}
+					</a>
 
-			<h2>Mr. Fluffykins' Great Sorting Adventure</h2>
-		</div><!-- .module -->
+					{{#if cornerBand}}
+						<div class="cornerBand">{{cornerBand}}</div>
+					{{/if}}
+					<h2>{{title}}</h2>
+				</div>
+			</div>
+		{{/each}}
 	</div>
-	<div class="col1-2">
-		<div class="module">
-			<a href="/blackjack">
-				<img alt="scurry" src="img/blackjack.png" width="100%" />
-			</a>
-			<div class="cornerBand">COMING SOON</div>
-			<h2>Two Scoop Blackjack</h2>
-		</div><!-- .module -->
-	</div>
-</div><!-- .gamesrow -->
-
-<div class="games row">
-	<div class="col1-2">
-		<div class="module">
-			<a href="/kickbot">
-					<img class="hoverGif" alt="" src="img/kickbot.png" width="100%" data-orig="img/kickbot.png" data-hover="img/kickbot-hover.gif" />
-			</a>
-
-			<h2>Kick Bot</h2>
-		</div><!-- .module -->
-	</div>
-	<div class="col1-2">
-		<div class="module">
-			<a href="/apartment213/">
-				<img class="hoverGif"  alt="apt213" src="img/apt213.png" width="100%"  data-orig="img/apt213.png" data-hover="img/apt213-hover.gif" />
-			</a>
-
-			<h2>Apartment 213</h2>
-		</div><!-- .module -->
-	</div>
-</div><!-- .gamesrow -->
-
-<div class="games row">
-	<div class="col1-2">
-		<div class="module">
-			<a href="/scurry">
-				<img alt="scurry" src="http://twoscoopgames.com/wp-content/uploads/2014/02/scurry.png" width="100%" />
-			</a>
-			<div class="cornerBand">COMING SOON</div>
-			<h2>Scurry</h2>
-		</div><!-- .module -->
-	</div>
-</div><!-- .gamesrow -->
+{{/each}}
