@@ -1,14 +1,92 @@
 [
 	{
-		"name": "eric",
-		"comment": "test comment",
-		"date": "1/1/2014",
-		"link": "http://someindiesite.com/kickbot-review"
+		"name": "Nick A.",
+		"comment": "Very hard, addicting, and SUPER FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+		"date": "04-27-14",
+		"link": ""
 	},
 	{
-		"name": "eric",
-		"comment": "test comment 2",
-		"date": "1/1/2014",
-		"link": "http://someindiesite.com/kickbot-review"
+		"name": "Steven S.",
+		"comment": "Difficult but really enjoyable",
+		"date": "04-13-14",
+		"link": ""
+	},
+	{
+		"name": "Christian A.",
+		"comment": "This is harder than flappy bird... but soo fun, thank u",
+		"date": "04-25-14",
+		"link": ""
+	},
+	{
+		"name": "Robert V.",
+		"comment": "Really Hard but it's awesome when you can beat the high score [28]",
+		"date": "04-22-14",
+		"link": ""
+	},
+	{
+		"name": "Brian L.",
+		"comment": "It's hard, but it feels so rewarding to beat your high score! [20]!",
+		"date": "03-18-14",
+		"link": ""
+	},
+	{
+		"name": "Richard H.",
+		"comment": "Man, this game is *super* hard AND tons of fun! Thanx!",
+		"date": "03-03-14",
+		"link": ""
+	},
+	{
+		"name": "@AlcotSirk",
+		"comment": "Best Robot Murder Tunnel of the Year so far",
+		"date": "02-20-14",
+		"link": "https://twitter.com/AlcotSirk"
+	},
+	{
+		"name": "@typocracy",
+		"comment": "This is pretty awesome guys, well done!",
+		"date": "02-19-14",
+		"link": "https://twitter.com/typocracy"
+	},
+	{
+		"name": "@tb",
+		"comment": "BTW, the game itself is awesome! Go checkout KICKBOT!",
+		"date": "02-19-14",
+		"link": "https://twitter.com/tb"
+	},
+	{
+		"name": "@rogueNoodle",
+		"comment": "Kick Bot is a great, rage-inducing #flappyjam entry from @TwoScoopGames!",
+		"date": "02-20-14",
+		"link": "https://twitter.com/rogueNoodle"
+	},
+	{
+		"name": "Ryan S.",
+		"comment": "I hated it.",
+		"date": "02-19-14",
+		"link": ""
+	},
+	{
+		"name": "Aaron S.",
+		"comment": "Super fun! Great to see new games that don't have \"flappy\" in the title.",
+		"date": "02-19-14",
+		"link": ""
+	},
+	{
+		"name": "Mary W.",
+		"comment": "This might be my new obsession...",
+		"date": "02-18-14",
+		"link": ""
+	},
+	{
+		"name": "Gregory L.",
+		"comment": "Sir, I think you might've just rivaled flappy bird with this game.",
+		"date": "02-18-14",
+		"link": ""
+	},
+	{
+		"name": "David D.",
+		"comment": "I'd rather punch myself in the head. Well, maybe I'll try one more time",
+		"date": "02-19-14",
+		"link": ""
 	}
 ]
