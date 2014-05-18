@@ -3,7 +3,6 @@
 	Sass Minifest
 
 */
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -272,18 +271,12 @@
 /* my additions */
 /*  bootstrap colors */
 html {
-  font-family: "Lato", helvetica, verdana, sans-serf;
+  font-family: "helvetica", verdana, sans-serif;
   font-size: 16px;
   line-height: 24px; }
 
 .center-inside {
   text-align: center; }
-
-h2 {
-  color: #5b5759;
-  font-family: "Lato", helvetica, verdana, sans-serf;
-  font-weight: 200;
-  letter-spacing: .02rem; }
 
 /*!
  *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
@@ -1698,17 +1691,24 @@ body {
 button, input {
   outline: none; }
 
-.pageWidth, .page, .ruffle, .content {
+.pageWidth, .page, ruffle, .content {
   width: 100%; }
 
 .page {
   padding: 20px 10px 0 10px;
   poistion: relative;
-  background: white;
-  color: #95a5a6;
   margin: 0 auto; }
+  @media (min-width: 1025px) {
+    .page {
+      margin: -200px auto 0 auto; } }
+  @media (min-width: 731px) and (max-width: 1024px) {
+    .page {
+      margin: -100px auto 0 auto; } }
+  @media (min-width: 0px) and (max-width: 730px) {
+    .page {
+      margin: -55px auto 0 auto; } }
 
-.ruffle {
+ruffle {
   Height: 9px;
   background: url("../img/ruffle-sm.png");
   content: '';
@@ -1716,13 +1716,13 @@ button, input {
   display: block;
   position: relative; }
   @media (min-width: 1025px) {
-    .ruffle {
+    ruffle {
       margin: -200px auto 0 auto; } }
   @media (min-width: 731px) and (max-width: 1024px) {
-    .ruffle {
+    ruffle {
       margin: -100px auto 0 auto; } }
   @media (min-width: 0px) and (max-width: 730px) {
-    .ruffle {
+    ruffle {
       margin: -55px auto 0 auto; } }
 
 @media (min-width: 0px) and (max-width: 730px) {
@@ -1731,3 +1731,121 @@ button, input {
 
 .content {
   margin: 0 auto !important; }
+
+.button-container {
+  position: relative;
+  width: 450px;
+  height: 50px;
+  top: -20px;
+  margin: 0 auto 20px auto; }
+
+.button {
+  position: absolute;
+  border: 3px solid #901840;
+  width: 320px;
+  left: 50%;
+  top: 20px;
+  margin-left: -150px;
+  z-index: 200; }
+
+.banner-left-top {
+  width: 0;
+  height: 0;
+  border-top: 35px solid #901840;
+  border-left: 35px solid transparent;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 199; }
+
+.banner-left-bottom {
+  width: 0;
+  height: 0;
+  border-bottom: 35px solid #901840;
+  border-left: 35px solid transparent;
+  position: absolute;
+  top: 23px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 199; }
+
+.banner-right-top {
+  width: 0;
+  height: 0;
+  border-top: 35px solid #901840;
+  border-right: 35px solid transparent;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  margin-left: 170px;
+  z-index: 199; }
+
+.banner-right-bottom {
+  width: 0;
+  height: 0;
+  border-bottom: 35px solid #901840;
+  border-right: 35px solid transparent;
+  position: absolute;
+  top: 23px;
+  left: 50%;
+  margin-left: 170px;
+  z-index: 199; }
+
+.button a {
+  text-decoration: none;
+  background: #901840;
+  display: block;
+  color: white;
+  font-size: 1em;
+  font-weight: 300;
+  font-family: helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .10em;
+  padding: 5px 0;
+  text-align: center; }
+
+.games .module {
+  position: relative;
+  overflow: hidden;
+  margin: 35px 25px; }
+  @media (min-width: 0px) and (max-width: 730px) {
+    .games .module {
+      margin: 0 0 10px 0; } }
+.games img {
+  border-radius: 20px 20px 0 0;
+  margin: 0px; }
+.games a {
+  margin: 0 auto;
+  padding: 0px; }
+.games h2 {
+  text-align: center;
+  font-weight: 300px;
+  margin: -10px 0 0 0;
+  padding: 25px 0;
+  background: white;
+  color: #8a9c9d;
+  font-family: "helvetica", verdana, sans-serif;
+  font-weight: 200;
+  letter-spacing: .12rem;
+  width: 100%;
+  border-radius: 0 0 20px 20px; }
+  @media (max-width: 1150px) {
+    .games h2 {
+      font-size: 16px; } }
+
+.cornerBand {
+  font-size: 16px;
+  text-align: center;
+  min-width: 200px;
+  top: 30px;
+  right: -50px;
+  position: absolute;
+  background: #2980b9;
+  color: white;
+  padding: 10px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg); }
