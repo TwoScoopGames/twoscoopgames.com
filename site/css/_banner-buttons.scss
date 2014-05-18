@@ -1,6 +1,3 @@
-
-
-
 .button-container {
   position: relative;
   width: 450px;
@@ -10,74 +7,73 @@
 }
 
 .button {
-	position: absolute;
-	border: 3px solid $maroon;
-	width: 320px;
-	left:50%;
-	top: 20px;
-	margin-left: -150px;
-	z-index: 200;
-
+  position: absolute;
+  border: 3px solid $maroon;
+  width: 320px;
+  left: 50%;
+  top: 20px;
+  margin-left: -150px;
+  z-index: 200;
 }
 
 .banner-left-top {
-	width: 0; 
-	height: 0; 
-	border-top: 35px solid $maroon;
-	border-left: 35px solid transparent;
-	position: absolute;
-	top: 20px;
-	left: 50%;
-	margin-left: -180px;
-	z-index: 199;
+  width: 0;
+  height: 0;
+  border-top: 35px solid $maroon;
+  border-left: 35px solid transparent;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 199;
 }
 
 .banner-left-bottom {
-	width: 0; 
-	height: 0; 
-	border-bottom: 35px solid $maroon;
-	border-left: 35px solid transparent;
-	position: absolute;
-	top: 23px;
-	left: 50%;
-	margin-left: -180px;
-	z-index: 199;
+  width: 0;
+  height: 0;
+  border-bottom: 35px solid $maroon;
+  border-left: 35px solid transparent;
+  position: absolute;
+  top: 23px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 199;
 }
 
 .banner-right-top {
-	width: 0; 
-	height: 0; 
-	border-top: 35px solid $maroon;
-	border-right: 35px solid transparent;
-	position: absolute;
-	top: 20px;
-	left: 50%;
-	margin-left: 170px;
-	z-index: 199;
+  width: 0;
+  height: 0;
+  border-top: 35px solid $maroon;
+  border-right: 35px solid transparent;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  margin-left: 170px;
+  z-index: 199;
 }
 
 .banner-right-bottom {
-	width: 0; 
-	height: 0; 
-	border-bottom: 35px solid $maroon;
-	border-right: 35px solid transparent;
-	position: absolute;
-	top: 23px;
-	left: 50%;
-	margin-left: 170px;
-	z-index: 199;
+  width: 0;
+  height: 0;
+  border-bottom: 35px solid $maroon;
+  border-right: 35px solid transparent;
+  position: absolute;
+  top: 23px;
+  left: 50%;
+  margin-left: 170px;
+  z-index: 199;
 }
 
-.button a{
-	text-decoration: none;
-	background: $maroon;
-	display: block;
-	color: white;
-	font-size: 1em;
-	font-weight: 300;
-	font-family: helvetica, sans-serif;
-	text-transform: uppercase;
-	letter-spacing: .10em;
-	padding: 5px 0;
-	text-align: center;
+.button a {
+  text-decoration: none;
+  background: $maroon;
+  display: block;
+  color: white;
+  font-size: 1em;
+  font-weight: 300;
+  font-family: helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .10em;
+  padding: 5px 0;
+  text-align: center;
 }

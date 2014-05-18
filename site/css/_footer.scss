@@ -1,32 +1,28 @@
-.bottom-band{
+.bottom-band {
   width: 100%;
   background: $belizehole;
   color: white;
 }
 
-
-
-footer{
-
-    @extend .pageWidth;
+footer {
+  @extend .pageWidth;
   margin: 0 auto;
-  h3{
+  h3 {
     text-align: center;
     background: darken($belizehole, 2%);
     padding: 10px 25px;
-  
-        border-radius: 25px 25px 0 0;
+
+    border-radius: 25px 25px 0 0;
   }
-  li{
+  li {
     list-style-type: none;
   }
-  a{
+  a {
     color: white;
   }
 }
 
-
-.legal{
+.legal {
   padding: 15px;
   text-align: center;
 }

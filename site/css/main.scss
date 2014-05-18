@@ -1,9 +1,7 @@
-
 /*
+Sass Minifest
+ */
 
-	Sass Minifest
-
-*/
 @import"bourbon/bourbon";
 @import"structure";
 @import"colors";
@@ -15,56 +13,55 @@
 @import"defaults";
 @import"banner-buttons";
 @import"footer";
-.row{
+
+.row {
 }
 
-.games{
-	.module{
-		position: relative;
-		overflow: hidden;
-		margin: 35px 25px ;
-		@include breakpoint(baby-bear) {
-			margin: 0 0 10px 0;
-		}
-	}
-	img{
-		border-radius:  20px 20px 0 0;
-		margin: 0px;
-	}
-	a{
-		margin: 0 auto;
-		padding: 0px;
-	}
+.games {
+  .module {
+    position: relative;
+    overflow: hidden;
+    margin: 35px 25px ;
+    @include breakpoint(baby-bear) {
+      margin: 0 0 10px 0;
+    }
+  }
+  img {
+    border-radius: 20px 20px 0 0;
+    margin: 0px;
+  }
+  a {
+    margin: 0 auto;
+    padding: 0px;
+  }
 
-	h2{
-		text-align: center;
-		font-weight: 300px;
-		margin: -10px 0 0 0;
-		padding: 25px 0;
-		background: white;
-		color: darken($concrete, 4%);
-		font-family: "helvetica", verdana, sans-serif;
-		font-weight: 200;
-		letter-spacing: .12rem;
-		width: 100%;
-        border-radius: 0 0 20px 20px;
-		@media (max-width: 1150px) {
-			font-size: 16px;
-		}
-	}
+  h2 {
+    text-align: center;
+    font-weight: 300px;
+    margin: -10px 0 0 0;
+    padding: 25px 0;
+    background: white;
+    color: darken($concrete, 4%);
+    font-family: "helvetica", verdana, sans-serif;
+    font-weight: 200;
+    letter-spacing: .12rem;
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    @media (max-width: 1150px) {
+      font-size: 16px;
+    }
+  }
 }
 
-
-
-.cornerBand{
-	font-size: 16px;
-	text-align:center;
-	min-width: 200px;
-	top: 30px;
-	right: -50px;
-	position: absolute;
-	background: $belizehole;
-	color: white;
-	padding: 10px;
-	@include transform(rotate(45deg));
+.cornerBand {
+  font-size: 16px;
+  text-align: center;
+  min-width: 200px;
+  top: 30px;
+  right: -50px;
+  position: absolute;
+  background: $belizehole;
+  color: white;
+  padding: 10px;
+  @include transform(rotate(45deg));
 }

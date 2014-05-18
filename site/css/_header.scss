@@ -1,31 +1,26 @@
 .logo{
-  margin: 0 auto; 
+  margin: 0 auto;
 
-  
   text-indent: -9999px;
   @include breakpoint(papa-bear) {
-        background: url("../img/logo-mama.png");
-width: 1024px;
-  height: 600px;
-  background-size: 1024px 600px;
+    background: url("../img/logo-mama.png");
+    width: 1024px;
+    height: 600px;
+    background-size: 1024px 600px;
   }
   @include breakpoint(mama-bear) {
     background: url("../img/logo-mama.png");
-width: 800px;
-  height: 469px;
-  background-size: 800px 469px;
+    width: 800px;
+    height: 469px;
+    background-size: 800px 469px;
   }
   @include breakpoint(baby-bear) {
     background: url("../img/logo-baby.png");
     width: 400px;
-  height: 235px;
-  background-size: 400px 235px;
+    height: 235px;
+    background-size: 400px 235px;
   }
 }
 
-
-
-header{
-
-  
+header {
 }
