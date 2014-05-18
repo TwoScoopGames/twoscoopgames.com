@@ -1627,6 +1627,11 @@ html {
       height: 235px;
       background-size: 400px 235px; } }
 
+.bottom-band {
+  width: 100%;
+  background: #2980b9;
+  color: white; }
+
 /* structure defaults
 */
 html {
