@@ -17,7 +17,8 @@
 		{
 			"title": "Kick Bot",
 			"link": "/kickbot/",
-			"img": "/img/kickbot.png"
+			"img": "/img/kickbot.png",
+			"hoverimg": "/img/kickbot-hover.gif"
 		},
 		{
 			"title": "Apartment 213",
