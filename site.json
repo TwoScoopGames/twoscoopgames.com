@@ -1,0 +1,7 @@
+{
+	"sourceDirectory": "site",
+	"destinationDirectory": "out",
+	"data": {
+		"layout": "layout/layout.html.hbs"
+	}
+}
