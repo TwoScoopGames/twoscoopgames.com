@@ -3,10 +3,12 @@
 {{#each kickbot-comments}}
 	<div>
 		"{{comment}}"
-		{{#if link}}
-			-<a href="{{link}}">{{name}}</a>, {{date}}
-		{{else}}
-			-{{name}}, {{date}}
-		{{/if}}
+		-
+		{{~#if link~}}
+			<a href="{{link}}">{{name}}</a>
+		{{~else~}}
+			{{name}}
+		{{~/if~}}
+		, {{date}}
 	</div>
 {{/each}}
