@@ -5,5 +5,10 @@
 	"partialsDirectory": "partials",
 	"data": {
 		"layout": "layout/layout.html.hbs"
+	},
+	"pages": {
+		"site/kickbot/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs"
+		}
 	}
 }
