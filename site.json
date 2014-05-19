@@ -2,6 +2,7 @@
 	"sourceDirectory": "site",
 	"destinationDirectory": "out",
 	"dataDirectory": "data",
+	"partialsDirectory": "partials",
 	"data": {
 		"layout": "layout/layout.html.hbs"
 	}

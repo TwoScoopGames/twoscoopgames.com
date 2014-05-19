@@ -1,14 +1,5 @@
 <h2>Kick Bot</h2>
 <h3>What people are saying about Kick Bot</h3>
 {{#each kickbot-comments}}
-	<div>
-		"{{comment}}"
-		-
-		{{~#if link~}}
-			<a href="{{link}}">{{name}}</a>
-		{{~else~}}
-			{{name}}
-		{{~/if~}}
-		, {{date}}
-	</div>
+	<div>{{> comment}}</div>
 {{/each}}
