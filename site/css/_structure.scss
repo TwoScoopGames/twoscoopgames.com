@@ -116,7 +116,17 @@ $col-gutter-half: $col-gutter / 2;
 .col1-4,
 .col2-8 {
   @extend .col;
-  width: 25%;
+
+   
+    @include breakpoint(baby-bear) {
+     width: 100%;
+  }
+  @include breakpoint(mama-bear) {
+    width: 50%;
+  }
+  @include breakpoint(papa-bear) {
+      width: 25%;
+  }
 }
 
 .col3-4 {
@@ -127,7 +137,16 @@ $col-gutter-half: $col-gutter / 2;
 .col1-5,
 .col2-10 {
   @extend .col;
-  width: 20%;
+ 
+    @include breakpoint(baby-bear) {
+     width: 100%;
+  }
+  @include breakpoint(mama-bear) {
+    width: 50%;
+  }
+  @include breakpoint(papa-bear) {
+     width: 20%;
+  }
 }
 
 .col4-5,

@@ -1,0 +1,45 @@
+.quotes{
+
+
+.module{
+	padding: 10px;
+}
+	
+	.quote{
+		vertical-align:  top;
+		background: white;
+		color: $grey;
+		border-radius:4px;
+		font-style:italic;
+		display:block;
+		padding:15px 10px 10px 10px;
+		margin:5px 0;
+		position:relative;
+		height: 120px;
+	p{
+		margin: 0px;
+		width: 100%;
+		height: 70px;
+		overflow:hidden;
+	}
+		.date{
+			position:absolute;
+			bottom:0px;
+			left:0px;
+			color:white;
+			padding:5px 8px;
+			background:rgba(100,100,100,0.2);
+
+		}
+
+		.quoteSayer{
+			display:block;
+			font-weight:400;
+			color: $maroon;
+			padding:5px;
+			text-align:right;
+			position:relative
+		}
+	}
+
+}

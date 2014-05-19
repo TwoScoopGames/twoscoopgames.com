@@ -1,8 +1,15 @@
-"{{comment}}"
--
-{{~#if link~}}
-	<a href="{{link}}">{{name}}</a>
-{{~else~}}
-	{{name}}
-{{~/if~}}
-, {{date}}
+<div class="col1-4">
+	<div class="module">
+		<div class="quote">
+			<span class="date">{{date}}</span>
+			<p>"{{comment}}"</p>
+			<span class="quoteSayer"> 
+				{{#if link}}
+				-<a href="{{link}}">{{name}}</a>
+				{{else}}
+				-{{name}}
+				{{/if}}
+			</span>
+		</div>
+	</div>
+</div>
