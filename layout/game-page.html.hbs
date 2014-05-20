@@ -19,9 +19,14 @@
 		{{> footer}}
 
 		<script src="/js/vendor/jquery-1.11.0.min.js"></script>
+		<script src="/js/vendor/jquery.fitvids.js"></script>
 		<script src="/js/main.js"></script>
 		{{> google-analytics}}
 		<script>
+			$(document).ready(function(){
+				$(".fitvids").fitVids();
+			});
+
 			var quotes = makeQuotesArray($('.quote'));
 			var filtered = fisherYates(quotes, 8);
 

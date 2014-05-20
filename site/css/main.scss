@@ -34,24 +34,33 @@ Sass Minifest
   a {
     margin: 0 auto;
     padding: 0px;
-  }
-
+    color: darken($concrete, 4%);
+    text-decoration: none;
+}
   h2 {
     text-align: center;
     font-weight: 300px;
     margin: -10px 0 0 0;
     padding: 25px 0;
     background: white;
-    color: darken($concrete, 4%);
+    
     font-family: "helvetica", verdana, sans-serif;
     font-weight: 200;
     letter-spacing: .12rem;
     width: 100%;
     border-radius: 0 0 20px 20px;
+    @include transition (all .2s ease-in-out);
+    &:hover{
+      background: $belizehole;
+      color: white;
+
+    }
     @media (max-width: 1150px) {
       font-size: 16px;
     }
   }
+  
+
 }
 
 .cornerBand {
