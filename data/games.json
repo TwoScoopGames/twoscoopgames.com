@@ -1,32 +1,32 @@
-[
-	{
+{
+	"fluffykins": {
 		"title": "Mr. Fluffykins' Great Sorting Adventure",
 		"link": "/fluffykins/",
 		"img": "/img/fluffykins.png",
 		"hoverimg": "/img/fluffykins-hover.gif"
 	},
-	{
+	"blackjack": {
 		"title": "Two Scoop Blackjack",
 		"link": "/blackjack/",
 		"img": "/img/blackjack.png",
 		"cornerBand": "COMING SOON"
 	},
-	{
+	"kickbot": {
 		"title": "Kick Bot",
 		"link": "/kickbot/",
 		"img": "/img/kickbot.png",
 		"hoverimg": "/img/kickbot-hover.gif"
 	},
-	{
+	"apartment213": {
 		"title": "Apartment 213",
 		"link": "/apartment213/",
 		"img": "/img/apartment213.png",
 		"hoverimg": "/img/apartment213-hover.gif"
 	},
-	{
+	"scurry": {
 		"title": "Scurry",
 		"link": "/scurry/",
 		"img": "/img/scurry.png",
 		"cornerBand": "COMING SOON"
 	}
-]
+}
