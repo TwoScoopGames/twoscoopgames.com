@@ -1,16 +1,22 @@
+{{#with games.kickbot}}
 <div class="top row">
 	<div class="col1-2">
-		<h1>Game Title</h1>
-		<h2>Slogan slogan slogan slogan slogan slogan</h2>
-		<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at felis lacus, et scelerisque tortor. Praesent ornare massa at tortor ultricies bibendum viverra odio pretium. Sed et turpis eget orci tempus vestibulum. Nunc vel lectus ut ligula facilisis eleifend sit amet et massa. </p>
+		<h1>{{title}}</h1>
+		{{#if tagline}}
+			<h2>{{tagline}}</h2>
+		{{/if}}
+		<p>{{description}}</p>
 		<button class="action">button text</button>
 	</div>
 	<div class="col1-2">
-		<div class="fitvids">
-			<iframe width="640" height="360" src="//www.youtube.com/embed/ek1yJr6Od2I?rel=0" frameborder="0" allowfullscreen></iframe>
-		</div>
+		{{#if video}}
+			<div class="fitvids">
+				<iframe width="640" height="360" src="{{video}}" frameborder="0" allowfullscreen></iframe>
+			</div>
+		{{/if}}
 	</div>
 </div><!-- top row -->
+{{/with}}
 
 <div class="screenshotArea row">
 	<div class="carousel">

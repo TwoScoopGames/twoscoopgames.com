@@ -15,7 +15,10 @@
 		"title": "Kick Bot",
 		"link": "/kickbot/",
 		"img": "/img/kickbot.png",
-		"hoverimg": "/img/kickbot-hover.gif"
+		"hoverimg": "/img/kickbot-hover.gif",
+		"tagline": "tagline tagline",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at felis lacus, et scelerisque tortor. Praesent ornare massa at tortor ultricies bibendum viverra odio pretium. Sed et turpis eget orci tempus vestibulum. Nunc vel lectus ut ligula facilisis eleifend sit amet et massa.",
+		"video": "//www.youtube.com/embed/ek1yJr6Od2I?rel=0"
 	},
 	"apartment213": {
 		"title": "Apartment 213",
