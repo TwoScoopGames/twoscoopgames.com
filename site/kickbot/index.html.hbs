@@ -1,12 +1,14 @@
 {{#with games.kickbot}}
 <div class="top row">
 	<div class="col1-2">
-		<h1>{{title}}</h1>
-		{{#if tagline}}
-			<h2>{{tagline}}</h2>
-		{{/if}}
-		<p>{{description}}</p>
-		<button class="action">button text</button>
+		<div class="description module">
+			<h1>{{title}}</h1>
+			{{#if tagline}}
+				<h2>{{tagline}}</h2>
+			{{/if}}
+			<p>{{description}}</p>
+			<button class="action">Play Now!</button>
+		</div>
 	</div>
 	<div class="col1-2">
 		{{#if video}}
