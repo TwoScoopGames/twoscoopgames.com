@@ -1,38 +1,32 @@
 [
-	[
-		{
-			"title": "Mr. Fluffykins' Great Sorting Adventure",
-			"link": "/fluffykins/",
-			"img": "/img/fluffykins.png",
-			"hoverimg": "/img/fluffykins-hover.gif"
-		},
-		{
-			"title": "Two Scoop Blackjack",
-			"link": "/blackjack/",
-			"img": "/img/blackjack.png",
-			"cornerBand": "COMING SOON"
-		}
-	],
-	[
-		{
-			"title": "Kick Bot",
-			"link": "/kickbot/",
-			"img": "/img/kickbot.png",
-			"hoverimg": "/img/kickbot-hover.gif"
-		},
-		{
-			"title": "Apartment 213",
-			"link": "/apartment213/",
-			"img": "/img/apartment213.png",
-			"hoverimg": "/img/apartment213-hover.gif"
-		}
-	],
-	[
-		{
-			"title": "Scurry",
-			"link": "/scurry/",
-			"img": "/img/scurry.png",
-			"cornerBand": "COMING SOON"
-		}
-	]
+	{
+		"title": "Mr. Fluffykins' Great Sorting Adventure",
+		"link": "/fluffykins/",
+		"img": "/img/fluffykins.png",
+		"hoverimg": "/img/fluffykins-hover.gif"
+	},
+	{
+		"title": "Two Scoop Blackjack",
+		"link": "/blackjack/",
+		"img": "/img/blackjack.png",
+		"cornerBand": "COMING SOON"
+	},
+	{
+		"title": "Kick Bot",
+		"link": "/kickbot/",
+		"img": "/img/kickbot.png",
+		"hoverimg": "/img/kickbot-hover.gif"
+	},
+	{
+		"title": "Apartment 213",
+		"link": "/apartment213/",
+		"img": "/img/apartment213.png",
+		"hoverimg": "/img/apartment213-hover.gif"
+	},
+	{
+		"title": "Scurry",
+		"link": "/scurry/",
+		"img": "/img/scurry.png",
+		"cornerBand": "COMING SOON"
+	}
 ]

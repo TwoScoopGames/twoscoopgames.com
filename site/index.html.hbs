@@ -1,6 +1,6 @@
-{{#each games}}
+{{#each-row 2 games}}
 	<div class="games row">
-		{{#each this}}
+		{{#each}}
 			<div class="col1-2">
 				<div class="module">
 					<a href="{{link}}">
@@ -19,4 +19,4 @@
 			</div>
 		{{/each}}
 	</div>
-{{/each}}
+{{/each-row}}
