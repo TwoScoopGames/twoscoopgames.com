@@ -30,7 +30,13 @@
 				"link": "http://twodashstash.com/2014/05/lovehate-relationship-kick-bot/",
 				"linkText": "Read the full Article"
 			}
-		]
+		],
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/kickbot",
+			"chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+			"ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
+			"github": "http://github.com/ericlathrop/splat"
+		}
 	},
 	"apartment213": {
 		"title": "Apartment 213",
