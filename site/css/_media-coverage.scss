@@ -3,6 +3,7 @@
 }
 
 .media{
+	margin: 0 4px;
 	color: darken($concrete, 4%);
 	padding: 10px;
 	background: white;
@@ -35,5 +36,7 @@
 	}
 	h3{
 		font-weight: 200;
+		font-size: 18px;
 	}
+	
 }

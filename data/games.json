@@ -29,7 +29,23 @@
 				"description": "Kick Bot is a sadistic and masochistic experience that I absolutely love.",
 				"link": "http://twodashstash.com/2014/05/lovehate-relationship-kick-bot/",
 				"linkText": "Read the full Article"
+			},
+			{
+				"title": "Larry Chupacabra Flappy Jam Finale Video",
+				"image": "/img/kickbot-larrychupacabra.png",
+				"description": "Kick Bot featured in FlappyJam lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
+				"linkText": "Watch the video"
+			},
+			{
+				"title": "CinnamonToastKen Flappy Jam Video",
+				"image": "/img/kickbot-cinnamontoastken.png",
+				"description": "Kick Bot featured in FlappyJam lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"link": "http://youtu.be/FPalexORVYI?t=3m28s",
+				"linkText": "Watch the video"
 			}
+			
+			
 		],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/kickbot",
