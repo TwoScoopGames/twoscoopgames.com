@@ -13,12 +13,19 @@
 	},
 	"kickbot": {
 		"title": "Kick Bot",
+		"logo": "/img/kickbot-logo.png",
+		"logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
 		"link": "/kickbot/",
 		"img": "/img/kickbot.png",
 		"hoverimg": "/img/kickbot-hover.gif",
 		"tagline": "A game that will really kick your bot!",
 		"description": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
-		"video": "//www.youtube.com/embed/ek1yJr6Od2I?rel=0"
+		"video": "ek1yJr6Od2I",
+		"screenshot": "/img/kickbot-ss-0.png",
+		"screenshot": "/img/kickbot-ss-1.png",
+		"screenshot": "/img/kickbot-ss-2.png",
+		"screenshot": "/img/kickbot-ss-3.png",
+		"screenshot": "/img/kickbot-ss-4.png"
 	},
 	"apartment213": {
 		"title": "Apartment 213",

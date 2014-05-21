@@ -4,6 +4,23 @@
   color: white;
 }
 
+.game-page{
+
+.bottom-band {
+    position: relative;
+    @include breakpoint(papa-bear) {
+     top: 150px;
+   }
+   @include breakpoint(mama-bear) {
+     top: 150px;
+   }
+   @include breakpoint(baby-bear) {
+    top: 200px;
+  }
+}
+}
+
+
 footer {
   @extend .pageWidth;
   margin: 0 auto;
@@ -31,3 +48,7 @@ footer {
   padding: 15px;
   text-align: center;
 }
+
+
+
+

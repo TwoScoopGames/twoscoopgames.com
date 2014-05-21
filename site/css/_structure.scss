@@ -66,7 +66,7 @@ $col-gutter-half: $col-gutter / 2;
   }
 
   img{
-    max-width: 100%;
+    width: 100%;
   }
 }
 
@@ -103,14 +103,32 @@ $col-gutter-half: $col-gutter / 2;
 .col1-3,
 .col3-9 {
   @extend .col;
-  width: 33.3333333333%;
+ 
+    @include breakpoint(baby-bear) {
+     width: 100%;
+  }
+  @include breakpoint(mama-bear) {
+    width: 100%;
+  }
+  @include breakpoint(papa-bear) {
+      width: 33.3333333333%;
+  }
 }
 
 .col2-3,
 .col4-6,
 .col6-9 {
   @extend .col;
-  width: 66.6666666667%;
+
+    @include breakpoint(baby-bear) {
+     width: 100%;
+  }
+  @include breakpoint(mama-bear) {
+    width: 100%;
+  }
+  @include breakpoint(papa-bear) {
+      width: 66.6666666667%;
+  }
 }
 
 .col1-4,

@@ -7,14 +7,18 @@ Sass Minifest
 @import"colors";
 @import"typography";
 @import"font-awesome";
-@import"header";
+
 
 @import"social";
 @import"defaults";
+@import"header";
 @import"quotes";
 @import"banner-buttons";
 @import"footer";
 @import"game-page-top";
+
+@import"store-buttons";
+@import"flex-slider";
 
 .row {
 }

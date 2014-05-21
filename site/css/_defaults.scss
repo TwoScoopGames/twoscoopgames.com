@@ -57,16 +57,16 @@ button, input {
 }
 
 .pageWidth {
-  width: 100%;
-  // @include breakpoint(baby-bear) {
-    //   width: 100%;
-  // }
-  // @include breakpoint(mama-bear) {
-    //   width: 95%;
-  // }
-  // @include breakpoint(papa-bear) {
-    //   width: 80%;
-  // }
+
+  @include breakpoint(baby-bear) {
+      width: 100%;
+  }
+  @include breakpoint(mama-bear) {
+      width: 95%;
+  }
+  @include breakpoint(papa-bear) {
+      width: 90%;
+  }
 }
 
 .page {
@@ -89,25 +89,7 @@ button, input {
   margin: 0 auto;
 }
 
-ruffle {
-  @extend .pageWidth;
-  @include breakpoint(papa-bear) {
-    margin: -200px auto 0 auto;
-  }
-  @include breakpoint(mama-bear) {
-    margin: -100px auto 0 auto;
-  }
-  @include breakpoint(baby-bear) {
-    margin: -55px auto 0 auto;
-  }
 
-  Height: 9px;
-  background: url('../img/ruffle-sm.png');
-  content: '';
-  top: 0px;
-  display: block;
-  position: relative;
-}
 
 .col1-2 {
   @include breakpoint(baby-bear) {

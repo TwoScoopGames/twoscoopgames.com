@@ -1,16 +1,26 @@
-.description.module{
+.description{
 	margin: 15px;
 	padding: 15px;
-	border-radius: 20px;
-	background: white;
-	color: darken($concrete, 4%);
+	
+	color: white;
+	.col1-3{
+	}
+		.col2-3{
+			padding: 10px;
+	}
+	.gameLogo{
+		width: 100%;
+		max-width: 250px;
+		margin: 0 auto;
+		display: block;
+			border-radius: 20px;
+	}
 	h1{ 
+		
 		font-family: "helvetica", verdana, sans-serif;
 		font-weight: 200;
 		letter-spacing: .12rem;
-		@media (max-width: 1150px) {
-			font-size: 16px;
-		}
+		
 	}
 	h2{
 		font-family: "helvetica", verdana, sans-serif;
@@ -20,7 +30,7 @@
 	button{
 		margin: 0 auto;
 		display: block;
-padding: 5px 35px;45
+padding: 10px 35px;
 font-size: 25px;
         border-radius: 10px;
 @include linear-gradient( lighten($belizehole, 5%), $belizehole);
@@ -28,4 +38,16 @@ font-size: 25px;
 border: 1px solid $belizehole;
 color: white;
 	}
+	.row{
+		margin: 0 auto;
+		.col1-3{
+			text-align: center;
+		}
+	}
+}
+
+
+#carousel{
+	max-width: 1100px;
+	margin: 0 auto; 
 }

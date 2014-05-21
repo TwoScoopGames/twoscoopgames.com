@@ -20,7 +20,69 @@
     height: 235px;
     background-size: 400px 235px;
   }
+  &.small{
+   background: url("../img/logo-baby.png");
+   width: 204px;
+   height: 120px;
+   background-size: 204px 120px;
+ }
 }
 
 header {
+}
+
+
+.topNav{
+  width: 100%;
+  background: $belizehole;
+  position: fixed;
+  z-index: 9999;
+  color: white;
+
+
+  ul{
+    margin: 0 auto; 
+    padding: 0px;
+    text-align: center;
+    li{
+      margin: 12px  15px 12px 15px;
+      list-style-type: none;
+      display: inline-block;
+      a{
+        font-size: 32px;
+        color: white;
+         padding: 12px 0 0 0;
+          width:55px;
+          height:55px;
+          display: block;
+          border-radius: 55px;
+          background: darken($belizehole, 10%);
+          text-align: center;
+          &:hover{
+            background: white;
+            color: darken($belizehole, 10%);
+          }
+
+      }
+    }
+  }
+}
+
+
+
+.gamePage{
+  margin: 0 auto;
+  position: relative;
+  @include breakpoint(papa-bear) {
+   top: 150px;
+   width: 85%;
+ }
+ @include breakpoint(mama-bear) {
+   top: 150px;
+   width: 95%;
+ }
+ @include breakpoint(baby-bear) {
+  top: 200px;
+  width: 100%;
+}
 }

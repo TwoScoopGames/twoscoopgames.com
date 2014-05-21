@@ -1,38 +1,106 @@
 {{#with games.kickbot}}
 <div class="top row">
 	<div class="col1-2">
-		<div class="description module">
-			<h1>{{title}}</h1>
-			{{#if tagline}}
+		<div class="description row">
+			<div class="col1-3">
+				{{#if logo}}
+				<img class="gameLogo" src="{{logo}}" alt="{{logo-alt}}"/>
+				{{/if}}
+			</div>
+			<div class="col2-3">
+				{{#if title}}
+				<h1>{{title}}</h1>
+				{{/if}}
+				{{#if tagline}}
 				<h2>{{tagline}}</h2>
-			{{/if}}
-			<p>{{description}}</p>
-			<button class="action">Play Now!</button>
+				{{/if}}
+				<p>{{description}}</p>
+				<div class="gameSocial row">
+					<span class="col1-2">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-via="TwoScoopGames" data-size="large" data-hashtags="kickbotgame">Tweet</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					</span>
+					<span class="col1-2">
+						<div class="fb-like" data-href="http://kickbotgame.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+					</span>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="col1-2">
-		{{#if video}}
-			<div class="fitvids">
-				<iframe width="640" height="360" src="{{video}}" frameborder="0" allowfullscreen></iframe>
-			</div>
-		{{/if}}
+
+
+		<div id="slider" class="flexslider">
+			<ul class="slides">
+				{{#if video}}
+				<li class="fitvids">
+					<iframe width="640" height="360" src="//www.youtube.com/embed/{{video}}?rel=0" frameborder="0" allowfullscreen></iframe>
+				</li>
+				{{/if}}
+				{{#each screenshot}}
+				<li>
+					<img src="{{screenshot}}" />
+				</li>
+				{{/each}}
+			</ul>
+		</div>
 	</div>
 </div><!-- top row -->
-{{/with}}
+
+<div class="buttons row">
+	<a class="storeBtn playNow" href="http://twoscoopgames.com/kickbot" target="_blank">
+		<img src="http://twoscoopgames.com/img/play.png"/>
+		<div class=" bar alwaysOut ">
+			<span class="big">Play Now</span>
+			<span>in your browser</span>
+		</div> <!-- .slideOut -->
+	</a> <!-- .storeBtn -->
+
+	<a class="storeBtn chrome" href="https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk" target="_blank">
+		<img src="http://twoscoopgames.com/img/chrome.png"/>
+		<div class=" bar alwaysOut ">
+			<span class="big">Download</span>
+			<span>Free on Chrome Web Store</span>
+		</div> <!-- .slideOut -->
+	</a> <!-- .storeBtn -->
+
+	<a class="storeBtn ios" href="https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4" target="_blank">
+		<img src="http://twoscoopgames.com/img/apple.png"/>
+		<div class=" bar alwaysOut ">
+			<span class="big">Download</span>
+			<span>Free on iOS App Store</span>
+		</div> <!-- .slideOut -->
+	</a> <!-- .storeBtn -->
+
+	<a class="storeBtn gitHub " href="http://github.com/ericlathrop/splat" target="_blank">
+		<img src="http://twoscoopgames.com/img/github.png"/>
+		<div class=" bar alwaysOut ">
+			<span class="big">Open Source</span>
+			<span>Made with Splat Engine</span>
+		</div> <!-- .slideOut -->
+	</a> <!-- .storeBtn -->
+</div>
+
+
 
 <div class="screenshotArea row">
-	<div class="carousel">
-		<div class='arrowLeft arrow' data-direction='back'></div>
-		<ul class="schreenshots">
-			<li class="screenshot col1-4"><img src="http://placekitten.com/300/200" alt="screenshot alt text"></li>
-			<li class="screenshot col1-4"><img src="http://placekitten.com/300/200" alt="screenshot alt text"></li>
-			<li class="screenshot col1-4"><img src="http://placekitten.com/300/200" alt="screenshot alt text"></li>
-			<li class="screenshot col1-4"><img src="http://placekitten.com/300/200" alt="screenshot alt text"></li>
-		</ul><!-- . schreenshots  -->
-		<div class='arrowRight arrow' data-direction='forward'></div>
-	</div><!-- . carousel  -->
-</div><!-- screenshot row -->
+	<div id="carousel" class="flexslider">
+		<ul class="slides">
+			<li>
+				<img src="http://i1.ytimg.com/vi/{{video}}/0.jpg" alt="screenshot alt text">
+			</li>
 
+			{{#each screenshot}}
+			<li>
+				<img src="{{screenshot}}" />
+			</li>
+			{{/each}}
+
+			<!-- items mirrored twice, total of 12 -->
+		</ul>
+	</div><!-- carousel  -->
+</div><!-- screenshot row -->
+{{/with}}
 <div class="mediaCoverage row">
 	<div class="media col 1-6">
 		<img src="#" alt="media image alt text">
@@ -45,7 +113,7 @@
 <h3>What people are saying about Kick Bot</h3>
 <div class="quotes row">
 	{{#each kickbot-comments}}
-		{{> comment}}
+	{{> comment}}
 	{{/each}}
 </div>
 

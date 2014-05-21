@@ -1,0 +1,145 @@
+.buttons.row{
+	text-align: center;
+
+}
+.storeBtn{
+	 @include breakpoint(baby-bear) {
+	 	display: block;
+      margin: 5px auto;
+
+    }
+     @include breakpoint(papa-bear) {
+      margin: 10px;
+      display: inline-block;
+        border-radius: 15px;
+    }
+     @include breakpoint(mama-bear) {
+      margin: 10px;
+      display: inline-block;
+        border-radius: 15px;
+    }
+	vertical-align: top;
+	position: relative;
+	
+	
+	height: 65px;
+	text-decoration: none;
+	
+	padding: 10px 10px 10px 55px;
+	font-size: 14px;
+
+      
+	span{
+		display: block;
+		color: white;
+		&.big{
+			font-size: 24px;
+			margin: 0px;
+		}
+	}
+	&:after{
+		clear: both;
+		display: table;
+		content:"";
+	}
+	img{
+		top: 0px;
+		left: 0px;
+		width: 60px;
+		height: 60px;
+		position: absolute;
+
+		display: inline-block;
+	}
+
+	.slideOut{
+		padding: 8px 15px;
+		position: absolute;
+		display: none;
+		height: 65px;
+		left: -300px;
+		top: 0px;
+		width: 270px;
+	}
+	&:hover{
+		.slideOut{
+			position: absolute;
+			display: inline-block;
+			z-index: 999;
+			left: 65px;
+		}
+	}
+
+	.bar{
+	display: inline-block;
+	position: relative;
+	
+	width: 200px;
+}
+
+} //.storebtn
+
+
+.alwaysOut{
+	margin-left: 8px;
+}
+$githubColor: #b4d88f;
+.gitHub{
+	background: $githubColor;
+	border: 1px solid darken($githubColor, 10%);
+	&:hover{
+		background: darken($githubColor, 10%);
+	}
+}
+$playNowColor: #901940;
+.playNow{
+	background: $playNowColor;
+	border: 1px solid darken($playNowColor, 10%);
+	&:hover{
+		background: darken($playNowColor, 10%);
+	}
+}
+
+$chromeColor: #fcd246;
+
+.chrome{
+	background: $chromeColor;
+	border: 1px solid darken($chromeColor, 10%);
+	&:hover{
+		background: darken($chromeColor, 10%);
+	}
+}
+
+$iosColor: #3B5A9B;
+.ios{
+	background: $iosColor;
+	border: 1px solid darken($iosColor, 10%);
+	&:hover{
+		background: darken($iosColor, 10%);
+	}
+}
+
+$androidColor: #A2C437;
+.android{
+	background: $androidColor;
+	border: 1px solid darken($androidColor, 10%);
+	&:hover{
+		background: darken($androidColor, 10%);
+	}
+}
+$firefoxColor: #df7743;
+.firefox{
+	background: $firefoxColor;
+	border: 1px solid darken($firefoxColor, 10%);
+	&:hover{
+		background: darken($firefoxColor, 10%);
+	}
+}
+$windows8Color: #00ACED;
+.windows8{
+	background: $windows8Color;
+	border: 1px solid darken($windows8Color, 10%);
+	&:hover{
+		background: darken($windows8Color, 10%);
+	}
+}
