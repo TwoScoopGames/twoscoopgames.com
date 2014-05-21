@@ -21,11 +21,7 @@
 		"tagline": "A game that will really kick your bot!",
 		"description": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
 		"video": "ek1yJr6Od2I",
-		"screenshot": "/img/kickbot-ss-0.png",
-		"screenshot": "/img/kickbot-ss-1.png",
-		"screenshot": "/img/kickbot-ss-2.png",
-		"screenshot": "/img/kickbot-ss-3.png",
-		"screenshot": "/img/kickbot-ss-4.png"
+		"screenshots": [ "/img/kickbot-ss-0.png", "/img/kickbot-ss-1.png", "/img/kickbot-ss-2.png", "/img/kickbot-ss-3.png", "/img/kickbot-ss-4.png" ]
 	},
 	"apartment213": {
 		"title": "Apartment 213",
