@@ -9,10 +9,10 @@
 			</div>
 			<div class="col2-3">
 				{{#if title}}
-				<h1>{{title}}</h1>
+					<h1>{{title}}</h1>
 				{{/if}}
 				{{#if tagline}}
-				<h2>{{tagline}}</h2>
+					<h2>{{tagline}}</h2>
 				{{/if}}
 				<p>{{description}}</p>
 				<div class="gameSocial row">
@@ -28,8 +28,6 @@
 		</div>
 	</div>
 	<div class="col1-2">
-
-
 		<div id="slider" class="flexslider">
 			<ul class="slides">
 				{{#if video}}
@@ -100,10 +98,11 @@
 		</ul>
 	</div><!-- carousel  -->
 </div><!-- screenshot row -->
+
 <div class="mediaCoverage row">
-{{#each mediaCoverage}}
-	{{> mediaCoverage}}
-{{/each}}
+	{{#each mediaCoverage}}
+		{{> mediaCoverage}}
+	{{/each}}
 </div>
 
 {{/with}}
@@ -111,7 +110,7 @@
 <h3>What people are saying about Kick Bot</h3>
 <div class="quotes row">
 	{{#each kickbot-comments}}
-	{{> comment}}
+		{{> comment}}
 	{{/each}}
 </div>
 
