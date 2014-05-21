@@ -5,18 +5,17 @@
 	color: white;
 	.col1-3{
 	}
-		.col2-3{
-			padding: 10px;
+	.col2-3{
+		padding: 10px;
 	}
 	.gameLogo{
 		width: 100%;
 		max-width: 250px;
 		margin: 0 auto;
 		display: block;
-			border-radius: 20px;
+		border-radius: 20px;
 	}
 	h1{ 
-		
 		font-family: "helvetica", verdana, sans-serif;
 		font-weight: 200;
 		letter-spacing: .12rem;
@@ -30,13 +29,13 @@
 	button{
 		margin: 0 auto;
 		display: block;
-padding: 10px 35px;
-font-size: 25px;
-        border-radius: 10px;
-@include linear-gradient( lighten($belizehole, 5%), $belizehole);
-@include box-shadow(#87c1dd 0 1px 0 inset);
-border: 1px solid $belizehole;
-color: white;
+		padding: 10px 35px;
+		font-size: 25px;
+		border-radius: 10px;
+		@include linear-gradient( lighten($belizehole, 5%), $belizehole);
+		@include box-shadow(#87c1dd 0 1px 0 inset);
+		border: 1px solid $belizehole;
+		color: white;
 	}
 	.row{
 		margin: 0 auto;

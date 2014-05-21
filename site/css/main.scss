@@ -16,7 +16,7 @@ Sass Minifest
 @import"banner-buttons";
 @import"footer";
 @import"game-page-top";
-
+@import"media-coverage";
 @import"store-buttons";
 @import"flex-slider";
 
@@ -58,14 +58,11 @@ Sass Minifest
     &:hover{
       background: $belizehole;
       color: white;
-
     }
     @media (max-width: 1150px) {
       font-size: 16px;
     }
   }
-  
-
 }
 
 .cornerBand {
