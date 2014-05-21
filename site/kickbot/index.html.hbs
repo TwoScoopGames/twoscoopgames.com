@@ -4,7 +4,7 @@
 		<div class="description row">
 			<div class="col1-3">
 				{{#if logo}}
-				<img class="gameLogo" src="{{logo}}" alt="{{logo-alt}}"/>
+					<img class="gameLogo" src="{{logo}}" alt="{{logo-alt}}"/>
 				{{/if}}
 			</div>
 			<div class="col2-3">
@@ -31,14 +31,14 @@
 		<div id="slider" class="flexslider">
 			<ul class="slides">
 				{{#if video}}
-				<li class="fitvids">
-					<iframe width="640" height="360" src="//www.youtube.com/embed/{{video}}?rel=0" frameborder="0" allowfullscreen></iframe>
-				</li>
+					<li class="fitvids">
+						<iframe width="640" height="360" src="//www.youtube.com/embed/{{video}}?rel=0" frameborder="0" allowfullscreen></iframe>
+					</li>
 				{{/if}}
 				{{#each screenshots}}
-				<li>
-					<img src="{{this}}" />
-				</li>
+					<li>
+						<img src="{{this}}" />
+					</li>
 				{{/each}}
 			</ul>
 		</div>
@@ -57,9 +57,9 @@
 			</li>
 
 			{{#each screenshots}}
-			<li>
-				<img src="{{this}}" />
-			</li>
+				<li>
+					<img src="{{this}}" />
+				</li>
 			{{/each}}
 
 			<!-- items mirrored twice, total of 12 -->
