@@ -14,7 +14,7 @@
 	a{
 		text-decoration: none;
 		color: white;
-		background: $maroon;
+		background: $primary;
 		test-decoration: underline;
 		display: block;
 		width: intrinsic;
@@ -30,7 +30,7 @@
 		border: 1px solid transparent;
 		border-radius: 4px;
 		@include user-select(none);
-		@include linear-gradient(lighten($maroon, 5%), $maroon);
+		@include linear-gradient(lighten($primary, 5%), $primary);
 		box-shadow: 0 1px 4px rgba(0,0,0,.2);
 	}
 	h3{

@@ -28,12 +28,13 @@ Sass Minifest
     position: relative;
     overflow: hidden;
     margin: 35px 25px ;
+    border-radius: 20px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.2);
     @include breakpoint(baby-bear) {
       margin: 0 0 10px 0;
     }
   }
   img {
-    border-radius: 20px 20px 0 0;
     margin: 0px;
   }
   a {
@@ -53,10 +54,10 @@ Sass Minifest
     font-weight: 200;
     letter-spacing: .12rem;
     width: 100%;
-    border-radius: 0 0 20px 20px;
+ 
     @include transition (all .2s ease-in-out);
     &:hover{
-      background: $belizehole;
+      background: $primary;
       color: white;
     }
     @media (max-width: 1150px) {
@@ -72,7 +73,7 @@ Sass Minifest
   top: 30px;
   right: -50px;
   position: absolute;
-  background: $belizehole;
+  background: $primary;
   color: white;
   padding: 10px;
   @include transform(rotate(45deg));

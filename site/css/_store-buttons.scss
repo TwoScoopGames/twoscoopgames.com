@@ -95,10 +95,10 @@ $githubColor: #b4d88f;
 }
 $playNowColor: #901940;
 .playNow{
-	border: 1px solid darken($playNowColor, 10%);
-	@include linear-gradient( lighten($playNowColor, 5%), $playNowColor );
-	&:hover{ background: lighten($playNowColor, 10%); }
-	&:active{ background: darken($playNowColor, 10%); }
+	border: 1px solid darken($primary, 10%);
+	@include linear-gradient( lighten($primary, 5%), $primary );
+	&:hover{ background: lighten($primary, 10%); }
+	&:active{ background: darken($primary, 10%); }
 }
 
 $chromeColor: #fcd246;

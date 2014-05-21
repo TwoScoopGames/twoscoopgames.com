@@ -34,7 +34,10 @@ header {
 
 .topNav{
   width: 100%;
-  background: $belizehole;
+
+  @include linear-gradient($primary, lighten($primary, 2%));
+  border-bottom: 1px solid darken($primary, 2%);
+  box-shadow: 0 1px 4px rgba(0,0,0,.3);
   position: fixed;
   z-index: 9999;
   color: white;
@@ -56,11 +59,13 @@ header {
           height:55px;
           display: block;
           border-radius: 55px;
-          background: darken($belizehole, 10%);
+          border: 1px solid darken($primary,2%);
+          @include linear-gradient($primary, darken($primary,1%));
+          box-shadow: 0 1px 2px rgba(0,0,0,.1);
           text-align: center;
           &:hover{
             background: white;
-            color: darken($belizehole, 10%);
+            color: darken($primary, 10%);
           }
 
       }
@@ -84,5 +89,27 @@ header {
  @include breakpoint(baby-bear) {
   top: 200px;
   width: 100%;
+  }
 }
+
+
+
+.shareTitle{
+  text-align: center;
+color: white;
+
+border-radius: 5px 5px 0 0;
+display: block;
+margin: 8px auto 0 auto;
+width: 400px;
+font-size: 18px;
+padding: 4px;
+}
+
+.share{
+
+display: block;
+margin: 0 auto 8px auto;
+width: 400px;
+        border-radius:  0 0 5px 5px;
 }
