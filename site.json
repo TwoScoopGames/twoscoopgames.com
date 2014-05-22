@@ -5,11 +5,29 @@
 	"partialsDirectory": "partials",
 	"helpersDirectory": "helpers",
 	"data": {
-		"layout": "layout/layout.html.hbs"
+		"layout": "layout/layout.html.hbs",
+		"title": "Two Scoop Games - Independant Games Studio"
 	},
 	"pages": {
+		"site/apartment213/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "Apartment 213 by Two Scoop Games"
+		},
+		"site/blackjack/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "Chromecast Blackjack by Two Scoop Games"
+		},
+		"site/fluffykins/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "Mr. Fluffykins' Great Sorting Adventure by Two Scoop Games"
+		},
 		"site/kickbot/index.html.hbs": {
-			"layout": "layout/game-page.html.hbs"
+			"layout": "layout/game-page.html.hbs",
+			"title": "Kick Bot by Two Scoop Games"
+		},
+		"site/scurry/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "Scurry by Two Scoop Games"
 		}
 	}
 }
