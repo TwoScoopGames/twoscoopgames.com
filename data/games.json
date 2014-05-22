@@ -44,8 +44,6 @@
 				"link": "http://youtu.be/FPalexORVYI?t=3m28s",
 				"linkText": "Watch the video"
 			}
-			
-			
 		],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/kickbot",
@@ -64,6 +62,8 @@
 		"title": "Scurry",
 		"link": "/scurry/",
 		"img": "/img/scurry.png",
-		"cornerBand": "COMING SOON"
+		"cornerBand": "COMING SOON",
+		"tagline": "Run, jump, survive.",
+		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to go splat! This game is still in development, but you can try it out for yourself now using our current test build, or wait for the final version."
 	}
 }
