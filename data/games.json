@@ -87,12 +87,14 @@
 		"mediaCoverage": [
 			{
 				"title": "Global Game Jam 2014",
+				"image": "/img/apt213-ggj14.png",
 				"description": "The official Global Game Jam page for Apartment 213.",
 				"link": "http://globalgamejam.org/2014/games/apartment-213",
 				"linkText": "Global Game Jam 2014"
 			},
 			{
 				"title": "iDubbbzTV Global Game Jam Video 2014",
+				"image": "/img/apt213-idubbbztv.png",
 				"description": "Apartment 213 is featured in a Global Game Jam 2014 lineup video, check it out and don't forget to like, comment, and subscribe! (Caution: STRONG LANGUAGE)",
 				"link": "https://www.youtube.com/watch?v=wRZ0c3bgpu8",
 				"linkText": "Watch the video"
