@@ -70,9 +70,11 @@
 	</div><!-- carousel  -->
 </div><!-- screenshot row -->
 
-<h3>Media Coverage</h3>
-<div class="mediaCoverage row">
-	{{#each mediaCoverage}}
-		{{> mediaCoverage}}
-	{{/each}}
-</div>
+{{#if mediaCoverage}}
+	<h3>Media Coverage</h3>
+	<div class="mediaCoverage row">
+		{{#each mediaCoverage}}
+			{{> mediaCoverage}}
+		{{/each}}
+	</div>
+{{/if}}
