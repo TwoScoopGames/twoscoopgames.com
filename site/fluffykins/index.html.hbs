@@ -1,1 +1,8 @@
 {{>game-page games.fluffykins}}
+
+<h3>What people are saying about Mr. Fluffykins</h3>
+<div class="quotes row">
+	{{#each fluffykins-comments}}
+		{{> comment}}
+	{{/each}}
+</div>
