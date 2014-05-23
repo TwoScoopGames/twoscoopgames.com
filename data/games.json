@@ -97,6 +97,7 @@
 			},
 			{
 				"title": "Flappy Jam",
+				"image": "/img/kickbot-flappyjam.png",
 				"description": "The official Flappy Jam page for Kick Bot.",
 				"link": "http://itch.io/jam/flappyjam/rate/2676",
 				"linkText": "Flappy Jam"
