@@ -45,6 +45,12 @@
 				"description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "http://youtu.be/FPalexORVYI?t=3m28s",
 				"linkText": "Watch the video"
+			},
+			{
+				"title": "Flappy Jam",
+				"description": "The official Flappy Jam page for Kick Bot.",
+				"link": "http://itch.io/jam/flappyjam/rate/2676",
+				"linkText": "Flappy Jam"
 			}
 		],
 		"storeButtons": {
