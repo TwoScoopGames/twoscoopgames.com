@@ -1,14 +1,17 @@
 {
 	"fluffykins": {
 		"title": "Mr. Fluffykins' Great Sorting Adventure",
+		"logo": "/img/fluffykins-logo.png",
 		"link": "/fluffykins/",
 		"img": "/img/fluffykins.png",
 		"hoverimg": "/img/fluffykins-hover.gif",
 		"tagline": "Ludum Dare 29",
 		"description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can!",
+		"screenshots": [ "/img/fluffykins-ss-0.png", "/img/fluffykins-ss-1.png", "/img/fluffykins-ss-2.png", "/img/fluffykins-ss-3.png", "/img/fluffykins-ss-4.png", "/img/fluffykins-ss-5.png" ],
 		"mediaCoverage": [
 			{
 				"title": "Ludum Dare 29",
+				"image": "/img/fluffykins-ludumdare.png",
 				"description": "The official Ludum Dare page for Mr. Fluffykins.",
 				"link": "http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37347",
 				"linkText": "Ludum Dare 29"
@@ -78,6 +81,7 @@
 	},
 	"apartment213": {
 		"title": "Apartment 213",
+		"logo": "/img/apt213-logo.png",
 		"link": "/apartment213/",
 		"img": "/img/apartment213.png",
 		"hoverimg": "/img/apartment213-hover.gif",
@@ -107,11 +111,13 @@
 	},
 	"scurry": {
 		"title": "Scurry",
+		"logo": "/img/scurry-logo.png",
 		"link": "/scurry/",
 		"img": "/img/scurry.png",
 		"cornerBand": "COMING SOON",
 		"tagline": "Run, jump, survive.",
 		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to go splat! This game is still in development, but you can try it out for yourself now using our current test build, or wait for the final version.",
+		"screenshots": [ "/img/scurry-ss-0.png", "/img/scurry-ss-1.png", "/img/scurry-ss-2.png", "/img/scurry-ss-3.png"],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/scurry",
 			"github": "https://github.com/ericlathrop/scurry"
