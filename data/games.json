@@ -3,13 +3,29 @@
 		"title": "Mr. Fluffykins' Great Sorting Adventure",
 		"link": "/fluffykins/",
 		"img": "/img/fluffykins.png",
-		"hoverimg": "/img/fluffykins-hover.gif"
+		"hoverimg": "/img/fluffykins-hover.gif",
+		"tagline": "Ludum Dare 29",
+		"description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can!",
+		"mediaCoverage": [
+			{
+				"title": "Ludum Dare 29",
+				"description": "The official Ludum Dare page for Mr. Fluffykins.",
+				"link": "http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37347",
+				"linkText": "Ludum Dare 29"
+			}
+		],
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/fluffykins",
+			"github": "https://github.com/TwoScoopGames/LudumDare29"
+		}
 	},
 	"blackjack": {
 		"title": "Chromecast Blackjack",
 		"link": "/blackjack/",
 		"img": "/img/blackjack.png",
-		"cornerBand": "COMING SOON"
+		"cornerBand": "COMING SOON",
+		"tagline": "1-4 player Blackjack on your Chromecast",
+		"description": "Play blackjack on your big screen! Using your Android or iOS devices, up to 4 players can play together on a simulated casino blackjack table. Coming soon."
 	},
 	"kickbot": {
 		"title": "Kick Bot",
@@ -57,7 +73,7 @@
 			"web": "http://twoscoopgames.com/kickbot",
 			"chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
 			"ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
-			"github": "http://github.com/ericlathrop/splat"
+			"github": "http://github.com/ericlathrop/kickbot"
 		}
 	},
 	"apartment213": {
