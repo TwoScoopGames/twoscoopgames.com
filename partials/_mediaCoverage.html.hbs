@@ -1,10 +1,10 @@
-
-	<div class="col1-3">
-		<div class="media">
+<div class="col1-3">
+	<div class="media">
+		{{#if image}}
 			<img src="{{image}}" alt="{{title}}">
-			<h3>{{title}}</h3>
-			<p>{{description}}</p>
-			<a href="{{link}}" target="_blank">{{linkText}}</a>
-		</div>
+		{{/if}}
+		<h3>{{title}}</h3>
+		<p>{{description}}</p>
+		<a href="{{link}}" target="_blank">{{linkText}}</a>
 	</div>
-
+</div>

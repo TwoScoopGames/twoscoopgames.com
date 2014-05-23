@@ -1,13 +1,15 @@
 <div class="col1-4 quote" style="display: none;">
 	<div class="module">
 		<div class="quoteBox">
-			<span class="date">{{date}}</span>
+			{{#if date}}
+				<span class="date">{{date}}</span>
+			{{/if}}
 			<p>"{{comment}}"</p>
 			<span class="quoteSayer"> 
 				{{#if link}}
-				-<a href="{{link}}">{{name}}</a>
+					-<a href="{{link}}">{{name}}</a>
 				{{else}}
-				-{{name}}
+					-{{name}}
 				{{/if}}
 			</span>
 		</div>

@@ -35,14 +35,14 @@
 			{
 				"title": "Larry Chupacabra Flappy Jam Finale Video",
 				"image": "/img/kickbot-larrychupacabra.png",
-				"description": "Kick Bot featured in FlappyJam lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"description": "Kick Bot featured in Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
 				"linkText": "Watch the video"
 			},
 			{
 				"title": "CinnamonToastKen Flappy Jam Video",
 				"image": "/img/kickbot-cinnamontoastken.png",
-				"description": "Kick Bot featured in FlappyJam lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "http://youtu.be/FPalexORVYI?t=3m28s",
 				"linkText": "Watch the video"
 			}
@@ -58,7 +58,20 @@
 		"title": "Apartment 213",
 		"link": "/apartment213/",
 		"img": "/img/apartment213.png",
-		"hoverimg": "/img/apartment213-hover.gif"
+		"hoverimg": "/img/apartment213-hover.gif",
+		"tagline": "Global Game Jam 2014",
+		"description": "This is a game about the ways several characters see the small apartment that their lives cross in. You start from the perspective of a small mouse and slowly switch perspectives with the antagonist of each character's own personal stories. These stories are colored by personal bias and each character's own concept of the apartment they interact in reveals more about that character than it does the apartment itself.",
+		"mediaCoverage": [
+			{
+				"title": "iDubbbzTV Global Game Jam Video 2014",
+				"description": "Apartment 213 is featured in a Global Game Jam 2014 lineup video, check it out and don't forget to like, comment, and subscribe! (Caution: STRONG LANGUAGE)",
+				"link": "https://www.youtube.com/watch?v=wRZ0c3bgpu8",
+				"linkText": "Watch the video"
+			}
+		],
+		"storeButtons": {
+			"github": "https://github.com/ericlathrop/apt-213-the-struggle"
+		}
 	},
 	"scurry": {
 		"title": "Scurry",
