@@ -1,0 +1,6 @@
+RedirectMatch 301 /kickbotgame/(.*) /kickbot/$1
+RedirectMatch 301 /scurrygame/(.*) /scurry/$1
+RedirectMatch 301 /apt-213/(.*) /apartment213/game/$1
+RedirectMatch 301 /apt-213game/(.*) /apartment213/$1
+RedirectMatch 301 /tag/(.*) /blog/tag/$1
+RedirectMatch 301 /wp-content/(.*) /blog/wp-content/$1
