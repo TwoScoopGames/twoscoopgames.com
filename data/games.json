@@ -10,6 +10,27 @@
 		"screenshots": [ "/img/fluffykins-ss-0.png", "/img/fluffykins-ss-1.png", "/img/fluffykins-ss-2.png", "/img/fluffykins-ss-3.png", "/img/fluffykins-ss-4.png", "/img/fluffykins-ss-5.png" ],
 		"mediaCoverage": [
 			{
+				"title": "Sylvain Wenger Reviews Fluffykins",
+				"image": "",
+				"description": "Mr. Fluffykins is featured in a list of good Ludum Dare games.",
+				"link": "https://gist.github.com/bigsylvain/c11b68f11cc3ccd0915e",
+				"linkText": "See the List"
+			},
+			{
+				"title": "Larry Chupacabra Plays Fluffykins",
+				"image": "",
+				"description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"link": "https://www.youtube.com/watch?v=ZqtwPW9QMLk&feature=youtu.be&t=4m30s",
+				"linkText": "Watch the Video"
+			},
+			{
+				"title": "Jupiter_Hadley Plays Fluffykins",
+				"image": "",
+				"description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"link": "https://www.youtube.com/watch?v=as-BlCZWXm0&feature=youtu.be&t=12m26s",
+				"linkText": "Watch the Video"
+			},
+			{
 				"title": "Ludum Dare 29",
 				"image": "/img/fluffykins-ludumdare.png",
 				"description": "The official Ludum Dare page for Mr. Fluffykins.",
@@ -54,7 +75,7 @@
 			{
 				"title": "Larry Chupacabra Flappy Jam Finale Video",
 				"image": "/img/kickbot-larrychupacabra.png",
-				"description": "Kick Bot featured in Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
+				"description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
 				"linkText": "Watch the video"
 			},
