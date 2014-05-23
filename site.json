@@ -11,23 +11,33 @@
 	"pages": {
 		"site/apartment213/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Apartment 213 by Two Scoop Games"
+			"title": "Apartment 213 by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/apartment213",
+			"shareMessage": "Check out Apartment 213 from Two Scoop Games"
 		},
 		"site/blackjack/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Chromecast Blackjack by Two Scoop Games"
+			"title": "Chromecast Blackjack by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/blackjack",
+			"shareMessage": "Check out Chromecast Blackjack from Two Scoop Games"
 		},
 		"site/fluffykins/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Mr. Fluffykins' Great Sorting Adventure by Two Scoop Games"
+			"title": "Mr. Fluffykins' Great Sorting Adventure by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/fluffykins",
+			"shareMessage": "Check out Mr. Fluffykins' Great Sorting Adventure from Two Scoop Games"
 		},
 		"site/kickbot/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Kick Bot by Two Scoop Games"
+			"title": "Kick Bot by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/kickbot",
+			"shareMessage": "Check out Kick Bot from Two Scoop Games"
 		},
 		"site/scurry/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Scurry by Two Scoop Games"
+			"title": "Scurry by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/scurry",
+			"shareMessage": "Check out Scurry from Two Scoop Games"
 		}
 	}
 }
