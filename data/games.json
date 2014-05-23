@@ -11,28 +11,28 @@
 		"mediaCoverage": [
 			{
 				"title": "Jupiter_Hadley Reviews Fluffykins",
-				"image": "",
+				"image": "/img/fluffykins-shoddy.png",
 				"description": "Mr. Fluffykins is reviewed in a list of good Ludum Dare games.",
 				"link": "http://shoddypixels.com/2014/05/12/ludum-dare-29/",
 				"linkText": "Read the Review"
 			},
 			{
 				"title": "Sylvain Wenger Reviews Fluffykins",
-				"image": "",
+				"image": "/img/fluffykins-gist.png",
 				"description": "Mr. Fluffykins is featured in a list of good Ludum Dare games.",
 				"link": "https://gist.github.com/bigsylvain/c11b68f11cc3ccd0915e",
 				"linkText": "See the List"
 			},
 			{
 				"title": "Larry Chupacabra Plays Fluffykins",
-				"image": "",
+				"image": "/img/fluffykins-larrychupacabra.png",
 				"description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "https://www.youtube.com/watch?v=ZqtwPW9QMLk&feature=youtu.be&t=4m30s",
 				"linkText": "Watch the Video"
 			},
 			{
 				"title": "Jupiter_Hadley Plays Fluffykins",
-				"image": "",
+				"image": "/img/fluffykins-jupi.png",
 				"description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
 				"link": "https://www.youtube.com/watch?v=as-BlCZWXm0&feature=youtu.be&t=12m26s",
 				"linkText": "Watch the Video"
@@ -52,11 +52,13 @@
 	},
 	"blackjack": {
 		"title": "Chromecast Blackjack",
+		"logo": "/img/blackjack-logo.png",
 		"link": "/blackjack/",
 		"img": "/img/blackjack.png",
 		"cornerBand": "COMING SOON",
 		"tagline": "1-4 player Blackjack on your Chromecast",
-		"description": "Play blackjack on your big screen! Using your Android or iOS devices, up to 4 players can play together on a simulated casino blackjack table. Coming soon."
+		"description": "Play blackjack on your big screen! Using your Android or iOS devices, up to 4 players can play together on a simulated casino blackjack table. Coming soon.",
+		"screenshots": [ "/img/blackjack-ss-0.png", "/img/blackjack-ss-1.png" ]
 	},
 	"kickbot": {
 		"title": "Kick Bot",
