@@ -78,3 +78,26 @@ Sass Minifest
   padding: 10px;
   @include transform(rotate(45deg));
 }
+
+
+
+.whiteBox{
+   @extend .pageWidth;
+    position: relative;
+padding: 15px;
+background: white;
+ color: darken($concrete, 4%);
+    border-radius: 20px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.2);
+}
+
+
+
+.about{
+  .module{
+    padding: 15px;
+  }
+  img{
+    border-radius: 25px;
+  }
+}
