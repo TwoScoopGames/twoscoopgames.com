@@ -10,6 +10,13 @@
 		"screenshots": [ "/img/fluffykins-ss-0.png", "/img/fluffykins-ss-1.png", "/img/fluffykins-ss-2.png", "/img/fluffykins-ss-3.png", "/img/fluffykins-ss-4.png", "/img/fluffykins-ss-5.png" ],
 		"mediaCoverage": [
 			{
+				"title": "Jupiter_Hadley Reviews Fluffykins",
+				"image": "",
+				"description": "Mr. Fluffykins is reviewed in a list of good Ludum Dare games.",
+				"link": "http://shoddypixels.com/2014/05/12/ludum-dare-29/",
+				"linkText": "Read the Review"
+			},
+			{
 				"title": "Sylvain Wenger Reviews Fluffykins",
 				"image": "",
 				"description": "Mr. Fluffykins is featured in a list of good Ludum Dare games.",
