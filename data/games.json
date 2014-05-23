@@ -61,6 +61,7 @@
 		"hoverimg": "/img/apartment213-hover.gif",
 		"tagline": "Global Game Jam 2014",
 		"description": "This is a game about the ways several characters see the small apartment that their lives cross in. You start from the perspective of a small mouse and slowly switch perspectives with the antagonist of each character's own personal stories. These stories are colored by personal bias and each character's own concept of the apartment they interact in reveals more about that character than it does the apartment itself.",
+			"screenshots": [ "/img/apt213-ss-0.png", "/img/apt213-ss-1.png", "/img/apt213-ss-2.png", "/img/apt213-ss-3.png", "/img/apt213-ss-4.png" ],
 		"mediaCoverage": [
 			{
 				"title": "Global Game Jam 2014",
