@@ -70,6 +70,7 @@
 			}
 		],
 		"storeButtons": {
+			"web": "http://twoscoopgames.com/apt-213",
 			"github": "https://github.com/ericlathrop/apt-213-the-struggle"
 		}
 	},
@@ -79,6 +80,10 @@
 		"img": "/img/scurry.png",
 		"cornerBand": "COMING SOON",
 		"tagline": "Run, jump, survive.",
-		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to go splat! This game is still in development, but you can try it out for yourself now using our current test build, or wait for the final version."
+		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to go splat! This game is still in development, but you can try it out for yourself now using our current test build, or wait for the final version.",
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/scurry",
+			"github": "https://github.com/ericlathrop/scurry"
+		}
 	}
 }
