@@ -38,39 +38,48 @@ header {
   @include linear-gradient($primary, lighten($primary, 2%));
   border-bottom: 1px solid darken($primary, 2%);
   box-shadow: 0 1px 4px rgba(0,0,0,.3);
-  position: fixed;
+  
   z-index: 9999;
   color: white;
 
+  @include breakpoint(baby-bear) {
+    position: fixed;
+  }
+  @include breakpoint(mama-bear) {
+    position: fixed;
+  }
+  @include breakpoint(baby-bear) {
+   position: relative;
+ }
 
-  ul{
-    margin: 0 auto; 
-    padding: 0px;
-    text-align: center;
-    li{
-      margin: 12px  15px 12px 15px;
-      list-style-type: none;
-      display: inline-block;
-      a{
-        font-size: 32px;
-        color: white;
-         padding: 12px 0 0 0;
-          width:55px;
-          height:55px;
-          display: block;
-          border-radius: 55px;
-          border: 1px solid darken($primary,2%);
-          @include linear-gradient($primary, darken($primary,1%));
-          box-shadow: 0 1px 2px rgba(0,0,0,.1);
-          text-align: center;
-          &:hover{
-            background: white;
-            color: darken($primary, 10%);
-          }
-
+ ul{
+  margin: 0 auto; 
+  padding: 0px;
+  text-align: center;
+  li{
+    margin: 12px  15px 12px 15px;
+    list-style-type: none;
+    display: inline-block;
+    a{
+      font-size: 32px;
+      color: white;
+      padding: 12px 0 0 0;
+      width:55px;
+      height:55px;
+      display: block;
+      border-radius: 55px;
+      border: 1px solid darken($primary,2%);
+      @include linear-gradient($primary, darken($primary,1%));
+      box-shadow: 0 1px 2px rgba(0,0,0,.1);
+      text-align: center;
+      &:hover{
+        background: white;
+        color: darken($primary, 10%);
       }
+
     }
   }
+}
 }
 
 
@@ -87,29 +96,29 @@ header {
    width: 95%;
  }
  @include breakpoint(baby-bear) {
-  top: 200px;
+  top: 0px;
   width: 100%;
-  }
+}
 }
 
 
 
 .shareTitle{
   text-align: center;
-color: white;
+  color: white;
 
-border-radius: 5px 5px 0 0;
-display: block;
-margin: 8px auto 0 auto;
-width: 400px;
-font-size: 18px;
-padding: 4px;
+  border-radius: 5px 5px 0 0;
+  display: block;
+  margin: 8px auto 0 auto;
+  width: 400px;
+  font-size: 18px;
+  padding: 4px;
 }
 
 .share{
 
-display: block;
-margin: 0 auto 8px auto;
-width: 400px;
-        border-radius:  0 0 5px 5px;
+  display: block;
+  margin: 0 auto 8px auto;
+  width: 400px;
+  border-radius:  0 0 5px 5px;
 }

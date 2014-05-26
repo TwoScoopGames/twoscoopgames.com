@@ -101,3 +101,12 @@ background: white;
     border-radius: 25px;
   }
 }
+
+
+
+
+.hide-on-mobile{
+   @include breakpoint(baby-bear) {
+     display: none;
+    }
+}
