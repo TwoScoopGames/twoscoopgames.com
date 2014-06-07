@@ -1,0 +1,93 @@
+header{
+	margin: 0 auto;
+
+}
+
+
+
+nav{
+	@include linear-gradient(darken($blue, 25%), darken($blue, 15%));
+//border-top: 0px solid darken($blue, 1%);
+border-right: 1px solid darken($blue, 10%);
+border-bottom: 1px solid darken($blue, 15%);
+border-left: 1px solid darken($blue, 20%);
+	width:  intrinsic !important;
+padding: 0px 50px;
+        border-radius: 0 0 100px 100px ;
+box-shadow: 0 2px 4px lighten($blue, 6%);
+	position: relative;
+	margin: 0 auto;
+	
+text-align: center;
+	
+	
+	a{
+font-size: 20px;
+display: inline-block;
+		margin: 0px !important;
+		@include breakpoint(papa-bear) {
+			padding: 10px 25px;
+		}
+		@include breakpoint(mama-bear) {
+	padding: 10px 25px;
+		}
+		@include breakpoint(baby-bear) {
+		padding: 10px 15px;
+		}
+
+border-right: 1px solid rgba(255,255,255,.3);
+
+		&:last-child{ 
+			border-right: 0px;
+			margin: 0px !important;
+		}
+		color: white;
+		text-decoration: none;
+		
+		font-weight: 200;
+		font-family: "Lato", "helvetica neue", helvetica, verdana, sans-serif;
+		&:hover{
+			color: rgba(255,255,255,.8);
+			//background: darken($blue, 25%);
+			
+		}
+		&:active{
+			color: $grey;
+		}
+	}
+}
+
+.logo{
+	display: block;
+	margin: 0 auto;
+
+
+	text-indent: -9999px;
+	@include breakpoint(papa-bear) {
+		background: url("../img/logo-mama.png");
+		width: 1024px;
+		height: 600px;
+		background-size: 1024px 600px;
+	}
+	@include breakpoint(mama-bear) {
+		background: url("../img/logo-mama.png");
+		width: 800px;
+		height: 469px;
+		background-size: 800px 469px;
+	}
+	@include breakpoint(baby-bear) {
+		position: relative;
+ left: -10px;
+		background: url("../img/logo-baby.png");
+		width: 350px;
+		height: 206px;
+		background-size: 350px 206px;
+	}
+	&.small{
+
+		background: url("../img/logo-baby.png");
+		width: 204px;
+		height: 120px;
+		background-size: 204px 120px;
+	}
+}
