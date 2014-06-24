@@ -4,13 +4,14 @@
 		"logo": "/img/syrush.png",
 		"link": "/syrush/",
 		"img": "/img/syrush.png",
-		"tagline": "Ludum Dare 29",
+		"cornerBand": "COMING SOON",
+		"tagline": "COMING SOON",
 		"description": "Fill the waffle with syrup!",
-		"screenshots": [],
+		"screenshots": ["/img/syrush-ss-0.png"],
 		"mediaCoverage": [],
 		"storeButtons": {
-			"web": "http://twoscoopgames.com/syrush/game",
-			"github": "https://github.com/TwoScoopGames/SyRUSH"
+			"web": "http://twoscoopgames.com/syrush/game"
+
 		}
 	},
 	"fluffykins": {

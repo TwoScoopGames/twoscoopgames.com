@@ -9,6 +9,12 @@
 		"title": "Two Scoop Games - Independant Games Studio"
 	},
 	"pages": {
+		"site/syrush/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "SyRUSHby Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/syrush",
+			"shareMessage": "Check out SyRUSH from Two Scoop Games"
+		},
 		"site/apartment213/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
 			"title": "Apartment 213 by Two Scoop Games",
