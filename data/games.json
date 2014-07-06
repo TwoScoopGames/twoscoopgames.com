@@ -112,6 +112,7 @@
 			"web": "http://twoscoopgames.com/kickbot/game",
 			"chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
 			"ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
+			"itchio": "http://two-scoop-games.itch.io/kick-bot",
 			"github": "http://splatjs.github.io/"
 		}
 	},
@@ -155,6 +156,7 @@
 			"web": "http://twoscoopgames.com/scurry/game",
 			"chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
 			"ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
+			"itchio": "http://two-scoop-games.itch.io/scurry",
 			"github": "http://splatjs.github.io/"
 		}
 	}

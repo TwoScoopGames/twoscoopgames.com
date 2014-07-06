@@ -146,3 +146,12 @@ $windows8Color: #00ACED;
 	&:hover{ background: lighten($windows8Color, 10%); }
 	&:active{ background: darken($windows8Color, 10%); }
 }
+
+$itchioColor: #ff5c5c;
+.itchio{
+	background: $itchioColor;
+	border: 1px solid darken($itchioColor, 10%);
+	@include linear-gradient( lighten($itchioColor, 5%), $itchioColor );
+	&:hover{ background: lighten($itchioColor, 10%); }
+	&:active{ background: darken($itchioColor, 10%); }
+}
