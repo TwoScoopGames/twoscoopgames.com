@@ -10,7 +10,8 @@
 		"screenshots": ["/img/syrush-ss-0.png"],
 		"mediaCoverage": [],
 		"storeButtons": {
-			"web": "http://twoscoopgames.com/syrush/game"
+			"web": "http://twoscoopgames.com/syrush/game",
+			"github": "http://splatjs.github.io/"
 
 		}
 	},
@@ -56,7 +57,7 @@
 		}],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/fluffykins/game",
-			"github": "https://github.com/TwoScoopGames/LudumDare29"
+			"github": "http://splatjs.github.io/"
 		}
 	},
 	"blackjack": {
@@ -111,7 +112,7 @@
 			"web": "http://twoscoopgames.com/kickbot/game",
 			"chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
 			"ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
-			"github": "http://github.com/ericlathrop/kickbot"
+			"github": "http://splatjs.github.io/"
 		}
 	},
 	"apartment213": {
@@ -138,7 +139,7 @@
 		}],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/apartment213/game",
-			"github": "https://github.com/ericlathrop/apt-213-the-struggle"
+			"github": "http://splatjs.github.io/"
 		}
 	},
 	"scurry": {
@@ -146,13 +147,15 @@
 		"logo": "/img/scurry-logo.png",
 		"link": "/scurry/",
 		"img": "/img/scurry.png",
-		"cornerBand": "COMING SOON",
+		"cornerBand": "Now on iOS!",
 		"tagline": "Run, jump, survive.",
-		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to go splat! This game is still in development, but you can try it out for yourself now using our current test build, or wait for the final version.",
-		"screenshots": ["/img/scurry-ss-0.png", "/img/scurry-ss-1.png", "/img/scurry-ss-2.png", "/img/scurry-ss-3.png"],
+		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
+		"screenshots": ["/img/scurry-ss-0.png", "/img/scurry-ss-6.png", "/img/scurry-ss-1.png", "/img/scurry-ss-2.png", "/img/scurry-ss-3.png", "/img/scurry-ss-4.png", "/img/scurry-ss-5.png"],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/scurry/game",
-			"github": "https://github.com/ericlathrop/scurry"
+			"chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
+			"ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
+			"github": "http://splatjs.github.io/"
 		}
 	}
 }
