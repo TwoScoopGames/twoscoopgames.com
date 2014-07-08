@@ -6,7 +6,7 @@
 	"helpersDirectory": "helpers",
 	"data": {
 		"layout": "layout/layout.html.hbs",
-		"title": "Two Scoop Games - Independant Games Studio"
+		"title": "Two Scoop Games - Independent Games Studio"
 	},
 	"pages": {
 		"site/syrush/index.html.hbs": {
