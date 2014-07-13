@@ -6,8 +6,8 @@
 		"img": "/img/syrush.png",
 		"cornerBand": "COMING SOON",
 		"tagline": "COMING SOON",
-		"description": "Fill the waffle with syrup!",
-		"screenshots": ["/img/syrush-ss-0.png"],
+		"description": "SyRUSH is a fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
+		"screenshots": ["/img/syrush-ss-0.png", "/img/syrush-ss-1.png", "/img/syrush-ss-2.png", "/img/syrush-ss-3.png"],
 		"mediaCoverage": [],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/syrush/game",
