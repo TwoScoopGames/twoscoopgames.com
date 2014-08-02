@@ -1,17 +1,17 @@
 {
 	"syrush": {
 		"title": "SyRUSH",
-		"logo": "/img/syrush.png",
+		"logo": "/img/SyRUSH-large-icon3.png",
 		"link": "/syrush/",
 		"img": "/img/syrush.png",
 		"cornerBand": "COMING SOON",
 		"tagline": "COMING SOON",
-		"description": "SyRUSH is a fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
+		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Coming soon  to the iPhone, iPad and touch-enabled computers from Two Scoop Games!",
+		"videos": ["063ccMxUd1s"],
 		"screenshots": ["/img/syrush-ss-0.png", "/img/syrush-ss-1.png", "/img/syrush-ss-2.png", "/img/syrush-ss-3.png"],
 		"mediaCoverage": [],
 		"storeButtons": {
-			"web": "http://twoscoopgames.com/syrush/game",
-			"github": "http://splatjs.github.io/"
+
 
 		}
 	},
