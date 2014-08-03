@@ -3,14 +3,20 @@
 }
 
 .media{
-	margin: 0 4px;
+	margin: 0 4px 10px 4px;
 	color: darken($concrete, 4%);
 	padding: 10px;
 	background: white;
 	border-radius: 4px;
 	box-shadow: 0 1px 4px rgba(0,0,0,.2);
+
+
 	img{
 		max-width: 100%;
+	}
+	p{
+		height: 80px;
+		overflow: hidden;
 	}
 	a{
 		text-decoration: none;
