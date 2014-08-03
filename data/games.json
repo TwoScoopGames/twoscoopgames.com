@@ -22,7 +22,7 @@
 		"img": "/img/fluffykins.png",
 		"hoverimg": "/img/fluffykins-hover.gif",
 		"tagline": "Ludum Dare 29",
-		"description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can!",
+		"description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can! This game is a Two Scoop colaboration with team Pancake, our Ludum Dare 29 which consisted of: Aaron Smith, Alex Bezuska, Anthony Quisenberry, Eric Lathrop, Rex Soriano, and Nathan Hutchens.",
 		"screenshots": ["/img/fluffykins-ss-0.png", "/img/fluffykins-ss-1.png", "/img/fluffykins-ss-2.png", "/img/fluffykins-ss-3.png", "/img/fluffykins-ss-4.png", "/img/fluffykins-ss-5.png"],
 		"mediaCoverage": [{
 			"title": "Jupiter_Hadley Reviews Fluffykins",
@@ -161,6 +161,37 @@
 		"tagline": "Run, jump, survive.",
 		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
 		"screenshots": ["/img/scurry-ss-0.png", "/img/scurry-ss-6.png", "/img/scurry-ss-1.png", "/img/scurry-ss-2.png", "/img/scurry-ss-3.png", "/img/scurry-ss-4.png", "/img/scurry-ss-5.png"],
+		"mediaCoverage": [{
+			"title": "Larry Chupacabra video review",
+			"image": "/img/chupacabra-scurry.png",
+			"description": "Larry reviews the iPad version of Scurry.",
+			"link": "https://www.youtube.com/watch?v=oGpBYrIkG-c&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=5",
+			"linkText": "Watch the video"
+		}, {
+			"title": "Room With Hands Up video review",
+			"image": "/img/rwhuscurry.png",
+			"description": "Jump along as RWHU pays scurry and gives his commentary.",
+			"link": "https://www.youtube.com/watch?v=JYJxbZj28R8&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=9",
+			"linkText": "Watch the video"
+		}, {
+			"title": "Scurry Featured on Indiestatik!",
+			"image": "/img/indiestatik-scurry.png",
+			"description": "If you’ve ever wanted to play a game as a cockroach protagonist, now’s your chance with Two Scoop Games‘ upcoming title, Scurry...",
+			"link": "http://indiestatik.com/2014/06/22/screenshot-scrutiny-june-21st-2014/",
+			"linkText": "Read full article"
+		}, {
+			"title": "YAY Scurry - Run Little Roach!",
+			"image": "/img/yay-scurry.png",
+			"description": "Youtuber YAYGaming  plays Scurry and give his oppinions!",
+			"link": "https://www.youtube.com/watch?v=hlQJLsouuiY&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=2",
+			"linkText": "Watch the video"
+		}, {
+			"title": "Scurry | BE ONE WITH THE COCKROACH",
+			"image": "/img/KittehLoaf-scurry.png",
+			"description": "Youtube review of Scurry by KittehLoaf",
+			"link": "https://www.youtube.com/watch?v=rSsa1Yu2CbU&index=4&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U",
+			"linkText": "Watch the video"
+		}],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/scurry/game",
 			"chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
