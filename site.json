@@ -11,7 +11,7 @@
 	"pages": {
 		"site/syrush/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "SyRUSHby Two Scoop Games",
+			"title": "SyRUSH by Two Scoop Games",
 			"shareUrl": "http://twoscoopgames.com/syrush",
 			"shareMessage": "Check out SyRUSH from Two Scoop Games"
 		},
@@ -44,6 +44,12 @@
 			"title": "Scurry by Two Scoop Games",
 			"shareUrl": "http://twoscoopgames.com/scurry",
 			"shareMessage": "Check out Scurry from Two Scoop Games"
+		},
+		"site/stanleysqueaks/index.html.hbs": {
+			"layout": "layout/game-page.html.hbs",
+			"title": "Stanley Squeaks and the Emerald Burrito by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/stanleysqueaks",
+			"shareMessage": "Check out Stanley Squeaks and the Emerald Burrito from Two Scoop Games"
 		}
 	}
 }
