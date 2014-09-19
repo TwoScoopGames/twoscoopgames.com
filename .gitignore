@@ -3,3 +3,4 @@
 .sass-cache
 out
 node_modules
+upload.sh
