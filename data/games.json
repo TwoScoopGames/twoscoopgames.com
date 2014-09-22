@@ -4,7 +4,7 @@
 		"logo": "/img/stanleysqueaks-icon.png",
 		"link": "/stanleysqueaks/",
 		"img": "/img/stanleysqueaks.png",
-		"cornerBand": "#LD30",
+		"cornerBand": "COMING SOON",
 		"tagline": "COMING SOON for Win, Mac, and Linux",
 		"description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
 		"screenshots": [
@@ -27,14 +27,15 @@
 		"logo": "/img/SyRUSH-large-icon3.png",
 		"link": "/syrush/",
 		"img": "/img/syrush.png",
-		"cornerBand": "COMING SOON",
-		"tagline": "COMING SOON",
-		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Coming soon  to the iPhone, iPad and touch-enabled computers from Two Scoop Games!",
+		"cornerBand": "Now on iOS",
+		"tagline": "Now Available on iPhone, iPad, & iPod Touch",
+		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
 		"videos": ["063ccMxUd1s"],
-		"screenshots": ["/img/syrush-ss-0.png", "/img/syrush-ss-1.png", "/img/syrush-ss-2.png", "/img/syrush-ss-3.png"],
+		"screenshots": ["/img/syrush-ss-4.png", "/img/syrush-ss-0.png", "/img/syrush-ss-1.png", "/img/syrush-ss-2.png", "/img/syrush-ss-3.png"],
 		"mediaCoverage": [],
 		"storeButtons": {
-
+			"ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
+			"github": "http://splatjs.github.io/"
 
 		}
 	},
