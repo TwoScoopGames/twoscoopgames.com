@@ -32,7 +32,13 @@
 		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
 		"videos": ["063ccMxUd1s"],
 		"screenshots": ["/img/syrush-ss-4.png", "/img/syrush-ss-0.png", "/img/syrush-ss-1.png", "/img/syrush-ss-2.png", "/img/syrush-ss-3.png"],
-		"mediaCoverage": [],
+		"mediaCoverage": [{
+			"title": "SyRUSH featured on AppSpy",
+			"image": "/img/syrush-appspy.png",
+			"description": "'SyRUSH is the waffle simulator we've all been waiting for.'",
+			"link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
+			"linkText": "Read More"
+		}],
 		"storeButtons": {
 			"ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
 			"github": "http://splatjs.github.io/"
