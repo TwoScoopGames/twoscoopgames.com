@@ -1,5 +1,24 @@
 {
-	"stanleysqueaks": {
+	"desserts": {
+		"title": "Desserts Killed Your Daddy",
+		"logo": "/img/desserts-icon.png",
+		"link": "/desserts/",
+		"img": "/img/desserts.png",
+		"cornerBand": "NEW",
+		"tagline": "Fast-paced score-based arcade game. ",
+		"description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
+		"screenshots": [
+			"/img/desserts-ss-0.png",
+			"/img/desserts-ss-1.png",
+			"/img/desserts-ss-2.png",
+			"/img/desserts-ss-3.png"
+		],
+		"mediaCoverage": [],
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/ludumdare31/",
+			"github": "http://splatjs.github.io/"
+		}
+	},"stanleysqueaks": {
 		"title": "Stanley Squeaks and the Emerald Burrito",
 		"logo": "/img/stanleysqueaks-icon.png",
 		"link": "/stanleysqueaks/",

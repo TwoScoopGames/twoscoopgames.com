@@ -51,11 +51,11 @@
 			"shareUrl": "http://twoscoopgames.com/stanleysqueaks",
 			"shareMessage": "Check out Stanley Squeaks and the Emerald Burrito from Two Scoop Games"
 		},
-		"site/deserts/index.html.hbs": {
+		"site/desserts/index.html.hbs": {
 			"layout": "layout/game-page.html.hbs",
-			"title": "Deserts Killed Your Daddy by Two Scoop Games",
-			"shareUrl": "http://twoscoopgames.com/deserts",
-			"shareMessage": "Check out Deserts Killed Your Daddy from Two Scoop Games"
+			"title": "Desserts Killed Your Daddy by Two Scoop Games",
+			"shareUrl": "http://twoscoopgames.com/desserts",
+			"shareMessage": "Check out Desserts Killed Your Daddy from Two Scoop Games"
 		}
 	}
 }
