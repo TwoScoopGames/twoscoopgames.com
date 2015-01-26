@@ -1,10 +1,31 @@
 {
-	"desserts": {
+	"thedaytheworldchanged": {
+		"title": "The Day the World Changed",
+		"logo": "/img/thedaytheworldchanged-icon.png",
+		"link": "/thedaytheworldchanged/",
+		"img": "/img/thedaytheworldchanged.png",
+		"cornerBand": "NEW",
+		"tagline": "One event can change a lifetime",
+		"description": "The Day the World Changed is a somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community. Controls: left/right arrow keys Game created for the Glabal Game Jam Janurary 2015.",
+		"videos": ["8kXhCsKgdNc"],
+		"screenshots": [
+			"/img/thedaytheworldchanged-ss-0.png",
+			"/img/thedaytheworldchanged-ss-1.png",
+			"/img/thedaytheworldchanged-ss-2.png",
+			"/img/thedaytheworldchanged-ss-3.png",
+			"/img/thedaytheworldchanged-ss-4.png"
+		],
+		"mediaCoverage": [],
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/ggj15/",
+			"github": "http://splatjs.github.io/"
+		}
+	},"desserts": {
 		"title": "Desserts Killed Your Daddy",
 		"logo": "/img/desserts-icon.png",
 		"link": "/desserts/",
 		"img": "/img/desserts.png",
-		"cornerBand": "NEW",
+		"cornerBand": "",
 		"tagline": "Fast-paced score-based arcade game. ",
 		"description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
 		"screenshots": [
