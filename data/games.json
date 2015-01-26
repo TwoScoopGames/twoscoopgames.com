@@ -101,7 +101,15 @@
 			"description": "'SyRUSH is the waffle simulator we've all been waiting for.'",
 			"link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
 			"linkText": "Read More"
-		}],
+		},
+		{
+			"title": "Larry Chupacabra Reviews SyRUSH",
+			"image": "/img/syrush-larry.png",
+			"description": "Youtuber Larry Chupacabra plays and reviews SyRUSH for iOS!",
+			"link": "https://www.youtube.com/watch?v=kb5TbsCRlxw",
+			"linkText": "Watch now!"
+		}
+		],
 		"storeButtons": {
 			"ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
 			"github": "http://splatjs.github.io/"
