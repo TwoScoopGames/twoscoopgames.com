@@ -12,10 +12,15 @@
 			"/img/thedaytheworldchanged-ss-0.png",
 			"/img/thedaytheworldchanged-ss-1.png",
 			"/img/thedaytheworldchanged-ss-2.png",
-			"/img/thedaytheworldchanged-ss-3.png",
-			"/img/thedaytheworldchanged-ss-4.png"
+			"/img/thedaytheworldchanged-ss-3.png"
 		],
-		"mediaCoverage": [],
+		"mediaCoverage": [{
+			"title": "Global Game Jam 2015",
+			"image": "/img/ggj15.png",
+			"description": "The official Global Game Jam page for The Day the World Changed.",
+			"link": "http://globalgamejam.org/2015/games/day-world-changed",
+			"linkText": "Global Game Jam 2015"
+		}],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/ggj15/",
 			"github": "http://splatjs.github.io/"
