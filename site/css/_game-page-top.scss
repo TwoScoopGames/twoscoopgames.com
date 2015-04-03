@@ -33,7 +33,7 @@
 		font-size: 25px;
 		border-radius: 10px;
 		@include linear-gradient( lighten($primary, 5%), $primary);
-		@include box-shadow(#87c1dd 0 1px 0 inset);
+		box-shadow: #87c1dd 0 1px 0 inset;
 		border: 1px solid $primary;
 		color: white;
 	}
