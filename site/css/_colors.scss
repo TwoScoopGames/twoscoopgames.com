@@ -6,13 +6,7 @@
     $amethyst: rgba(155, 89,182,1);
   $wetasphalt: rgba( 52, 73, 94,1);
     $greensea: rgba( 22,160,133,1);
-   $nephritis: rgba( 39,174, 96,1);
-  $primary: #5ba7a5 ;//rgba( 41,128,185,1);
-  //$primary: #CB515C;
-  //$primary: #9078A8;
- // $primary: rgba( 22,160,133,1);
-  //$primary: rgba( 26,188,156,1);
-  
+   $nephritis: rgba( 39,174, 96,1);  
     $wisteria: rgba(142, 68,173,1);
 $midnightblue: rgba( 44, 62, 80,1);
    $sunflower: rgba(241,196, 15,1);
@@ -32,14 +26,14 @@ $midnightblue: rgba( 44, 62, 80,1);
        $slate: rgba( 85, 88, 91,1);
 
 /*  bootstrap colors */
-     //$primary: rgba( 66,139,202,1);
      $success: rgba( 92,184, 92,1);
         $info: rgba( 91,192,222,1);
      $warning: rgba(240,173, 78,1);
       $danger: rgba(217, 83, 79,1);
 
-$blue: #abd2d1;
-$maroon: #901840;
-$green: #b4d88f;
-$cone: #b7a362;
+$blue: #57AEC5;
+$maroon: #D62952;
+$green: #9FD191;
+$cone: #C9B888;
 $grey: #5b5759;
+$primary: darken($blue, 6%);
