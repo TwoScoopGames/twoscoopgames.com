@@ -4,3 +4,4 @@
 out
 node_modules
 upload.sh
+npm-debug.log
