@@ -20,6 +20,13 @@
 			"description": "The official Global Game Jam page for The Day the World Changed.",
 			"link": "http://globalgamejam.org/2015/games/day-world-changed",
 			"linkText": "Global Game Jam 2015"
+		},
+		{
+			"title": "Larry Chupacabra plays The Day the World Changed",
+			"image": "/img/thedaytheworldchanged-larry.jpg",
+			"description": "Checking out The Day the World Changed a game by TwoScoopGames who created it as a part of the Global Game Jam 2015 indie event...",
+			"link": "https://www.youtube.com/watch?v=LMYAKVxtKfk",
+			"linkText": "Watch Now"
 		}],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/ggj15/",
