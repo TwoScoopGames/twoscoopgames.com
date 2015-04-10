@@ -1,5 +1,26 @@
 {
-	"thedaytheworldchanged": {
+	"stanleysqueaks": {
+		"title": "Stanley Squeaks and the Emerald Burrito",
+		"logo": "/img/stanleysqueaks-icon.png",
+		"link": "/stanleysqueaks/",
+		"img": "/img/stanleysqueaks.png",
+		"cornerBand": "New demo!",
+		"tagline": "Try the new demo! COMING SOON for Win, Mac, and Linux",
+		"description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
+		"screenshots": [
+			"/img/stanleysqueaks-ss-0.png",
+			"/img/stanleysqueaks-ss-1.png",
+			"/img/stanleysqueaks-ss-2.png",
+			"/img/stanleysqueaks-ss-3.png",
+			"/img/stanleysqueaks-ss-4.png",
+			"/img/stanleysqueaks-ss-5.png"
+		],
+		"mediaCoverage": [],
+		"storeButtons": {
+			"web": "http://twoscoopgames.com/stanleysqueaks/game",
+			"github": "http://splatjs.github.io/"
+		}
+	},"thedaytheworldchanged": {
 		"title": "The Day the World Changed",
 		"logo": "/img/thedaytheworldchanged-icon.png",
 		"link": "/thedaytheworldchanged/",
@@ -67,28 +88,6 @@
 		],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/ludumdare31/",
-			"github": "http://splatjs.github.io/"
-		}
-	},"stanleysqueaks": {
-		"title": "Stanley Squeaks and the Emerald Burrito",
-		"logo": "/img/stanleysqueaks-icon.png",
-		"link": "/stanleysqueaks/",
-		"img": "/img/stanleysqueaks.png",
-		"cornerBand": "COMING SOON",
-		"tagline": "COMING SOON for Win, Mac, and Linux",
-		"description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
-		"screenshots": [
-			"/img/stanleysqueaks-ss-0.png",
-			"/img/stanleysqueaks-ss-1.png",
-			"/img/stanleysqueaks-ss-2.png",
-			"/img/stanleysqueaks-ss-3.png",
-			"/img/stanleysqueaks-ss-4.png",
-			"/img/stanleysqueaks-ss-5.png",
-			"/img/stanleysqueaks-ss-6.png"
-		],
-		"mediaCoverage": [],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/ludumdare30/game",
 			"github": "http://splatjs.github.io/"
 		}
 	},
