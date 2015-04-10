@@ -13,16 +13,20 @@
 	}, {
 		"name": "Larry Chupacabra",
 		"comment": "They do a nice job with the cartoony style art, it's always fun and bubbly.",
-		"date": "09-201-14",
+		"date": "09-01-14",
 		"link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
 		"platform": "Browser"
 	}, {
 		"name": "Larry Chupacabra",
 		"comment": "It's cute, it's strong, I dig it.",
-		"date": "09-201-14",
+		"date": "09-01-14",
 		"link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
 		"platform": "Browser"
-	}
-
-
+	}, {
+		"name": "Obsolete Entertainment",
+		"comment": "Fun game!",
+		"date": "09-01-14",
+		"link": "https://www.youtube.com/channel/UCy-3kSD4Ls-d6S4x460oYxA",
+		"platform": "Browser"
+}
 ]
