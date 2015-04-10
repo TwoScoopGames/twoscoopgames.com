@@ -7,6 +7,7 @@
 		"cornerBand": "New demo!",
 		"tagline": "Try the new demo! COMING SOON for Win, Mac, and Linux",
 		"description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
+		"videos": ["IajbsXR5Cg0"],
 		"screenshots": [
 			"/img/stanleysqueaks-ss-0.png",
 			"/img/stanleysqueaks-ss-1.png",
@@ -15,7 +16,15 @@
 			"/img/stanleysqueaks-ss-4.png",
 			"/img/stanleysqueaks-ss-5.png"
 		],
-		"mediaCoverage": [],
+		"mediaCoverage": [
+		{
+			"title": "Louisville Arcade Expo 2015",
+			"image": "/img/stanleysqueaks-arcaderx.png",
+			"description": "Players try out the jam version of Stanley Squeaks at the GameDevLou booth in Indie Alley at Louisville Arcade Expo 2015!",
+			"link": "https://vine.co/v/OEv5FWx7Y3v",
+			"linkText": "Watch on Vine!"
+		}
+		],
 		"storeButtons": {
 			"web": "http://twoscoopgames.com/stanleysqueaks/game",
 			"github": "http://splatjs.github.io/"
