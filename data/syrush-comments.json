@@ -1,43 +1,86 @@
-[{
-	"name": "Mary W",
-	"comment": "Wow...thats really addicting haha, I definitely like the little kids \"next topping\" touch to it :)",
-	"date": "09-18-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Larry Chupacabra",
-	"comment": "Finally I can tame my sugar lust in the same way as a starving Canadian. Fantastic ;)",
-	"date": "09-18-14",
-	"link": "https://www.youtube.com/user/LarryChupacabra",
-	"platform": "iOS"
-}, {
-	"name": "Blizzard Muffin",
-	"comment": "Just download SyRUSH, love it ;)",
-	"date": "09-22-14",
-	"link": "https://twitter.com/blizzard_muffin",
-	"platform": "iOS"
-}, {
-	"name": "Daniel Layton",
-	"comment": "Played this instead of completing vital essay due tomorrow, no regrets.",
-	"date": "09-22-14",
-	"link": "https://twitter.com/D_Lannister",
-	"platform": "iOS"
-}, {
-	"name": "TheMoonIsFurious",
-	"comment": "You had me at waffles",
-	"date": "09-22-14",
-	"link": "https://www.reddit.com/user/TheMoonIsFurious",
-	"platform": "iOS"
-}, {
-	"name": "App Spy",
-	"comment": "SyRUSH is the waffle simulator we've all been waiting for",
-	"date": "09-24-14",
-	"link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
-	"platform": "iOS"
-}, {
-	"name": "Slappyalk",
-	"comment": "Great game! Just discovered this gem at a game show. Really fun.",
-	"date": "10-05-14",
-	"link": "#",
-	"platform": "iOS"
-}]
+[
+    {
+        "name": "Mary W",
+        "comment": "Wow...thats really addicting haha, I definitely like the little kids \"next topping\" touch to it :)",
+        "date": "09-18-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Larry Chupacabra",
+        "comment": "Finally I can tame my sugar lust in the same way as a starving Canadian. Fantastic ;)",
+        "date": "09-18-14",
+        "link": "https://www.youtube.com/user/LarryChupacabra",
+        "platform": "iOS"
+    },
+    {
+        "name": "Blizzard Muffin",
+        "comment": "Just download SyRUSH, love it ;)",
+        "date": "09-22-14",
+        "link": "https://twitter.com/blizzard_muffin",
+        "platform": "iOS"
+    },
+    {
+        "name": "Daniel Layton",
+        "comment": "Played this instead of completing vital essay due tomorrow, no regrets.",
+        "date": "09-22-14",
+        "link": "https://twitter.com/D_Lannister",
+        "platform": "iOS"
+    },
+    {
+        "name": "TheMoonIsFurious",
+        "comment": "You had me at waffles",
+        "date": "09-22-14",
+        "link": "https://www.reddit.com/user/TheMoonIsFurious",
+        "platform": "iOS"
+    },
+    {
+        "name": "App Spy",
+        "comment": "SyRUSH is the waffle simulator we've all been waiting for",
+        "date": "09-24-14",
+        "link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
+        "platform": "iOS"
+    },
+    {
+        "name": "Slappyalk",
+        "comment": "Great game! Just discovered this gem at a game show. Really fun.",
+        "date": "10-05-14",
+        "link": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
+        "platform": "iOS"
+    },
+    {
+        "name": "Pixel Surf",
+        "comment": "The best waffle simulator on the market!",
+        "date": "11-18-14",
+        "link": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
+        "platform": "iOS"
+    },
+    {
+        "name": "brainofsteel",
+        "comment": "...my daughter’s favorite game is SyRush... She loves it. :)",
+        "date": "01-18-15",
+        "link": "https://twitter.com/brainofsteel",
+        "platform": "iOS"
+    },
+    {
+        "name": "Larry Chupacabra",
+        "comment": "It's Waffle Arcade madness",
+        "date": "11-12-14",
+        "link": "http://t.co/4L7sjBjd25",
+        "platform": "iOS"
+    },
+    {
+        "name": "OnlySlightly",
+        "comment": "SyRUSH makes me hungry",
+        "date": "11-03-14",
+        "link": "https://twitter.com/JetpackFandango",
+        "platform": "iOS"
+    },
+    {
+        "name": "Pooky Box",
+        "comment": "A virtual breakfast frenzy",
+        "date": "10-15-14",
+        "link": "http://t.co/ENmPpdIAFn",
+        "platform": "iOS"
+    }
+]
