@@ -1,333 +1,196 @@
-{
-    "thedaytheworldchanged": {
-        "title": "The Day the World Changed",
-        "logo": "/img/thedaytheworldchanged-icon.png",
-        "link": "/thedaytheworldchanged/",
-        "img": "/img/thedaytheworldchanged.png",
-        "cornerBand": "NEW",
-        "tagline": "One event can change a lifetime",
-        "description": "The Day the World Changed is a somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community. Controls: left/right arrow keys Game created for the Glabal Game Jam Janurary 2015.",
-        "screenshots": [
-            "/img/thedaytheworldchanged-ss-0.png",
-            "/img/thedaytheworldchanged-ss-1.png",
-            "/img/thedaytheworldchanged-ss-2.png",
-            "/img/thedaytheworldchanged-ss-3.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "Global Game Jam 2015",
-                "image": "/img/ggj15.png",
-                "description": "The official Global Game Jam page for The Day the World Changed.",
-                "link": "http://globalgamejam.org/2015/games/day-world-changed",
-                "linkText": "Global Game Jam 2015"
-            }
-        ],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/ggj15/",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "desserts": {
-        "title": "Desserts Killed Your Daddy",
-        "logo": "/img/desserts-icon.png",
-        "link": "/desserts/",
-        "img": "/img/desserts.png",
-        "cornerBand": "",
-        "tagline": "Fast-paced score-based arcade game. ",
-        "description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
-        "screenshots": [
-            "/img/desserts-ss-0.png",
-            "/img/desserts-ss-1.png",
-            "/img/desserts-ss-2.png",
-            "/img/desserts-ss-3.png"
-        ],
-        "mediaCoverage": [],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/ludumdare31/",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "stanleysqueaks": {
-        "title": "Stanley Squeaks and the Emerald Burrito",
-        "logo": "/img/stanleysqueaks-icon.png",
-        "link": "/stanleysqueaks/",
-        "img": "/img/stanleysqueaks.png",
-        "cornerBand": "COMING SOON",
-        "tagline": "COMING SOON for Win, Mac, and Linux",
-        "description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
-        "screenshots": [
-            "/img/stanleysqueaks-ss-0.png",
-            "/img/stanleysqueaks-ss-1.png",
-            "/img/stanleysqueaks-ss-2.png",
-            "/img/stanleysqueaks-ss-3.png",
-            "/img/stanleysqueaks-ss-4.png",
-            "/img/stanleysqueaks-ss-5.png",
-            "/img/stanleysqueaks-ss-6.png"
-        ],
-        "mediaCoverage": [],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/ludumdare30/game",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "syrush": {
-        "title": "SyRUSH",
-        "logo": "/img/SyRUSH-large-icon3.png",
-        "link": "/syrush/",
-        "img": "/img/syrush.png",
-        "cornerBand": "Now on iOS",
-        "tagline": "Now Available on iPhone, iPad, & iPod Touch",
-        "description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
-        "videos": [
-            "063ccMxUd1s"
-        ],
-        "screenshots": [
-            "/img/syrush-ss-4.png",
-            "/img/syrush-ss-0.png",
-            "/img/syrush-ss-1.png",
-            "/img/syrush-ss-2.png",
-            "/img/syrush-ss-3.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "SyRUSH featured on AppSpy",
-                "image": "/img/syrush-appspy.png",
-                "description": "'SyRUSH is the waffle simulator we've all been waiting for.'",
-                "link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
-                "linkText": "Read More"
-            }
-        ],
-        "storeButtons": {
-            "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "fluffykins": {
-        "title": "Mr. Fluffykins' Great Sorting Adventure",
-        "logo": "/img/fluffykins-logo.png",
-        "link": "/fluffykins/",
-        "img": "/img/fluffykins.png",
-        "hoverimg": "/img/fluffykins-hover.gif",
-        "tagline": "Ludum Dare 29",
-        "description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can! This game is a Two Scoop colaboration with team Pancake, our Ludum Dare 29 which consisted of: Aaron Smith, Alex Bezuska, Anthony Quisenberry, Eric Lathrop, Rex Soriano, and Nathan Hutchens.",
-        "screenshots": [
-            "/img/fluffykins-ss-0.png",
-            "/img/fluffykins-ss-1.png",
-            "/img/fluffykins-ss-2.png",
-            "/img/fluffykins-ss-3.png",
-            "/img/fluffykins-ss-4.png",
-            "/img/fluffykins-ss-5.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "Jupiter_Hadley Reviews Fluffykins",
-                "image": "/img/fluffykins-shoddy.png",
-                "description": "Mr. Fluffykins is reviewed in a list of good Ludum Dare games.",
-                "link": "http://shoddypixels.com/2014/05/12/ludum-dare-29/",
-                "linkText": "Read the Review"
-            },
-            {
-                "title": "Sylvain Wenger Reviews Fluffykins",
-                "image": "/img/fluffykins-gist.png",
-                "description": "Mr. Fluffykins is featured in a list of good Ludum Dare games.",
-                "link": "https://gist.github.com/bigsylvain/c11b68f11cc3ccd0915e",
-                "linkText": "See the List"
-            },
-            {
-                "title": "Larry Chupacabra Plays Fluffykins",
-                "image": "/img/fluffykins-larrychupacabra.png",
-                "description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "https://www.youtube.com/watch?v=ZqtwPW9QMLk&feature=youtu.be&t=4m30s",
-                "linkText": "Watch the Video"
-            },
-            {
-                "title": "Jupiter_Hadley Plays Fluffykins",
-                "image": "/img/fluffykins-jupi.png",
-                "description": "Mr. Fluffykins is featured in a Ludum Dare lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "https://www.youtube.com/watch?v=as-BlCZWXm0&feature=youtu.be&t=12m26s",
-                "linkText": "Watch the Video"
-            },
-            {
-                "title": "Ludum Dare 29",
-                "image": "/img/fluffykins-ludumdare.png",
-                "description": "The official Ludum Dare page for Mr. Fluffykins.",
-                "link": "http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37347",
-                "linkText": "Ludum Dare 29"
-            }
-        ],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/fluffykins/game",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "blackjack": {
-        "title": "Chromecast Blackjack",
-        "logo": "/img/blackjack-logo.png",
-        "link": "/blackjack/",
-        "img": "/img/blackjack.png",
-        "cornerBand": "COMING SOON",
-        "tagline": "1-4 player Blackjack on your Chromecast",
-        "description": "Play blackjack on your big screen! Using your Android or iOS devices, up to 4 players can play together on a simulated casino blackjack table. Coming soon.",
-        "screenshots": [
-            "/img/blackjack-ss-0.png",
-            "/img/blackjack-ss-1.png"
-        ]
-    },
-    "kickbot": {
-        "title": "Kick Bot",
-        "logo": "/img/kickbot-logo.png",
-        "logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
-        "link": "/kickbot/",
-        "img": "/img/kickbot.png",
-        "hoverimg": "/img/kickbot-hover.gif",
-        "tagline": "A game that will really kick your bot!",
-        "description": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
-        "videos": [
-            "ek1yJr6Od2I"
-        ],
-        "screenshots": [
-            "/img/kickbot-ss-0.png",
-            "/img/kickbot-ss-1.png",
-            "/img/kickbot-ss-2.png",
-            "/img/kickbot-ss-3.png",
-            "/img/kickbot-ss-4.png",
-            "/img/kickbot-ss-5.png",
-            "/img/kickbot-ss-6.png"
-        ],
-        "hashtag": "kickbotgame",
-        "likeurl": "http://kickbotgame.com",
-        "mediaCoverage": [
-            {
-                "title": "I Have a Love/Hate Relationship with Kick Bot",
-                "image": "/img/kickbot-twodashstash.png",
-                "description": "Kick Bot is a sadistic and masochistic experience that I absolutely love.",
-                "link": "http://twodashstash.com/2014/05/lovehate-relationship-kick-bot/",
-                "linkText": "Read the full Article"
-            },
-            {
-                "title": "Larry Chupacabra Flappy Jam Finale Video",
-                "image": "/img/kickbot-larrychupacabra.png",
-                "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "CinnamonToastKen Flappy Jam Video",
-                "image": "/img/kickbot-cinnamontoastken.png",
-                "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "http://youtu.be/FPalexORVYI?t=3m28s",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Flappy Jam",
-                "image": "/img/kickbot-flappyjam.png",
-                "description": "The official Flappy Jam page for Kick Bot.",
-                "link": "http://itch.io/jam/flappyjam/rate/2676",
-                "linkText": "Flappy Jam"
-            }
-        ],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/kickbot/game",
-            "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-            "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "apartment213": {
-        "title": "Apartment 213",
-        "logo": "/img/apt213-logo.png",
-        "link": "/apartment213/",
-        "img": "/img/apartment213.png",
-        "hoverimg": "/img/apartment213-hover.gif",
-        "tagline": "Global Game Jam 2014",
-        "description": "This is a game about the ways several characters see the small apartment that their lives cross in. You start from the perspective of a small mouse and slowly switch perspectives with the antagonist of each character's own personal stories. These stories are colored by personal bias and each character's own concept of the apartment they interact in reveals more about that character than it does the apartment itself.",
-        "screenshots": [
-            "/img/apt213-ss-0.png",
-            "/img/apt213-ss-1.png",
-            "/img/apt213-ss-2.png",
-            "/img/apt213-ss-3.png",
-            "/img/apt213-ss-4.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "Global Game Jam 2014",
-                "image": "/img/apt213-ggj14.png",
-                "description": "The official Global Game Jam page for Apartment 213.",
-                "link": "http://globalgamejam.org/2014/games/apartment-213",
-                "linkText": "Global Game Jam 2014"
-            },
-            {
-                "title": "iDubbbzTV Global Game Jam Video 2014",
-                "image": "/img/apt213-idubbbztv.png",
-                "description": "Apartment 213 is featured in a Global Game Jam 2014 lineup video, check it out and don't forget to like, comment, and subscribe! (Caution: STRONG LANGUAGE)",
-                "link": "https://www.youtube.com/watch?v=wRZ0c3bgpu8",
-                "linkText": "Watch the video"
-            }
-        ],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/apartment213/game",
-            "github": "http://splatjs.github.io/"
-        }
-    },
-    "scurry": {
-        "title": "Scurry",
-        "logo": "/img/scurry-logo.png",
-        "link": "/scurry/",
-        "img": "/img/scurry.png",
-        "cornerBand": "Now on iOS!",
-        "tagline": "Run, jump, survive.",
-        "description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
-        "screenshots": [
-            "/img/scurry-ss-0.png",
-            "/img/scurry-ss-6.png",
-            "/img/scurry-ss-1.png",
-            "/img/scurry-ss-2.png",
-            "/img/scurry-ss-3.png",
-            "/img/scurry-ss-4.png",
-            "/img/scurry-ss-5.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "Larry Chupacabra video review",
-                "image": "/img/chupacabra-scurry.png",
-                "description": "Larry reviews the iPad version of Scurry.",
-                "link": "https://www.youtube.com/watch?v=oGpBYrIkG-c&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=5",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Room With Hands Up video review",
-                "image": "/img/rwhuscurry.png",
-                "description": "Jump along as RWHU pays scurry and gives his commentary.",
-                "link": "https://www.youtube.com/watch?v=JYJxbZj28R8&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=9",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Scurry Featured on Indiestatik!",
-                "image": "/img/indiestatik-scurry.png",
-                "description": "If you’ve ever wanted to play a game as a cockroach protagonist, now’s your chance with Two Scoop Games‘ upcoming title, Scurry...",
-                "link": "http://indiestatik.com/2014/06/22/screenshot-scrutiny-june-21st-2014/",
-                "linkText": "Read full article"
-            },
-            {
-                "title": "YAY Scurry - Run Little Roach!",
-                "image": "/img/yay-scurry.png",
-                "description": "Youtuber YAYGaming  plays Scurry and give his oppinions!",
-                "link": "https://www.youtube.com/watch?v=hlQJLsouuiY&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=2",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Scurry | BE ONE WITH THE COCKROACH",
-                "image": "/img/KittehLoaf-scurry.png",
-                "description": "Youtube review of Scurry by KittehLoaf",
-                "link": "https://www.youtube.com/watch?v=rSsa1Yu2CbU&index=4&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U",
-                "linkText": "Watch the video"
-            }
-        ],
-        "storeButtons": {
-            "web": "http://twoscoopgames.com/scurry/game",
-            "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
-            "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
-            "github": "http://splatjs.github.io/"
-        }
-    }
-}
+[{
+	"name": "Flafla2Java/LWJGL",
+	"comment": "Holy **** this one's fun! Also a cool, original idea, which is great since so many people are taking this contest a bit too literally and posting actual flappy bird clones. You should consider porting this to mobile! ",
+	"date": "02-24-14",
+	"link": "",
+	"platform": "Browser"
+}, {
+	"name": "HarryCrumb",
+	"comment": "I love this one. Really good job. Little details like the quick combos you can do really improve it. Feels slick in a Super Meat Boy kind of way.",
+	"date": "02-24-14",
+	"link": "",
+	"platform": "Browser"
+}, {
+	"name": "Stinkfest",
+	"comment": "That's super cool guys! Love everything about it :)",
+	"date": "02-24-14",
+	"link": "",
+	"platform": "Browser"
+}, {
+	"name": "whatevermansure",
+	"comment": "Great game! Kind of like those ninja games except you have to keep kicking.",
+	"date": "02-24-14",
+	"link": "",
+	"platform": "Browser"
+}, {
+	"name": "April B.",
+	"comment": "I LOVE THIS GAME! Some might find it frustrating and repetitive, but I've always had a soft spot for ancient arcade games. It's just soooo incredibly rewarding when you beat that high score",
+	"date": "05-01-14",
+	"link": "",
+	"platform": "Chrome Web Store"
+}, {
+	"name": "Bruce S.",
+	"comment": "Super fun, Difficult, Can't wait for the mobile version!",
+	"date": "05-02-14",
+	"link": "",
+	"platform": "Chrome Web Store"
+}, {
+	"name": "KangarooBox",
+	"comment": "This game is super! This game is super simple, super hard, and super fun!",
+	"date": "05-02-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Charlie S.",
+	"comment": "this is the best thing ive got on my computer",
+	"date": "05-02-14",
+	"link": "",
+	"platform": "Chrome Web Store"
+}, {
+	"name": "Plfree6p",
+	"comment": "I'm really enjoying this challenging, fun and addictive game. Constantly trying to beat my high score the creators did a great job creating a unique character for a creative game!",
+	"date": "05-02-14",
+	"link": "",
+	"platform": "iPhone"
+}, {
+	"name": "@martinreimer",
+	"comment": "It's like megaman meets Flappy Bird... so good.",
+	"date": "05-03-14",
+	"link": "https://twitter.com/martinreimer",
+	"platform": ""
+}, {
+	"name": "Vimukthi A.",
+	"comment": "brilliant game :) can anyone beat 117?",
+	"date": "05-04-14",
+	"link": "",
+	"platform": "Chrome Web Store"
+}, {
+	"name": "FlickxFlackxFilms",
+	"comment": "AWESOME!!!!!!!!",
+	"date": "05-11-14",
+	"link": "",
+	"platform": "Chrome Web Store"
+}, {
+	"name": "Nick A.",
+	"comment": "Very hard, addicting, and SUPER FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!...",
+	"date": "04-27-14",
+	"link": ""
+}, {
+	"name": "Steven S.",
+	"comment": "Difficult but really enjoyable",
+	"date": "04-13-14",
+	"link": ""
+}, {
+	"name": "Christian A.",
+	"comment": "This is harder than flappy bird... but soo fun, thank u",
+	"date": "04-25-14",
+	"link": ""
+}, {
+	"name": "Robert V.",
+	"comment": "Really Hard but it's awesome when you can beat the high score [28]",
+	"date": "04-22-14",
+	"link": ""
+}, {
+	"name": "Brian L.",
+	"comment": "It's hard, but it feels so rewarding to beat your high score! [20]!",
+	"date": "03-18-14",
+	"link": ""
+}, {
+	"name": "Richard H.",
+	"comment": "Man, this game is *super* hard AND tons of fun! Thanx!",
+	"date": "03-03-14",
+	"link": ""
+}, {
+	"name": "@AlcotSirk",
+	"comment": "Best Robot Murder Tunnel of the Year so far",
+	"date": "02-20-14",
+	"link": "https://twitter.com/AlcotSirk"
+}, {
+	"name": "@typocracy",
+	"comment": "This is pretty awesome guys, well done!",
+	"date": "02-19-14",
+	"link": "https://twitter.com/typocracy"
+}, {
+	"name": "@tb",
+	"comment": "BTW, the game itself is awesome! Go checkout KICKBOT!",
+	"date": "02-19-14",
+	"link": "https://twitter.com/tb"
+}, {
+	"name": "@rogueNoodle",
+	"comment": "Kick Bot is a great, rage-inducing #flappyjam entry from @TwoScoopGames!",
+	"date": "02-20-14",
+	"link": "https://twitter.com/rogueNoodle"
+}, {
+	"name": "Ryan S.",
+	"comment": "I hated it.",
+	"date": "02-19-14",
+	"link": ""
+}, {
+	"name": "Aaron S.",
+	"comment": "Super fun! Great to see new games that don't have \"flappy\" in the title.",
+	"date": "02-19-14",
+	"link": ""
+}, {
+	"name": "Mary W.",
+	"comment": "This might be my new obsession...",
+	"date": "02-18-14",
+	"link": ""
+}, {
+	"name": "Gregory L.",
+	"comment": "Sir, I think you might've just rivaled flappy bird with this game.",
+	"date": "02-18-14",
+	"link": ""
+}, {
+	"name": "David D.",
+	"comment": "I'd rather punch myself in the head. Well, maybe I'll try one more time",
+	"date": "02-19-14",
+	"link": ""
+}, {
+	"name": "Smithinite",
+	"comment": "I really enjoy it!! Super addicting, and very original!",
+	"date": "05-09-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Bug124",
+	"comment": "Hard at first but now I'm hooked",
+	"date": "05-09-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Holli Leonard",
+	"comment": "Super Fun, This game is fun and addicting!",
+	"date": "05-11-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Pioneer Fink",
+	"comment": "Kick Bot Yes! Awesome game, Very addictive, challenging and fast paced.",
+	"date": "05-06-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "JoshuaJones",
+	"comment": "So frustrating, but I can't seem to stop playing. Easily the next flappy bird.",
+	"date": "05-03-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "ShadowFax77",
+	"comment": "Kick Bot Number One! Super! The best wall jumping robot action game of all time.",
+	"date": "05-03-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Megbeth987",
+	"comment": "This game is super fun and addicting!",
+	"date": "05-03-14",
+	"link": "",
+	"platform": "iOS"
+}, {
+	"name": "Brookie10787",
+	"comment": "Kick bot is kick butt! I'm loving this challenging and addictive game. I'm constantly trying to beat my high score! Love it!!!",
+	"date": "05-03-14",
+	"link": "",
+	"platform": "iOS"
+}]
