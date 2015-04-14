@@ -1,32 +1,100 @@
-[{
-		"name": "Varun Ramesh",
-		"comment": "Loved the puzzles in this! Forced me to think ahead regarding every step!",
-		"date": "08-29-14",
-		"link": "http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=1675",
-		"platform": "Browser"
-	}, {
-		"name": "Maruki (•⊙ω⊙•)",
-		"comment": "This was fun! <3 ",
-		"date": "08-29-14",
-		"link": "https://twitter.com/MarukiHurakami",
-		"platform": "Browser"
-	}, {
-		"name": "Larry Chupacabra",
-		"comment": "They do a nice job with the cartoony style art, it's always fun and bubbly.",
-		"date": "09-01-14",
-		"link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
-		"platform": "Browser"
-	}, {
-		"name": "Larry Chupacabra",
-		"comment": "It's cute, it's strong, I dig it.",
-		"date": "09-01-14",
-		"link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
-		"platform": "Browser"
-	}, {
-		"name": "Obsolete Entertainment",
-		"comment": "Fun game!",
-		"date": "09-01-14",
-		"link": "https://www.youtube.com/channel/UCy-3kSD4Ls-d6S4x460oYxA",
-		"platform": "Browser"
-}
+[
+    {
+        "name": "Varun Ramesh",
+        "comment": "Loved the puzzles in this! Forced me to think ahead regarding every step!",
+        "date": "08-29-14",
+        "link": "http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=1675",
+        "platform": "Browser"
+    },
+    {
+        "name": "Maruki (•⊙ω⊙•)",
+        "comment": "This was fun! <3 ",
+        "date": "08-29-14",
+        "link": "https://twitter.com/MarukiHurakami",
+        "platform": "Browser"
+    },
+    {
+        "name": "Larry Chupacabra",
+        "comment": "They do a nice job with the cartoony style art, it's always fun and bubbly.",
+        "date": "09-01-14",
+        "link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
+        "platform": "Browser"
+    },
+    {
+        "name": "Larry Chupacabra",
+        "comment": "It's cute, it's strong, I dig it.",
+        "date": "09-01-14",
+        "link": "https://youtube.com/user/LarryChupacabra?feature=hovercard",
+        "platform": "Browser"
+    },
+    {
+        "name": "Obsolete Entertainment",
+        "comment": "Fun game!",
+        "date": "09-01-14",
+        "link": "https://www.youtube.com/channel/UCy-3kSD4Ls-d6S4x460oYxA",
+        "platform": "Browser"
+    },
+    {
+        "name": "EndingChaos",
+        "comment": "Very original concept!",
+        "date": "08-26-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "Crowbeak",
+        "comment": "This is a really neat idea and the animations are cute.",
+        "date": "08-31-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "Piat",
+        "comment": "Cute art :)",
+        "date": "08-26-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "vividhelix",
+        "comment": "Sweet animation, and the dying sound made me literally laugh :) Good job!",
+        "date": "08-31-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "Rozaxe",
+        "comment": "Funny game! The hamster is so cute !",
+        "date": "08-26-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "Erkberg ",
+        "comment": "Very nice concept and execution. Love the death scream! :)",
+        "date": "09-03-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "eatsleepindie ",
+        "comment": "Great art and level design. Really enjoyed Stanleys animations.",
+        "date": "09-07-14",
+        "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347",
+        "platform": "Browser"
+    },
+    {
+        "name": "Jupiter_Hadley",
+        "comment": "Nice graphics, cute story!",
+        "date": "09-07-14",
+        "link": "http://youtu.be/ljAqElzAd_Q",
+        "platform": "Browser"
+    },
+    {
+        "name": "James E",
+        "comment": "Stanley Squeaks was amazing",
+        "date": "04-12-15",
+        "link": "https://twitter.com/youngjaimus",
+        "platform": "Browser"
+    }
 ]
