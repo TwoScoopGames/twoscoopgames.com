@@ -1,196 +1,260 @@
-[{
-	"name": "Flafla2Java/LWJGL",
-	"comment": "Holy **** this one's fun! Also a cool, original idea, which is great since so many people are taking this contest a bit too literally and posting actual flappy bird clones. You should consider porting this to mobile! ",
-	"date": "02-24-14",
-	"link": "",
-	"platform": "Browser"
-}, {
-	"name": "HarryCrumb",
-	"comment": "I love this one. Really good job. Little details like the quick combos you can do really improve it. Feels slick in a Super Meat Boy kind of way.",
-	"date": "02-24-14",
-	"link": "",
-	"platform": "Browser"
-}, {
-	"name": "Stinkfest",
-	"comment": "That's super cool guys! Love everything about it :)",
-	"date": "02-24-14",
-	"link": "",
-	"platform": "Browser"
-}, {
-	"name": "whatevermansure",
-	"comment": "Great game! Kind of like those ninja games except you have to keep kicking.",
-	"date": "02-24-14",
-	"link": "",
-	"platform": "Browser"
-}, {
-	"name": "April B.",
-	"comment": "I LOVE THIS GAME! Some might find it frustrating and repetitive, but I've always had a soft spot for ancient arcade games. It's just soooo incredibly rewarding when you beat that high score",
-	"date": "05-01-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Bruce S.",
-	"comment": "Super fun, Difficult, Can't wait for the mobile version!",
-	"date": "05-02-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "KangarooBox",
-	"comment": "This game is super! This game is super simple, super hard, and super fun!",
-	"date": "05-02-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Charlie S.",
-	"comment": "this is the best thing ive got on my computer",
-	"date": "05-02-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Plfree6p",
-	"comment": "I'm really enjoying this challenging, fun and addictive game. Constantly trying to beat my high score the creators did a great job creating a unique character for a creative game!",
-	"date": "05-02-14",
-	"link": "",
-	"platform": "iPhone"
-}, {
-	"name": "@martinreimer",
-	"comment": "It's like megaman meets Flappy Bird... so good.",
-	"date": "05-03-14",
-	"link": "https://twitter.com/martinreimer",
-	"platform": ""
-}, {
-	"name": "Vimukthi A.",
-	"comment": "brilliant game :) can anyone beat 117?",
-	"date": "05-04-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "FlickxFlackxFilms",
-	"comment": "AWESOME!!!!!!!!",
-	"date": "05-11-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Nick A.",
-	"comment": "Very hard, addicting, and SUPER FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!...",
-	"date": "04-27-14",
-	"link": ""
-}, {
-	"name": "Steven S.",
-	"comment": "Difficult but really enjoyable",
-	"date": "04-13-14",
-	"link": ""
-}, {
-	"name": "Christian A.",
-	"comment": "This is harder than flappy bird... but soo fun, thank u",
-	"date": "04-25-14",
-	"link": ""
-}, {
-	"name": "Robert V.",
-	"comment": "Really Hard but it's awesome when you can beat the high score [28]",
-	"date": "04-22-14",
-	"link": ""
-}, {
-	"name": "Brian L.",
-	"comment": "It's hard, but it feels so rewarding to beat your high score! [20]!",
-	"date": "03-18-14",
-	"link": ""
-}, {
-	"name": "Richard H.",
-	"comment": "Man, this game is *super* hard AND tons of fun! Thanx!",
-	"date": "03-03-14",
-	"link": ""
-}, {
-	"name": "@AlcotSirk",
-	"comment": "Best Robot Murder Tunnel of the Year so far",
-	"date": "02-20-14",
-	"link": "https://twitter.com/AlcotSirk"
-}, {
-	"name": "@typocracy",
-	"comment": "This is pretty awesome guys, well done!",
-	"date": "02-19-14",
-	"link": "https://twitter.com/typocracy"
-}, {
-	"name": "@tb",
-	"comment": "BTW, the game itself is awesome! Go checkout KICKBOT!",
-	"date": "02-19-14",
-	"link": "https://twitter.com/tb"
-}, {
-	"name": "@rogueNoodle",
-	"comment": "Kick Bot is a great, rage-inducing #flappyjam entry from @TwoScoopGames!",
-	"date": "02-20-14",
-	"link": "https://twitter.com/rogueNoodle"
-}, {
-	"name": "Ryan S.",
-	"comment": "I hated it.",
-	"date": "02-19-14",
-	"link": ""
-}, {
-	"name": "Aaron S.",
-	"comment": "Super fun! Great to see new games that don't have \"flappy\" in the title.",
-	"date": "02-19-14",
-	"link": ""
-}, {
-	"name": "Mary W.",
-	"comment": "This might be my new obsession...",
-	"date": "02-18-14",
-	"link": ""
-}, {
-	"name": "Gregory L.",
-	"comment": "Sir, I think you might've just rivaled flappy bird with this game.",
-	"date": "02-18-14",
-	"link": ""
-}, {
-	"name": "David D.",
-	"comment": "I'd rather punch myself in the head. Well, maybe I'll try one more time",
-	"date": "02-19-14",
-	"link": ""
-}, {
-	"name": "Smithinite",
-	"comment": "I really enjoy it!! Super addicting, and very original!",
-	"date": "05-09-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Bug124",
-	"comment": "Hard at first but now I'm hooked",
-	"date": "05-09-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Holli Leonard",
-	"comment": "Super Fun, This game is fun and addicting!",
-	"date": "05-11-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Pioneer Fink",
-	"comment": "Kick Bot Yes! Awesome game, Very addictive, challenging and fast paced.",
-	"date": "05-06-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "JoshuaJones",
-	"comment": "So frustrating, but I can't seem to stop playing. Easily the next flappy bird.",
-	"date": "05-03-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "ShadowFax77",
-	"comment": "Kick Bot Number One! Super! The best wall jumping robot action game of all time.",
-	"date": "05-03-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Megbeth987",
-	"comment": "This game is super fun and addicting!",
-	"date": "05-03-14",
-	"link": "",
-	"platform": "iOS"
-}, {
-	"name": "Brookie10787",
-	"comment": "Kick bot is kick butt! I'm loving this challenging and addictive game. I'm constantly trying to beat my high score! Love it!!!",
-	"date": "05-03-14",
-	"link": "",
-	"platform": "iOS"
-}]
+[
+    {
+        "name": "Flafla2Java/LWJGL",
+        "comment": "Holy **** this one's fun! Also a cool, original idea, which is great since so many people are taking this contest a bit too literally and posting actual flappy bird clones. You should consider porting this to mobile! ",
+        "date": "02-24-14",
+        "link": "",
+        "platform": "Browser"
+    },
+    {
+        "name": "HarryCrumb",
+        "comment": "I love this one. Really good job. Little details like the quick combos you can do really improve it. Feels slick in a Super Meat Boy kind of way.",
+        "date": "02-24-14",
+        "link": "",
+        "platform": "Browser"
+    },
+    {
+        "name": "Stinkfest",
+        "comment": "That's super cool guys! Love everything about it :)",
+        "date": "02-24-14",
+        "link": "",
+        "platform": "Browser"
+    },
+    {
+        "name": "whatevermansure",
+        "comment": "Great game! Kind of like those ninja games except you have to keep kicking.",
+        "date": "02-24-14",
+        "link": "",
+        "platform": "Browser"
+    },
+    {
+        "name": "April B.",
+        "comment": "I LOVE THIS GAME! Some might find it frustrating and repetitive, but I've always had a soft spot for ancient arcade games. It's just soooo incredibly rewarding when you beat that high score",
+        "date": "05-01-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Bruce S.",
+        "comment": "Super fun, Difficult, Can't wait for the mobile version!",
+        "date": "05-02-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "KangarooBox",
+        "comment": "This game is super! This game is super simple, super hard, and super fun!",
+        "date": "05-02-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Charlie S.",
+        "comment": "this is the best thing ive got on my computer",
+        "date": "05-02-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Plfree6p",
+        "comment": "I'm really enjoying this challenging, fun and addictive game. Constantly trying to beat my high score the creators did a great job creating a unique character for a creative game!",
+        "date": "05-02-14",
+        "link": "",
+        "platform": "iPhone"
+    },
+    {
+        "name": "@martinreimer",
+        "comment": "It's like megaman meets Flappy Bird... so good.",
+        "date": "05-03-14",
+        "link": "https://twitter.com/martinreimer",
+        "platform": ""
+    },
+    {
+        "name": "Vimukthi A.",
+        "comment": "brilliant game :) can anyone beat 117?",
+        "date": "05-04-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "FlickxFlackxFilms",
+        "comment": "AWESOME!!!!!!!!",
+        "date": "05-11-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Nick A.",
+        "comment": "Very hard, addicting, and SUPER FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!...",
+        "date": "04-27-14",
+        "link": ""
+    },
+    {
+        "name": "Steven S.",
+        "comment": "Difficult but really enjoyable",
+        "date": "04-13-14",
+        "link": ""
+    },
+    {
+        "name": "Christian A.",
+        "comment": "This is harder than flappy bird... but soo fun, thank u",
+        "date": "04-25-14",
+        "link": ""
+    },
+    {
+        "name": "Robert V.",
+        "comment": "Really Hard but it's awesome when you can beat the high score [28]",
+        "date": "04-22-14",
+        "link": ""
+    },
+    {
+        "name": "Brian L.",
+        "comment": "It's hard, but it feels so rewarding to beat your high score! [20]!",
+        "date": "03-18-14",
+        "link": ""
+    },
+    {
+        "name": "Richard H.",
+        "comment": "Man, this game is *super* hard AND tons of fun! Thanx!",
+        "date": "03-03-14",
+        "link": ""
+    },
+    {
+        "name": "@AlcotSirk",
+        "comment": "Best Robot Murder Tunnel of the Year so far",
+        "date": "02-20-14",
+        "link": "https://twitter.com/AlcotSirk"
+    },
+    {
+        "name": "@typocracy",
+        "comment": "This is pretty awesome guys, well done!",
+        "date": "02-19-14",
+        "link": "https://twitter.com/typocracy"
+    },
+    {
+        "name": "@tb",
+        "comment": "BTW, the game itself is awesome! Go checkout KICKBOT!",
+        "date": "02-19-14",
+        "link": "https://twitter.com/tb"
+    },
+    {
+        "name": "@rogueNoodle",
+        "comment": "Kick Bot is a great, rage-inducing #flappyjam entry from @TwoScoopGames!",
+        "date": "02-20-14",
+        "link": "https://twitter.com/rogueNoodle"
+    },
+    {
+        "name": "Ryan S.",
+        "comment": "I hated it.",
+        "date": "02-19-14",
+        "link": ""
+    },
+    {
+        "name": "Aaron S.",
+        "comment": "Super fun! Great to see new games that don't have \"flappy\" in the title.",
+        "date": "02-19-14",
+        "link": ""
+    },
+    {
+        "name": "Mary W.",
+        "comment": "This might be my new obsession...",
+        "date": "02-18-14",
+        "link": ""
+    },
+    {
+        "name": "Gregory L.",
+        "comment": "Sir, I think you might've just rivaled flappy bird with this game.",
+        "date": "02-18-14",
+        "link": ""
+    },
+    {
+        "name": "David D.",
+        "comment": "I'd rather punch myself in the head. Well, maybe I'll try one more time",
+        "date": "02-19-14",
+        "link": ""
+    },
+    {
+        "name": "Smithinite",
+        "comment": "I really enjoy it!! Super addicting, and very original!",
+        "date": "05-09-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Bug124",
+        "comment": "Hard at first but now I'm hooked",
+        "date": "05-09-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Holli Leonard",
+        "comment": "Super Fun, This game is fun and addicting!",
+        "date": "05-11-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Pioneer Fink",
+        "comment": "Kick Bot Yes! Awesome game, Very addictive, challenging and fast paced.",
+        "date": "05-06-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "JoshuaJones",
+        "comment": "So frustrating, but I can't seem to stop playing. Easily the next flappy bird.",
+        "date": "05-03-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "ShadowFax77",
+        "comment": "Kick Bot Number One! Super! The best wall jumping robot action game of all time.",
+        "date": "05-03-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Megbeth987",
+        "comment": "This game is super fun and addicting!",
+        "date": "05-03-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Brookie10787",
+        "comment": "Kick bot is kick butt! I'm loving this challenging and addictive game. I'm constantly trying to beat my high score! Love it!!!",
+        "date": "05-03-14",
+        "link": "",
+        "platform": "iOS"
+    },
+    {
+        "name": "Aliyah Branum",
+        "comment": "This is the only game that can make you feel awesome with a score of four.",
+        "date": "02-27-2015",
+        "link": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "melissa dekoter",
+        "comment": "Its very addictive and I can't stop playing it.",
+        "date": "09-01-2014",
+        "link": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Brandon Allen",
+        "comment": "its like a fun version of flappybird",
+        "date": "07-31-2014",
+        "link": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Bill Storms",
+        "comment": "I WILL KICK ALL THE BOTS",
+        "date": "06-24-2014",
+        "link": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+        "platform": "Chrome Web Store"
+    }
+]

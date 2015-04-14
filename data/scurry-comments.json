@@ -1,61 +1,79 @@
-[{
-	"name": "Sara Passino",
-	"comment": "So fun, offline use for chromebooks which is nice because it doesn't take you to another website instead it just downloads",
-	"date": "07-04-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Bill Storms",
-	"comment": "Scurry is what keeps me from getting any work done. Argh!!!!",
-	"date": "06-24-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "santii Vlogs",
-	"comment": "It's a very good game and very entertaining",
-	"date": "07-28-14",
-	"link": "https://www.youtube.com/channel/UCVxEBdEZFFPbJuyQq9kaTZQ",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Maruki (•⊙ω⊙•)",
-	"comment": "scurry is so cool! That roach is so cute! I think I'll never kill one ever again!",
-	"date": "07-06-14",
-	"link": "https://twitter.com/SuperSugoiSoftS",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Two Dash Stash",
-	"comment": "It's like BIT.TRIP RUNNER with a cockroach in a grocery store.",
-	"date": "07-23-14",
-	"link": "TwoDashStash.com",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Yami NoHime",
-	"comment": "Gahd it's the best game ever! And it's my first time to wish cockroaches won't die.",
-	"date": "07-30-14",
-	"link": "",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Jeff Dehut",
-	"comment": "Rad Well done guys!",
-	"date": "07-09-14",
-	"link": "",
-	"platform": "iOS App Store"
-}, {
-	"name": "ElvisRaygun",
-	"comment": "Manic fun. I was playing this with my son today. It's very challenging and fun to play with a friend.",
-	"date": "07-13-14",
-	"link": "",
-	"platform": "iOS App Store"
-}, {
-	"name": "YAY gaming",
-	"comment": "Thanks for introducing me to the cutest roach I ever did see.﻿",
-	"date": "08-02-14",
-	"link": "https://www.youtube.com/user/YAYGamingVideos",
-	"platform": "Chrome Web Store"
-}, {
-	"name": "Lucy Morris",
-	"comment": "even my cold, hardened heart has to warm slightly to the adorable cockroach that leaps about on your screen as you play Scurry.",
-	"date": "06-21-14",
-	"link": "http://indiestatik.com/author/lucyamorris/",
-	"platform": ""
-}]
+[
+    {
+        "name": "Sara Passino",
+        "comment": "So fun, offline use for chromebooks which is nice because it doesn't take you to another website instead it just downloads",
+        "date": "07-04-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Bill Storms",
+        "comment": "Scurry is what keeps me from getting any work done. Argh!!!!",
+        "date": "06-24-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "santii Vlogs",
+        "comment": "It's a very good game and very entertaining",
+        "date": "07-28-14",
+        "link": "https://www.youtube.com/channel/UCVxEBdEZFFPbJuyQq9kaTZQ",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Maruki (•⊙ω⊙•)",
+        "comment": "scurry is so cool! That roach is so cute! I think I'll never kill one ever again!",
+        "date": "07-06-14",
+        "link": "https://twitter.com/SuperSugoiSoftS",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Two Dash Stash",
+        "comment": "It's like BIT.TRIP RUNNER with a cockroach in a grocery store.",
+        "date": "07-23-14",
+        "link": "TwoDashStash.com",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Yami NoHime",
+        "comment": "Gahd it's the best game ever! And it's my first time to wish cockroaches won't die.",
+        "date": "07-30-14",
+        "link": "",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Jeff Dehut",
+        "comment": "Rad Well done guys!",
+        "date": "07-09-14",
+        "link": "",
+        "platform": "iOS App Store"
+    },
+    {
+        "name": "ElvisRaygun",
+        "comment": "Manic fun. I was playing this with my son today. It's very challenging and fun to play with a friend.",
+        "date": "07-13-14",
+        "link": "",
+        "platform": "iOS App Store"
+    },
+    {
+        "name": "YAY gaming",
+        "comment": "Thanks for introducing me to the cutest roach I ever did see.﻿",
+        "date": "08-02-14",
+        "link": "https://www.youtube.com/user/YAYGamingVideos",
+        "platform": "Chrome Web Store"
+    },
+    {
+        "name": "Lucy Morris",
+        "comment": "even my cold, hardened heart has to warm slightly to the adorable cockroach that leaps about on your screen as you play Scurry.",
+        "date": "06-21-14",
+        "link": "http://indiestatik.com/author/lucyamorris/",
+        "platform": ""
+    },
+    {
+        "name": "Christopher Skinner",
+        "comment": "Excellent, really fun to play during class",
+        "date": "11-09-14",
+        "link": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof/reviews",
+        "platform": "Chrome Web Store"
+    }
+]
