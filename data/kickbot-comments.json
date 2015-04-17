@@ -1,5 +1,12 @@
 [
     {
+        "name": "Howdy Cara",
+        "comment": "Addicting and challenging! Very fast-paced and difficult. It quickly restarts which I enjoy. Great challenge!",
+        "date": "04-14-15",
+        "link": "",
+        "platform": "iPhone"
+    },
+    {
         "name": "Flafla2Java/LWJGL",
         "comment": "Holy **** this one's fun! Also a cool, original idea... ",
         "date": "02-24-14",
@@ -182,7 +189,7 @@
     },
     {
         "name": "Bug124",
-        "comment": "Hard at first but now I'm hooked",
+        "comment": "Awesome game! Hard at first but now I'm hooked",
         "date": "05-09-14",
         "link": "",
         "platform": "iOS"
