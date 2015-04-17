@@ -332,6 +332,13 @@
                 "description": "Apartment 213 is featured in a Global Game Jam 2014 lineup video, check it out and don't forget to like, comment, and subscribe! (Caution: STRONG LANGUAGE)",
                 "link": "https://www.youtube.com/watch?v=wRZ0c3bgpu8",
                 "linkText": "Watch the video"
+            },
+            {
+                "title": "amynapkins plays Apt 213!",
+                "image": "/img/apt213-amynapkins.png",
+                "description": "Youtuber amynapkins plays our first global game jam game.",
+                "link": "https://www.youtube.com/watch?v=xbo6_ulNR7I",
+                "linkText": "Watch the video"
             }
         ],
         "storeButtons": {
