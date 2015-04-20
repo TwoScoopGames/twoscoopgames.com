@@ -21,11 +21,11 @@
             "shareUrl": "http://twoscoopgames.com/apartment213",
             "shareMessage": "Check out Apartment 213 from Two Scoop Games"
         },
-        "site/blackjack/index.html.hbs": {
+        "site/uprooted/index.html.hbs": {
             "layout": "layout/game-page.html.hbs",
-            "title": "Chromecast Blackjack by Two Scoop Games",
-            "shareUrl": "http://twoscoopgames.com/blackjack",
-            "shareMessage": "Check out Chromecast Blackjack from Two Scoop Games"
+            "title": "Uprooted by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/uprooted",
+            "shareMessage": "Check out Uprooted from Two Scoop Games"
         },
         "site/fluffykins/index.html.hbs": {
             "layout": "layout/game-page.html.hbs",

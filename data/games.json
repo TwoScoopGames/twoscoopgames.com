@@ -29,7 +29,7 @@
             {
                 "title": "Lisa Brown (@wertle) plays Stanley Squeaks!",
                 "image": "/img/stanleysqueaks-wertle.png",
-                "description": "Lisa Brown of Insomniac games tries out Stanley Squeaks and gives up pointers!",
+                "description": "Lisa Brown of Insomniac games tries out Stanley Squeaks and gives us pointers!",
                 "link": "https://www.youtube.com/watch?v=kJgd3HtUXpI",
                 "linkText": "Watch on Youtube!"
             },
@@ -46,12 +46,33 @@
             "github": "http://splatjs.github.io/"
         }
     },
+    "uprooted": {
+        "title": "Uprooted",
+        "logo": "/img/uprooted-icon.png",
+        "link": "/uprooted/",
+        "img": "/img/uprooted.png",
+        "cornerBand": "New!",
+        "tagline": "",
+        "description": "",
+        "videos": [
+            "oYfJlpYClls"
+        ],
+        "screenshots": [
+            "/img/uprooted-ss-0.png",
+            "/img/uprooted-ss-1.png",
+            "/img/uprooted-ss-2.png",
+            "/img/uprooted-ss-3.png"
+        ],
+        "storeButtons": {
+            "web": "http://twoscoopgames.com/ld32/",
+            "github": "http://splatjs.github.io/"
+        }
+    },
     "thedaytheworldchanged": {
         "title": "The Day the World Changed",
         "logo": "/img/thedaytheworldchanged-icon.png",
         "link": "/thedaytheworldchanged/",
         "img": "/img/thedaytheworldchanged.png",
-        "cornerBand": "NEW",
         "tagline": "One event can change a lifetime",
         "description": "The Day the World Changed is a somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community. Controls: left/right arrow keys Game created for the Glabal Game Jam Janurary 2015.",
         "videos": [
@@ -89,7 +110,6 @@
         "logo": "/img/desserts-icon.png",
         "link": "/desserts/",
         "img": "/img/desserts.png",
-        "cornerBand": "",
         "tagline": "Fast-paced score-based arcade game. ",
         "description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
         "screenshots": [
@@ -131,7 +151,6 @@
         "logo": "/img/SyRUSH-large-icon3.png",
         "link": "/syrush/",
         "img": "/img/syrush.png",
-        "cornerBand": "Now on iOS",
         "tagline": "Now Available on iPhone, iPad, & iPod Touch",
         "description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
         "videos": [
@@ -229,19 +248,6 @@
             "web": "http://twoscoopgames.com/fluffykins/game",
             "github": "http://splatjs.github.io/"
         }
-    },
-    "blackjack": {
-        "title": "Chromecast Blackjack",
-        "logo": "/img/blackjack-logo.png",
-        "link": "/blackjack/",
-        "img": "/img/blackjack.png",
-        "cornerBand": "COMING SOON",
-        "tagline": "1-4 player Blackjack on your Chromecast",
-        "description": "Play blackjack on your big screen! Using your Android or iOS devices, up to 4 players can play together on a simulated casino blackjack table. Coming soon.",
-        "screenshots": [
-            "/img/blackjack-ss-0.png",
-            "/img/blackjack-ss-1.png"
-        ]
     },
     "kickbot": {
         "title": "Kick Bot",
@@ -351,7 +357,6 @@
         "logo": "/img/scurry-logo.png",
         "link": "/scurry/",
         "img": "/img/scurry.png",
-        "cornerBand": "Now on iOS!",
         "tagline": "Run, jump, survive.",
         "description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
         "screenshots": [
