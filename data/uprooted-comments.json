@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "name": "Mark M.",
+        "comment": "I love this...",
+        "date": "04-21-15",
+        "link": "",
+        "platform": "browser"
+    },
+    {
+        "name": "SecondDimension",
+        "comment": "That was fun, especially when you get a rabbit. Very addictive game, I died a lot but kept coming back for more.",
+        "date": "04-21-15",
+        "link": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=37347",
+        "platform": "browser"
+    },
+    {
+        "name": "OnlySlightly",
+        "comment": "The animation and music was awesome! Really great aesthetic overall but I've come to expect that from you guys ;) Overall game feel was great to. It was really satisfying smashing down on those rabbits. (p.s. I loved that they were on treadmills)",
+        "date": "04-20-15",
+        "link": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=37347",
+        "platform": "browser"
+    }
+]
