@@ -62,6 +62,12 @@
             "title": "The Day the World Changed by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/thedaytheworldchanged",
             "shareMessage": "The Day the World Changed from Two Scoop Games"
+        },
+        "site/treatmentandcontrol/index.html.hbs": {
+            "layout": "layout/game-page.html.hbs",
+            "title": "Treatment and Control by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/treatmentandcontrol",
+            "shareMessage": "Treatment and Control from Two Scoop Games"
         }
     }
 }

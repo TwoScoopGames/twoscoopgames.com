@@ -1,4 +1,34 @@
 {
+  "treatmentandcontrol": {
+      "title": "Treatment and Control",
+      "logo": "/img/treatmentandcontrol-icon.png",
+      "link": "/treatmentandcontrol/",
+      "img": "/img/treatmentandcontrol.png",
+      "cornerBand": "#LD33",
+      "tagline": "Who is in control?",
+      "description": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop. Art/Animation by Alex Bezuska @AlexBezuska ",
+      "videos": [],
+      "screenshots": [
+          "/img/treatmentandcontrol-ss-0.jpg",
+          "/img/treatmentandcontrol-ss-1.jpg",
+          "/img/treatmentandcontrol-ss-2.jpg",
+          "/img/treatmentandcontrol-ss-3.jpg",
+          "/img/treatmentandcontrol-ss-4.jpg"
+      ],
+      "mediaCoverage": [
+          {
+              "title": "Amy Napkins plays Treatment and Control",
+              "image": "/img/treatmentandcontrol-amynapkins.jpg",
+              "description": "Youtuber Amy Napkins ponders the ethics of her new job in Treatment and Control.",
+              "link": "https://www.youtube.com/watch?v=HeaWMsnfNdg",
+              "linkText": "Watch on Youtube!"
+          }
+      ],
+      "storeButtons": {
+          "web": "http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=37347",
+          "github": "http://splatjs.github.io/"
+      }
+  },
     "stanleysqueaks": {
         "title": "Stanley Squeaks and the Emerald Burrito",
         "logo": "/img/stanleysqueaks-logo.png",
