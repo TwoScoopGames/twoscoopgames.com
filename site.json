@@ -86,6 +86,12 @@
             "title": "Electropolis by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/electropolis",
             "shareMessage": "Electropolis from Two Scoop Games"
+        },
+        "site/duolastic/index.html.hbs": {
+            "layout": "layout/game-page.html.hbs",
+            "title": "Duolastic by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/duolastic",
+            "shareMessage": "Duolastic from Two Scoop Games"
         }
     }
 }
