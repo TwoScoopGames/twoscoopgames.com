@@ -1,10 +1,9 @@
 @import"vendor/font-awesome.min";
-
+@import"vendor/flexslider";
 
 @import"structure";
 @import"colors";
 @import"typography";
-
 @import"social";
 @import"defaults";
 @import"nav";
@@ -15,7 +14,7 @@
 @import"game-page-top";
 @import"media-coverage";
 @import"store-buttons";
-@import"flex-slider";
+
 
 
 .games {
@@ -29,27 +28,28 @@
       margin: 0 0 10px 0;
     }
   }
+
   img {
     margin: 0px;
   }
+
   a {
     margin: 0 auto;
     padding: 0px;
     color: darken($concrete, 4%);
     text-decoration: none;
-}
+  }
+
   h2 {
     text-align: center;
     font-weight: 300px;
     margin: -10px 0 0 0;
     padding: 25px 0;
     background: white;
-
     font-family: "helvetica", verdana, sans-serif;
     font-weight: 200;
     letter-spacing: .12rem;
     width: 100%;
-
     transition: (all .2s ease-in-out);
     &:hover{
       background: $primary;
@@ -74,19 +74,15 @@
   transform:(rotate(45deg));
 }
 
-
-
 .whiteBox{
-   @extend .pageWidth;
-    position: relative;
-padding: 15px;
-background: white;
- color: darken($concrete, 4%);
-    border-radius: 20px;
-    box-shadow: 0 1px 4px rgba(0,0,0,.2);
+  @extend .pageWidth;
+  position: relative;
+  padding: 15px;
+  background: white;
+  color: darken($concrete, 4%);
+  border-radius: 20px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.2);
 }
-
-
 
 .about{
   .module{
@@ -97,11 +93,8 @@ background: white;
   }
 }
 
-
-
-
 .hide-on-mobile{
-   @include breakpoint(baby-bear) {
-     display: none;
-    }
+  @include breakpoint(baby-bear) {
+    display: none;
+  }
 }

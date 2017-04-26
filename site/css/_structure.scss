@@ -103,7 +103,7 @@ $col-gutter-half: $col-gutter / 2;
 .col1-3,
 .col3-9 {
   @extend .col;
- 
+
     @include breakpoint(baby-bear) {
      width: 100%;
   }
@@ -135,7 +135,7 @@ $col-gutter-half: $col-gutter / 2;
 .col2-8 {
   @extend .col;
 
-   
+
     @include breakpoint(baby-bear) {
      width: 100%;
   }
@@ -155,7 +155,7 @@ $col-gutter-half: $col-gutter / 2;
 .col1-5,
 .col2-10 {
   @extend .col;
- 
+
     @include breakpoint(baby-bear) {
      width: 100%;
   }

@@ -22,7 +22,7 @@
 		text-decoration: none;
 		color: white;
 		background: $primary;
-		test-decoration: underline;
+		text-decoration: underline;
 		display: block;
 		width: intrinsic;
 		padding: 10px 12px;
@@ -37,7 +37,7 @@
 		border: 1px solid transparent;
 		border-radius: 4px;
 		user-select: none;
-		linear-gradient:(lighten($primary, 5%), $primary);
+		background: linear-gradient(lighten($primary, 5%), $primary);
 		box-shadow: 0 1px 4px rgba(0,0,0,.2);
 	}
 	h3{

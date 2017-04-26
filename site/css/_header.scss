@@ -3,11 +3,10 @@
 
 .topNav{
   width: 100%;
-
-  linear-gradient:($primary, lighten($primary, 2%));
+  background: linear-gradient($primary, lighten($primary, 2%));
   border-bottom: 1px solid darken($primary, 2%);
   box-shadow: 0 1px 4px rgba(0,0,0,.3);
-  
+
   z-index: 9999;
   color: white;
 
@@ -22,7 +21,7 @@
  }
 
  ul{
-  margin: 0 auto; 
+  margin: 0 auto;
   padding: 0px;
   text-align: center;
   li{
@@ -38,7 +37,7 @@
       display: block;
       border-radius: 55px;
       border: 1px solid darken($primary,2%);
-      linear-gradient:($primary, darken($primary,1%));
+      background: linear-gradient($primary, darken($primary,1%));
       box-shadow: 0 1px 2px rgba(0,0,0,.1);
       text-align: center;
       &:hover{
