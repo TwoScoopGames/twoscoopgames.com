@@ -80,6 +80,12 @@
             "title": "Morning Ritual by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/morningritual",
             "shareMessage": "Morning Ritual from Two Scoop Games"
+        },
+        "site/electropolis/index.html.hbs": {
+            "layout": "layout/game-page.html.hbs",
+            "title": "Electropolis by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/electropolis",
+            "shareMessage": "Electropolis from Two Scoop Games"
         }
     }
 }

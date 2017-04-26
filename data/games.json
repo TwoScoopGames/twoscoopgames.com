@@ -1,4 +1,35 @@
 {
+  "electropolis": {
+      "title": "Electropolis",
+      "logo": "/img/electropolis-icon.png",
+      "link": "/electropolis/",
+      "img": "/img/electropolis.png",
+      "cornerBand": "",
+      "tagline": "Powered by Lightning!",
+      "description": "Power a city by lightning by matching symbols in the clouds. by @alexbezuska, @lindarthebard, @ericlatrhop, @howdycara, and @lolo_r",
+      "videos": [
+
+      ],
+      "screenshots": [
+          "/img/electropolis-ss-0.png",
+          "/img/electropolis-ss-1.png",
+          "/img/electropolis-ss-2.png",
+          "/img/electropolis-ss-3.png"
+      ],
+      "mediaCoverage": [
+        {
+          "title": "Jupiter Hadley plays Electropolis",
+          "image": "/img/electropolis-jupiterhadley.png",
+          "description": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Train Jam 2016] [Part 3]",
+          "link": "https://youtu.be/Ox0YQLgTD1E?t=11m21s",
+          "linkText": "Watch on Youtube!"
+        }
+      ],
+      "storeButtons": {
+          "web": "https://two-scoop-games.itch.io/electropolis",
+          "github": "http://splatjs.com"
+      }
+  },
   "morningritual": {
       "title": "Morning Ritual",
       "logo": "/img/morningritual-icon.png",
