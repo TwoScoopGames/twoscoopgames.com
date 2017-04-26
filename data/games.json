@@ -52,7 +52,7 @@
       "logo": "/img/treatmentandcontrol-icon.png",
       "link": "/treatmentandcontrol/",
       "img": "/img/treatmentandcontrol.png",
-      "cornerBand": "#LD33",
+      "cornerBand": "",
       "tagline": "Who is in control?",
       "description": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop. Art/Animation by Alex Bezuska @AlexBezuska ",
       "videos": [
@@ -84,7 +84,7 @@
         "logo": "/img/stanleysqueaks-logo.png",
         "link": "/stanleysqueaks/",
         "img": "/img/stanleysqueaks.png",
-        "cornerBand": "New demo!",
+        "cornerBand": "",
         "tagline": "",
         "description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
         "videos": [
@@ -131,7 +131,7 @@
         "logo": "/img/uprooted-icon.png",
         "link": "/uprooted/",
         "img": "/img/uprooted.png",
-        "cornerBand": "New!",
+        "cornerBand": "",
         "tagline": "",
         "description": "",
         "videos": [
@@ -197,6 +197,7 @@
         "logo": "/img/desserts-icon.png",
         "link": "/desserts/",
         "img": "/img/desserts.png",
+        "cornerBand": "",
         "tagline": "Fast-paced score-based arcade game. ",
         "description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
         "screenshots": [
@@ -283,7 +284,7 @@
         "link": "/fluffykins/",
         "img": "/img/fluffykins.png",
         "hoverimg": "/img/fluffykins-hover.gif",
-        "tagline": "Ludum Dare 29",
+        "tagline": "",
         "description": "Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can! This game is a Two Scoop colaboration with team Pancake, our Ludum Dare 29 which consisted of: Aaron Smith, Alex Bezuska, Anthony Quisenberry, Eric Lathrop, Rex Soriano, and Nathan Hutchens.",
         "screenshots": [
             "/img/fluffykins-ss-0.png",
