@@ -8,7 +8,7 @@
       "tagline": "Good Morning!",
       "description": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day. Art/ Animation by Alex Bezuska & Cara Smith. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop",
       "videos": [
-    
+
       ],
       "screenshots": [
           "/img/morningritual-ss-0.jpg",
@@ -20,7 +20,7 @@
       "mediaCoverage": [],
       "storeButtons": {
           "web": "http://twoscoopgames.com/ggj16/",
-          "github": "http://splatjs.github.io/"
+          "github": "http://splatjs.com"
       }
   },
   "clusterjunk": {
@@ -76,7 +76,7 @@
       ],
       "storeButtons": {
           "web": "http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=37347",
-          "github": "http://splatjs.github.io/"
+          "github": "http://splatjs.com"
       }
   },
     "stanleysqueaks": {
@@ -123,7 +123,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/stanleysqueaks/game",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "uprooted": {
@@ -145,7 +145,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ld32/",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "thedaytheworldchanged": {
@@ -189,7 +189,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ggj15/",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "desserts": {
@@ -230,7 +230,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ludumdare31/",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "syrush": {
@@ -274,8 +274,7 @@
             }
         ],
         "storeButtons": {
-            "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "fluffykins": {
@@ -333,7 +332,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/fluffykins/game",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "kickbot": {
@@ -392,8 +391,7 @@
         "storeButtons": {
             "web": "http://twoscoopgames.com/kickbot/game",
             "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-            "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "apartment213": {
@@ -436,7 +434,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/apartment213/game",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     },
     "scurry": {
@@ -495,8 +493,7 @@
         "storeButtons": {
             "web": "http://twoscoopgames.com/scurry/game",
             "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
-            "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
-            "github": "http://splatjs.github.io/"
+            "github": "http://splatjs.com"
         }
     }
 }
