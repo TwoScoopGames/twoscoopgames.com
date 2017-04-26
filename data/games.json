@@ -1,4 +1,52 @@
 {
+  "morningritual": {
+      "title": "Morning Ritual",
+      "logo": "/img/morningritual-icon.png",
+      "link": "/morningritual/",
+      "img": "/img/morningritual.png",
+      "cornerBand": "",
+      "tagline": "Good Morning!",
+      "description": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day. Art/ Animation by Alex Bezuska & Cara Smith. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop",
+      "videos": [
+    
+      ],
+      "screenshots": [
+          "/img/morningritual-ss-0.jpg",
+          "/img/morningritual-ss-1.jpg",
+          "/img/morningritual-ss-2.jpg",
+          "/img/morningritual-ss-3.jpg",
+          "/img/morningritual-ss-4.jpg"
+      ],
+      "mediaCoverage": [],
+      "storeButtons": {
+          "web": "http://twoscoopgames.com/ggj16/",
+          "github": "http://splatjs.github.io/"
+      }
+  },
+  "clusterjunk": {
+      "title": "Cluster Junk",
+      "logo": "/img/clusterjunk-icon.png",
+      "link": "/clusterjunk/",
+      "img": "/img/clusterjunk.png",
+      "cornerBand": "",
+      "tagline": "The Secret of trash Island",
+      "description": "There are millions of tons of trash floating in the oceans. So what goes on while no one is looking in these trash piles? Explore the garbage of humans and try to become the largest trash island in the sea! But hurry, don't let the timer run out! Art/ Animation by Alex Bezuska & Cara Smith. Music/sound by Ben Wiley @Kbenwiley4000. Programming by Eric Lathrop @EricLathrop.",
+      "videos": [
+      ],
+      "screenshots": [
+          "/img/clusterjunk-ss-0.jpg",
+          "/img/clusterjunk-ss-1.jpg",
+          "/img/clusterjunk-ss-2.jpg",
+          "/img/clusterjunk-ss-3.jpg"
+      ],
+      "mediaCoverage": [
+
+      ],
+      "storeButtons": {
+          "web": "http://twoscoopgames.com/ld34",
+          "github": "http://splatjs.com"
+      }
+  },
   "treatmentandcontrol": {
       "title": "Treatment and Control",
       "logo": "/img/treatmentandcontrol-icon.png",
@@ -7,7 +55,9 @@
       "cornerBand": "#LD33",
       "tagline": "Who is in control?",
       "description": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop. Art/Animation by Alex Bezuska @AlexBezuska ",
-      "videos": [],
+      "videos": [
+
+      ],
       "screenshots": [
           "/img/treatmentandcontrol-ss-0.jpg",
           "/img/treatmentandcontrol-ss-1.jpg",
@@ -35,7 +85,7 @@
         "link": "/stanleysqueaks/",
         "img": "/img/stanleysqueaks.png",
         "cornerBand": "New demo!",
-        "tagline": "Try the new demo! COMING SOON for Win, Mac, and Linux",
+        "tagline": "",
         "description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
         "videos": [
             "IajbsXR5Cg0"

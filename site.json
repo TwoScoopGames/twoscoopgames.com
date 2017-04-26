@@ -68,6 +68,18 @@
             "title": "Treatment and Control by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/treatmentandcontrol",
             "shareMessage": "Treatment and Control from Two Scoop Games"
+        },
+        "site/clusterjunk/index.html.hbs": {
+            "layout": "layout/game-page.html.hbs",
+            "title": "Cluster Junk by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/clusterjunk",
+            "shareMessage": "Cluster Junk from Two Scoop Games"
+        },
+        "site/morningritual/index.html.hbs": {
+            "layout": "layout/game-page.html.hbs",
+            "title": "Morning Ritual by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/morningritual",
+            "shareMessage": "Morning Ritual from Two Scoop Games"
         }
     }
 }
