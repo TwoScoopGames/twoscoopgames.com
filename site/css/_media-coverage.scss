@@ -1,5 +1,5 @@
 .mediaCoverage.row{
-	margin: 60px auto; 
+	margin: 60px auto;
 }
 
 .media{
@@ -36,13 +36,13 @@
 		cursor: pointer;
 		border: 1px solid transparent;
 		border-radius: 4px;
-		@include user-select(none);
-		@include linear-gradient(lighten($primary, 5%), $primary);
+		user-select: none;
+		linear-gradient:(lighten($primary, 5%), $primary);
 		box-shadow: 0 1px 4px rgba(0,0,0,.2);
 	}
 	h3{
 		font-weight: 200;
 		font-size: 18px;
 	}
-	
+
 }

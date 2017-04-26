@@ -1,0 +1,33 @@
+{
+  "name": "twoscoopgames.com",
+  "version": "1.5.0",
+  "description": "The web site for Two Scoop Games.",
+  "main": "index.js",
+  "scripts": {
+    "build": "unfold site.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoScoopGames/twoscoopgames.com.git"
+  },
+  "contributors": [
+    {
+      "name": "Eric Lathrop",
+      "email": "eric@ericlathrop.com",
+      "url": "http://erilathrop.com/"
+    },
+    {
+      "name": "Alex Bezuska",
+      "email": "abezuska@gmail.com",
+      "url": "http://alexbezuska.com/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TwoScoopGames/twoscoopgames.com/issues"
+  },
+  "homepage": "https://github.com/TwoScoopGames/twoscoopgames.com#readme",
+  "devDependencies": {
+    "unfold": "^0.3.5"
+  }
+}

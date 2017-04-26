@@ -6,7 +6,7 @@ header{
 
 
 nav{
-	@include linear-gradient(darken($blue, 25%), darken($blue, 15%));
+	linear-gradient:(darken($blue, 25%), darken($blue, 15%));
 //border-top: 0px solid darken($blue, 1%);
 border-right: 1px solid darken($blue, 10%);
 border-bottom: 1px solid darken($blue, 15%);

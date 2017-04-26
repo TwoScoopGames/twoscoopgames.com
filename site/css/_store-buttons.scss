@@ -96,7 +96,7 @@ $githubColor: #b4d88f;
 $playNowColor: #901940;
 .playNow{
 	border: 1px solid darken($primary, 10%);
-	@include linear-gradient( lighten($primary, 5%), $primary );
+	linear-gradient:( lighten($primary, 5%), $primary );
 	&:hover{ background: lighten($primary, 10%); }
 	&:active{ background: darken($primary, 10%); }
 }
@@ -106,7 +106,7 @@ $chromeColor: #fcd246;
 .chrome{
 	background: $chromeColor;
 	border: 1px solid darken($chromeColor, 10%);
-	@include linear-gradient( lighten($chromeColor, 5%), $chromeColor );
+	linear-gradient:( lighten($chromeColor, 5%), $chromeColor );
 	&:hover{ background: lighten($chromeColor, 10%); }
 	&:active{ background: darken($chromeColor, 10%); }
 }
@@ -115,7 +115,7 @@ $iosColor: #3B5A9B;
 .ios{
 	background: $iosColor;
 	border: 1px solid darken($iosColor, 10%);
-	@include linear-gradient( lighten($iosColor, 5%), $iosColor );
+	linear-gradient:( lighten($iosColor, 5%), $iosColor );
 	&:hover{ background: lighten($iosColor, 10%); }
 	&:active{ background: darken($iosColor, 10%); }
 }
@@ -124,7 +124,7 @@ $androidColor: #A2C437;
 .android{
 	background: $androidColor;
 	border: 1px solid darken($androidColor, 10%);
-	@include linear-gradient( lighten($androidColor, 5%), $androidColor );
+	linear-gradient:( lighten($androidColor, 5%), $androidColor );
 	&:hover{ background: lighten($androidColor, 10%); }
 	&:active{ background: darken($androidColor, 10%); }
 }
@@ -133,7 +133,7 @@ $firefoxColor: #df7743;
 .firefox{
 	background: $firefoxColor;
 	border: 1px solid darken($firefoxColor, 10%);
-	@include linear-gradient( lighten($firefoxColor, 5%), $firefoxColor );
+	linear-gradient:( lighten($firefoxColor, 5%), $firefoxColor );
 	&:hover{ background: lighten($firefoxColor, 10%); }
 	&:active{ background: darken($firefoxColor, 10%); }
 }
@@ -142,7 +142,7 @@ $windows8Color: #00ACED;
 .windows8{
 	background: $windows8Color;
 	border: 1px solid darken($windows8Color, 10%);
-	@include linear-gradient( lighten($windows8Color, 5%), $windows8Color );
+	linear-gradient:( lighten($windows8Color, 5%), $windows8Color );
 	&:hover{ background: lighten($windows8Color, 10%); }
 	&:active{ background: darken($windows8Color, 10%); }
 }
@@ -151,7 +151,7 @@ $itchioColor: #ff5c5c;
 .itchio{
 	background: $itchioColor;
 	border: 1px solid darken($itchioColor, 10%);
-	@include linear-gradient( lighten($itchioColor, 5%), $itchioColor );
+	linear-gradient:( lighten($itchioColor, 5%), $itchioColor );
 	&:hover{ background: lighten($itchioColor, 10%); }
 	&:active{ background: darken($itchioColor, 10%); }
 }

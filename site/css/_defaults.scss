@@ -5,7 +5,7 @@ structure defaults
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  text-size-adjust: 100%; /* 2 */
 }
 
 body {
@@ -20,7 +20,7 @@ button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-  @include appearance(button);
+  appearance: button;
   cursor: pointer;
 }
 
