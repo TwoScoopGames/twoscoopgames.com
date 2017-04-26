@@ -51,13 +51,13 @@
 
 		{{> footer}}
 
-		<script src="/js/vendor/jquery-1.11.0.min.js"></script>
+		<script src="/js/vendor/jquery-3.2.1.min.js"></script>
 		<script src="/js/vendor/jquery.fitvids.js"></script>
-		<script src="/js/vendor/flexslider/jquery.flexslider.js"></script>
+		<script src="/js/vendor/jquery.flexslider-min.js"></script>
 		<script src="/js/main.js"></script>
 		{{> google-analytics}}
 		<script>
-		$(window).load(function() {
+		$(document).ready(function() {
 			$('#carousel').flexslider({
 				animation: "slide",
 				controlNav: false,
@@ -83,9 +83,8 @@
 				touch: true,
 				sync: "#carousel"
 			});
-		});
 
-		$(document).ready(function() {
+
 			$(".fitvids").fitVids();
 		});
 
@@ -122,9 +121,7 @@
 		}
 
 		function showQuotes(array) {
-			console.log(array);
 			for (var i = 0; i < array.length; i++) {
-				console.log(array[i]);
 				$('#quote'+array[i]).show();
 			}
 		}
