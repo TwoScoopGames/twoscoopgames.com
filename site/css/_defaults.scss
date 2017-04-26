@@ -47,8 +47,8 @@ input[type="submit"] {
 project defined:
  */
 body {
-  background: $blue;
-  color: white;
+  // background: $primary;;
+  // color: white;
   height: 100%;
 }
 
@@ -72,29 +72,8 @@ button, input {
 .page {
   padding: 20px 10px 0 10px;
   @extend .pageWidth;
-  @include breakpoint(papa-bear) {
-    margin: -200px auto 0 auto;
-  }
-  @include breakpoint(mama-bear) {
-    margin: -100px auto 0 auto;
-  }
-  @include breakpoint(baby-bear) {
-    margin: -55px auto 0 auto;
-  }
   position: relative;
-
-  //background: white;
-  //color: $concrete;
-
   margin: 0 auto;
-}
-
-
-
-.col1-2 {
-  @include breakpoint(baby-bear) {
-    width: 100%;
-  }
 }
 
 .content {

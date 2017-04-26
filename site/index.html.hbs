@@ -1,22 +1,20 @@
-{{#each-row 2 games}}
-	<div class="games row">
-		{{#each this}}
-			<div class="col1-2">
-				<div class="module">
-					<a href="{{link}}">
-						{{#if hoverimg}}
-							<img alt="{{title}}" src="{{img}}" width="100%" data-hover-src="{{hoverimg}}" />
-						{{else}}
-							<img alt="{{title}}" src="{{img}}" width="100%" />
-						{{/if}}
-					</a>
+<div class="games row">
+  {{#each games}}
+  <div class="col-sm-12 col-md-6 col-lg-4">
+    <div class="module">
+      <a href="{{link}}">
+        {{#if hoverimg}}
+        <img alt="{{title}}" src="{{img}}" width="100%" data-hover-src="{{hoverimg}}" />
+        {{else}}
+        <img alt="{{title}}" src="{{img}}" width="100%" />
+        {{/if}}
+      </a>
 
-					{{#if cornerBand}}
-						<div class="cornerBand">{{cornerBand}}</div>
-					{{/if}}
-					<a href="{{link}}"><h2>{{title}}</h2></a>
-				</div>
-			</div>
-		{{/each}}
-	</div>
-{{/each-row}}
+      {{#if cornerBand}}
+      <div class="cornerBand">{{cornerBand}}</div>
+      {{/if}}
+      <a href="{{link}}"><h2>{{title}}</h2></a>
+    </div>
+  </div>
+  {{/each}}
+</div>

@@ -6,25 +6,37 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{{title}}</title>
 
+
 		<link rel="stylesheet" href="/css/main.css">
 	</head>
 	<body>
 		<!--[if lt IE 7]>
 		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
-		<header>
-			<nav>
+
+		<header >
+      <div class="pageWidth center row">
+      <div class="col-sm-4">
+        <a href="/" class="logo" title="Two Scoop Games" alt="Two Scoop Games"><img src="/img/logo-dark.png"/></a>
+      </div>
+
+			<nav class="col-sm-8">
 				<a href="/">Games</a>
 				<a href="/about-us">About</a>
 				<a href="http://twoscoopgames.tumblr.com/" target="_blank">Blog</a>
 			</nav>
-			<h1 class="logo">Two Scoop Games</h1>
+
+</div>
 		</header>
-		<div class="page">
-			{{> body}}
-		</div>
+
+    <div class="page">
+
+		{{> body}}
+
+    </div>
 
 		{{> footer}}
+
 
 		<script src="/js/vendor/jquery-3.2.1.min.js"></script>
 		<script src="/js/main.js"></script>

@@ -1,5 +1,7 @@
 @import"vendor/font-awesome.min";
 @import"vendor/flexslider";
+@import"vendor/bootstrap";
+
 
 @import"structure";
 @import"colors";
@@ -21,8 +23,8 @@
   .module {
     position: relative;
     overflow: hidden;
-    margin: 35px 25px ;
-    border-radius: 20px;
+    margin: 15px 8px;
+    border-radius: 4px;
     box-shadow: 0 1px 4px rgba(0,0,0,.2);
     @include breakpoint(baby-bear) {
       margin: 0 0 10px 0;
@@ -41,9 +43,10 @@
   }
 
   h2 {
+    font-size: 21px !important;
     text-align: center;
     font-weight: 300px;
-    margin: -10px 0 0 0;
+    margin: -3px 0 0 0;
     padding: 25px 0;
     background: white;
     font-family: "helvetica", verdana, sans-serif;
@@ -80,7 +83,7 @@
   padding: 15px;
   background: white;
   color: darken($concrete, 4%);
-  border-radius: 20px;
+  border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0,0,0,.2);
 }
 
@@ -89,7 +92,7 @@
     padding: 15px;
   }
   img{
-    border-radius: 25px;
+    border-radius: 4px;
   }
 }
 

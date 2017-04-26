@@ -1,11 +1,13 @@
 
-
+header{
+  // background: rgba(0,0,0,0.1);
+  // box-shadow: 0 0 8px 4px rgba(0,0,0,0.2);
+  //background: white;
+}
 
 .topNav{
   width: 100%;
-  background: linear-gradient($primary, lighten($primary, 2%));
-  border-bottom: 1px solid darken($primary, 2%);
-  box-shadow: 0 1px 4px rgba(0,0,0,.3);
+
 
   z-index: 9999;
   color: white;

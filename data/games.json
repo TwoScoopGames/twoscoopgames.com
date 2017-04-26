@@ -1,10 +1,33 @@
 {
+  "duolastic": {
+      "title": "Duolastic",
+      "logo": "/img/duolastic-icon.png",
+      "link": "/duolastic/",
+      "img": "/img/duolastic.png",
+      "cornerBand": "Coming Soon!",
+      "tagline": "Challenge your friends anytime, anywhere!",
+      "description": "Online multiplayer game where you can send a link and challenge anyone. Game originally created for #GGJ17 Global Game Jam 2017 theme: Waves",
+      "videos": [
+
+      ],
+      "screenshots": [
+          "/img/duolastic-ss-0.png",
+          "/img/duolastic-ss-1.png",
+          "/img/duolastic-ss-2.png",
+          "/img/duolastic-ss-3.png"
+      ],
+      "mediaCoverage": [
+      ],
+      "storeButtons": {
+          "github": "http://splatjs.com"
+      }
+  },
   "electropolis": {
       "title": "Electropolis",
       "logo": "/img/electropolis-icon.png",
       "link": "/electropolis/",
       "img": "/img/electropolis.png",
-      "cornerBand": "",
+      "cornerBand": "New!",
       "tagline": "Powered by Lightning!",
       "description": "Power a city by lightning by matching symbols in the clouds. by @alexbezuska, @lindarthebard, @ericlatrhop, @howdycara, and @lolo_r",
       "videos": [
