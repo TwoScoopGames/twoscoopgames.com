@@ -330,6 +330,7 @@
             }
         ],
         "storeButtons": {
+            "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
             "github": "http://splatjs.com"
         }
     },
@@ -445,6 +446,7 @@
             }
         ],
         "storeButtons": {
+            "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
             "web": "http://twoscoopgames.com/kickbot/game",
             "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
             "github": "http://splatjs.com"
@@ -547,6 +549,7 @@
             }
         ],
         "storeButtons": {
+            "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
             "web": "http://twoscoopgames.com/scurry/game",
             "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
             "github": "http://splatjs.com"
