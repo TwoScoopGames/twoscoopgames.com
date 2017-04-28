@@ -149,85 +149,76 @@
 
 	"videos": [{
 			"name": "Two Scoop Games Demo Reel 2017",
-			"youtubeVideoID": "http://www.youtube.com/embed/bTZKGJgaXQQ"
+			"youtubeID": "bTZKGJgaXQQ"
 		}, {
 			"name": "SyRUSH Trailer",
-			"youtubeVideoID": "http://www.youtube.com/embed/063ccMxUd1s"
+			"youtubeID": "063ccMxUd1s"
 		},
 		{
 			"name": "Scurry Trailer",
-			"youtubeVideoID": "http://www.youtube.com/embed/qp3YzxV8_ks"
+			"youtubeID": "qp3YzxV8_ks"
 		},
 		{
 			"name": "Kick Bot Trailer",
-			"youtubeVideoID": "http://www.youtube.com/embed/ek1yJr6Od2I"
+			"youtubeID": "ek1yJr6Od2I"
 		}
 	],
 
 	"logos": [{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-avatar-2015.png",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-avatar-2015.png",
+			"url": "/img/presskit/twoscoopgames-avatar-2015.png",
+			"image": "/img/presskit/twoscoopgames-avatar-2015.png",
 			"alt": "Two Scoop Games Logo"
 		},
 		{
-			"url": "http://twoscoopgames.com/img/presskit/logo-mama.png",
-			"image": "http://twoscoopgames.com/img/presskit/logo-mama.png",
+			"url": "/img/presskit/logo-mama.png",
+			"image": "/img/presskit/logo-mama.png",
 			"alt": "Two Scoop Games Logo"
 		},
 		{
-			"url": "http://twoscoopgames.com/img/presskit/TwoScoopGames-single-color.png",
-			"image": "http://twoscoopgames.com/img/presskit/TwoScoopGames-single-color.png",
+			"url": "/img/presskit/TwoScoopGames-single-color.png",
+			"image": "/img/presskit/TwoScoopGames-single-color.png",
 			"alt": "Two Scoop Games Logo"
 		}
 
 	],
 	"images": [{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-14.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-14-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-14.jpg",
+			"image": "/img/presskit/twoscoopgames-14-sm.jpg",
 			"alt": "Two Scoop Games Alex and Eric give a game dev talk at RunJumpDev"
 
 		},
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-3.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-3-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-3.jpg",
+			"image": "/img/presskit/twoscoopgames-3-sm.jpg",
 			"alt": "Two Scoop Games Alex and Eric at Louisville Mini Maker Faire 2014"
 
 		},
-
-
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-6.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-6-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-6.jpg",
+			"image": "/img/presskit/twoscoopgames-6-sm.jpg",
 			"alt": "Two Scoop Games Alex Bezuska on local WDRB Fox 41 tv for #ChrompTheBit 2015"
 		},
-
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-8.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-8-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-8.jpg",
+			"image": "/img/presskit/twoscoopgames-8-sm.jpg",
 			"alt": "Two Scoop Games at Free Range Arcade 2014"
 
 		},
-
-
-
-	
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-12.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-12-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-12.jpg",
+			"image": "/img/presskit/twoscoopgames-12-sm.jpg",
 			"alt": "Two Scoop Games Alex and Eric finish Global Game Jam 2015"
 
 		},
-
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-7.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-7-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-7.jpg",
+			"image": "/img/presskit/twoscoopgames-7-sm.jpg",
 			"alt": "Two Scoop Games Alex Bezuska"
 
 		},
-
 		{
-			"url": "http://twoscoopgames.com/img/presskit/twoscoopgames-9.jpg",
-			"image": "http://twoscoopgames.com/img/presskit/twoscoopgames-9-sm.jpg",
+			"url": "/img/presskit/twoscoopgames-9.jpg",
+			"image": "/img/presskit/twoscoopgames-9-sm.jpg",
 			"alt": "Two Scoop Games Alex and Eric researching during SyRUSH devlopment"
 
 		}
