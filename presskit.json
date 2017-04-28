@@ -56,30 +56,29 @@
     "dateStart": "January 2017",
     "dateEnd": "present",
     "current": true
-
 	},
   {
     "url": "http://twoscoopgames.com/syrush/",
     "name": "SyRUSH",
     "dateStart": "June 2014",
     "dateEnd": "September 2014",
-        "release": true
+    "releaseDate": "August 4th, 2014"
   },
-
+  {
+    "url": "http://twoscoopgames.com/scurry/",
+    "name": "Scurry",
+    "dateStart": "November 2013",
+    "dateEnd": "July 214",
+    "releaseDate": "June 30th, 2014"
+  },
   {
    "url": "http://twoscoopgames.com/kickbot/",
    "name": "Kick Bot",
    "dateStart": "February 2014",
    "dateEnd": "May 2014",
-       "release": true
- },
- {
-   "url": "http://twoscoopgames.com/scurry/",
-   "name": "Scurry",
-   "dateStart": "November 2013",
-   "dateEnd": "July 214",
-       "release": true
+   "releaseDate": "April 30th, 2014"
  }
+
 ],
 
 

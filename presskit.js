@@ -3,7 +3,7 @@ var handlebars = require("handlebars");
 
 var presskitData = require("./presskit.json");
 var presskitTemplate = "./presskit.hbs";
-var presskitDestination = "./site/press/index.html";
+var presskitDestination = "./out/press/index.html";
 
 createPresskit(presskitData, presskitTemplate, presskitDestination);
 

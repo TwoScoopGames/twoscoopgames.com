@@ -4,7 +4,7 @@
   "description": "The web site for Two Scoop Games.",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build:presskit && unfold site.json",
+    "build": "unfold site.json && npm run build:presskit",
     "build:presskit": "node presskit.js"
   },
   "repository": {

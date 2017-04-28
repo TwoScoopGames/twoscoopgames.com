@@ -108,7 +108,7 @@
               <strong>Releases:</strong>
               <br />
               {{#each projects}}
-              {{#if release}}
+              {{#if releaseDate}}
                 <a href="{{url}}">{{name}}</a>
                 <br />
                 {{/if}}
@@ -158,8 +158,8 @@
               {{#each projects}}
                 <li>
                   <a href="{{url}}">{{name}}</a><br />
-                  {{#if release}}
-                    {{#if dateEnd}} Released {{dateEnd}}{{/if}}
+                  {{#if releaseDate}}
+                    Released {{releaseDate}}
                   {{else}}
                     {{#if dateStart}}
                     {{dateStart}}{{#if dateEnd}} - {{dateEnd}}{{/if}}
