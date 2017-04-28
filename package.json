@@ -4,7 +4,8 @@
   "description": "The web site for Two Scoop Games.",
   "main": "index.js",
   "scripts": {
-    "build": "unfold site.json"
+    "build": "npm run build:presskit && unfold site.json",
+    "build:presskit": "node presskit.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   },
   "homepage": "https://github.com/TwoScoopGames/twoscoopgames.com#readme",
   "devDependencies": {
+    "handlebars": "^4.0.6",
     "unfold": "^0.3.5"
   }
 }

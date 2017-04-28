@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{{meta.studioName}}</title>
+  <meta description="{{meta.description}}" />
+  <link href=
+  "http://cdnjs.cloudflare.com/ajax/libs/uikit/1.2.0/css/uikit.gradient.min.css" rel=
+  "stylesheet" type="text/css" />
+  <link href="/css/presskit.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="uk-container uk-container-center">
+    <div class="uk-grid">
+      <div id="navigation" class="uk-width-medium-1-4">
+        <h1 class="nav-header">{{meta.studioName}}</h1><a class="nav-header" href=
+        "{{meta.websiteURL}}">{{meta.websiteName}}</a>
+
+        <ul class="uk-nav uk-nav-side">
+          <li><a href="#factsheet">Factsheet</a></li>
+
+          {{#if description}} <li><a href="#description">Description</a></li> {{/if}}
+          {{#if history}} <li><a href="#history">History</a></li> {{/if}}
+          {{#if projects}} <li><a href="#projects">Projects</a></li> {{/if}}
+          {{#if videos}} <li><a href="#trailers">Videos</a></li> {{/if}}
+          {{#if images}} <li><a href="#images">Images</a></li> {{/if}}
+          {{#if logos}} <li><a href="#logo">Logo &amp; Icon</a></li> {{/if}}
+          {{#if awardsAndRecognition}} <li><a href="#awards">Awards &amp; Recognition</a></li> {{/if}}
+          {{#if podcasts}} <li><a href="#podcasts">Podcasts</a></li> {{/if}}
+          {{#if selectedArticles}} <li><a href="#quotes">Selected Articles</a></li> {{/if}}
+          {{#if eventsAndConferences}} <li><a href="#events">Events &amp; Conferences</a></li> {{/if}}
+          {{#if additionalLinks}} <li><a href="#links">Additional Links</a></li> {{/if}}
+          {{#if teamAndRepeatingCollaborators}} <li><a href="#credits">Team</a></li> {{/if}}
+          {{#if contact}} <li><a href="#contact">Contact</a></li> {{/if}}
+        </ul>
+      </div>
+
+      <div id="content" class="uk-width-medium-3-4">
+        <br />
+        {{#if meta.headerImage}}
+        <img src="{{meta.headerImage}}" class="header" alt="{{meta.studioName}}" />
+        {{/if}}
+
+        <div class="uk-grid">
+          <div class="uk-width-medium-2-6">
+            <h2 id="factsheet">Factsheet</h2>
+
+
+            <p><strong>Developer:</strong><br />
+            <a href="{{meta.websiteURL}}">{{meta.studioName}}</a><br />
+            {{#if meta.address}}
+              Based in {{meta.address.city}}, {{meta.address.state}},
+              {{meta.address.country}}
+            {{/if}}
+            </p>
+
+
+            {{#if meta.foundingDate}}
+            <p><strong>Founding date:</strong><br />
+            {{meta.foundingDate}}</p>
+            {{/if}}
+
+
+            {{#if meta.websiteName}}
+            <p><strong>Website:</strong><br />
+            <a href="{{meta.websiteURL}}">{{meta.websiteName}}</a></p>
+            {{/if}}
+
+
+            {{#if meta.pressContact}}
+            <p><strong>Press / Business contact:</strong><br />
+            <a href="mailto:{{meta.pressContact}}">{{meta.pressContact}}</a></p>
+            {{/if}}
+
+
+          {{#if social}}
+          <p>
+            <strong>Social:</strong>
+            <br />
+            {{#each social}}
+              <a href="{{url}}">{{name}}</a>
+              <br />
+            {{/each}}
+          </p>
+          {{/if}}
+
+          {{#if projects}}
+            <p>
+              <strong>Currently working on:</strong>
+              <br />
+              {{#each projects}}
+              {{#if current}}
+                <a href="{{url}}">{{name}}</a>
+                <br />
+                {{/if}}
+              {{/each}}
+            </p>
+            {{/if}}
+
+
+          {{#if projects}}
+            <p>
+              <strong>Releases:</strong>
+              <br />
+              {{#each projects}}
+              {{#if release}}
+                <a href="{{url}}">{{name}}</a>
+                <br />
+                {{/if}}
+              {{/each}}
+            </p>
+            {{/if}}
+
+            {{#if meta.address}}
+            <p>
+            <strong>Address:</strong><br />
+            {{meta.address.line1}}<br />
+            {{meta.address.line2}}<br />
+            {{meta.address.city}}, {{meta.address.state}} {{meta.address.zip}}<br />
+            {{meta.address.country}}
+            </p>
+            {{/if}}
+
+
+            {{#if meta.phone}}
+            <p><strong>Phone:</strong>
+              <br />
+              {{meta.phone}}
+            </p>
+            {{/if}}
+
+          </div>
+
+          <div class="uk-width-medium-4-6">
+
+            {{#if meta.description}}
+            <h2 id="description">Description</h2>
+            <p>{{{meta.description}}}</p>
+            {{/if}}
+
+            {{#if meta.history}}
+            <h2 id="history">History</h2>
+            {{#each meta.history}}
+              <strong>{{sectionTitle}}</strong>
+              <p>{{content}}</p>
+            {{/each}}
+            {{/if}}
+
+
+            {{#if projects}}
+              <h2 id="projects">Projects</h2>
+              <ul>
+              {{#each projects}}
+                <li>
+                  <a href="{{url}}">{{name}}</a><br />
+                  {{#if release}}
+                    {{#if dateEnd}} Released {{dateEnd}}{{/if}}
+                  {{else}}
+                    {{#if dateStart}}
+                    {{dateStart}}{{#if dateEnd}} - {{dateEnd}}{{/if}}
+                    {{/if}}
+                  {{/if}}
+                </li>
+              {{/each}}
+              </ul>
+            {{/if}}
+
+
+
+            {{#if prototypes}}
+              <h2 id="prototypes">Prototypes</h2>
+              <ul>
+              {{#each prototypes}}
+                <li>
+                  <a href="{{url}}">{{name}}</a><br />
+                  {{#if dateStart}}
+                  {{dateStart}}{{#if dateEnd}} - {{dateEnd}}{{/if}}
+                  {{/if}}
+                </li>
+              {{/each}}
+              </ul>
+            {{/if}}
+
+          </div>
+        </div>
+        <hr />
+
+        {{#if videos}}
+        <h2 id="trailers">Videos</h2>
+        {{#each videos}}
+          <p><strong>{{name}}</strong>&nbsp;<a href=
+          "http://www.youtube.com/watch?v={{youtubeID}}">YouTube</a></p>
+
+          <div class="uk-responsive-width iframe-container">
+          <iframe src="http://www.youtube.com/embed/{{youtubeID}}" frameborder="0"
+          allowfullscreen=""></iframe>
+          </div>
+        {{/each}}
+        <hr />
+        {{/if}}
+
+        {{#if images}}
+        <h2 id="images">Images</h2>
+
+        {{!--
+        I want it to zip the images for you :)
+        <a href="images/images.zip"></a>
+
+        <div class="uk-alert">
+          download all screenshots &amp; photos as .zip (5MB)
+        </div> --}}
+
+        <div class="uk-grid images">
+          {{#each images}}
+          <div class="uk-width-medium-1-2">
+            <a href="{{url}}"><img src="{{image}}" alt="{{alt}}" /></a>
+          </div>
+          {{/each}}
+
+        </div>
+
+        <p class="images-text">There are far more images available for
+        {{meta.studioName}}, but these are the ones we felt would be most useful to you.
+        If you have specific requests, please do <a href="{{meta.pressContact}}">contact
+        us</a>!</p>
+        <hr />
+        {{/if}}
+
+       <h2 id="logo">Logo &amp; Icon</h2>
+         {{!--
+        <a href="images/logo.zip"></a>
+
+        <div class="uk-alert">
+          download logo files as .zip (15KB)
+        </div> --}}
+
+        {{#if logos}}
+        <div class="uk-grid images">
+          {{#each logos}}
+          <div class="uk-width-medium-1-2">
+            <a href="{{url}}"><img src="{{image}}" alt="{{alt}}" /></a>
+          </div>
+          {{/each}}
+        </div>
+        <hr />
+        {{/if}}
+
+
+        {{#if awardsAndRecognition}}
+        <h2 id="awards">Awards &amp; Recognition</h2>
+        <ul>
+          {{#each awardsAndRecognition}}
+          <li>"{{recognition}}" - <cite>{{for}}, {{date}}</cite></li>
+          {{/each}}
+        </ul>
+        <hr />
+        {{/if}}
+
+
+
+        {{#if podcasts}}
+        <h2 id="podcasts">Podcasts</h2>
+        <ul>
+          {{#each podcasts}}
+          <li>
+            <a href="{{url}}">{{title}}</a><br />
+            <cite>- {{author}}, {{source}} {{date}}</cite>
+          </li>
+          {{/each}}
+        </ul>
+        <hr />
+        {{/if}}
+
+
+
+        {{#if selectedArticles}}
+        <h2 id="quotes">Selected Articles</h2>
+        <ul>
+          {{#each selectedArticles}}
+          <li>
+            <a href="{{url}}">{{title}}</a><br />
+            <cite>- {{author}}, {{source}} {{date}}</cite>
+          </li>
+          {{/each}}
+        </ul>
+        <hr />
+        {{/if}}
+
+
+
+        {{#if eventsAndConferences}}
+        <h2 id="events">Events & Conferences</h2>
+        <ul>
+          {{#each eventsAndConferences}}
+          <li><a href="{{url}}">{{title}}</a> {{location}}, {{date}}<br />
+          <cite>-{{wedid}}</cite>
+           </li>
+          {{/each}}
+        </ul>
+        <hr />
+        {{/if}}
+
+
+
+        {{#if additionalLinks}}
+        <h2 id="links">Additional Links</h2>
+        {{#each additionalLinks}}
+        <p><strong>{{title}}</strong><br />
+        {{description}} <a href=
+        "{{url}}" alt="{{title}}">{{linkText}}</a></p>
+        {{/each}}
+        <hr />
+        {{/if}}
+
+        <div class="uk-grid">
+
+          {{#if teamAndRepeatingCollaborators}}
+          <div class="uk-width-medium-1-2">
+            <h2 id="credits">Team</h2>
+            {{#each teamAndRepeatingCollaborators}}
+              <p><strong>{{name}}</strong><br />
+              {{role}}</p>
+            {{/each}}
+          </div>
+          {{/if}}
+
+          {{#if contact}}
+          <div class="uk-width-medium-1-2">
+            <h2 id="contact">Contact</h2>
+            {{#each contact}}
+              <p><strong>{{name}}</strong><br />
+              <a href="{{url}}">{{linkText}}</a></p>
+            {{/each}}
+          </div>
+          {{/if}}
+
+        </div>
+        <hr />
+        {{!--<p><a href="http://dopresskit.com/">presskit()</a> by Rami Ismail (<a href=
+        "http://www.vlambeer.com/">Vlambeer</a>) - also thanks to <a href=
+        "sheet.php?p=credits">these fine folks</a></p>--}}
+      </div>
+    </div>
+
+
+</div>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.js">
+</script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/masonry/3.1.2/masonry.pkgd.min.js"></script>
+
+<script type="text/javascript">
+
+$( document ).ready(function() {
+  var container = $('.images');
+
+  container.imagesLoaded( function() {
+    container.masonry({
+      itemSelector: '.uk-width-medium-1-2',
+    });
+  });
+});
+
+//<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', '{{meta.googleAnalyticsID}}']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+  //]]>
+  </script>
+</body>
+</html>
