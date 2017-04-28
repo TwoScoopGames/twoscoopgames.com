@@ -63,7 +63,7 @@
       "tagline": "Good Morning!",
       "description": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day. Art/ Animation by Alex Bezuska & Cara Smith. Music/sound by Chris Kincaid @Kincaid_Music. Programming by Eric Lathrop @EricLathrop",
       "videos": [
-
+        "EfONONJ7GLU"
       ],
       "screenshots": [
           "/img/morningritual-ss-0.jpg",
@@ -72,7 +72,15 @@
           "/img/morningritual-ss-3.jpg",
           "/img/morningritual-ss-4.jpg"
       ],
-      "mediaCoverage": [],
+      "mediaCoverage": [
+        {
+            "title": "Global Game Jam 2016",
+            "image": "/img/morningritual-ggj.png",
+            "description": "The official Global Game Jam page for Morning Ritual",
+            "link": "http://globalgamejam.org/2016/games/morning-ritual-13",
+            "linkText": "Global Game Jam 2016"
+        }
+      ],
       "storeButtons": {
           "web": "http://twoscoopgames.com/ggj16/",
           "github": "http://splatjs.com"
