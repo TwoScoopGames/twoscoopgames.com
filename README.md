@@ -68,6 +68,23 @@ The web site for Two Scoop Games.
   ```
 
 
+### Editing the presskit (presskitJS)
+
+PresskitJS is based on the [presskit() by Rami Ismail](https://github.com/ramiismail/dopresskit) which is an incredible resource to the indie community by providing a snapshot of your studio and all the valuable information about it to the press it helps the whole process of being written about go smoother (and likely helps you get more coverage and for that coverage to be accurate).
+I love the format and content of presskit() but I really wanted a version I could build along site the website with node whereas the original presskit() requires php. PresskitJS uses a small node app to compile a single presskit html page from a handlebars template and a json file.
+* Edit the presskit date in `/presskit.json`
+* Run `npm run build:presskit` to just build the presskit, or `npm run buuld` to build the main site then the presskit in one command
+
+#### Future PresskitJS updates:
+
+* Automatically create zip files of both `images` and 'logos' arrays
+* Generate additional pages for each release game
+* Solidify first version of stand-alone PresskitJS app
+  * Write read me for PresskitJS
+  * Check into licensing - might need to be GPL since presskit() is GPL
+  * Create github repo for PresskitJS
+  * Publish NPM module of PresskitJS
+
 
 
 Building
@@ -80,6 +97,6 @@ To build:
  3. Run `npm run build`
 
 To view locally:
- 1. Run `npm install -g node-static`
- 2. Run `static out`
- 3. Point your web browser at [http://localhost:8080](http://localhost:8080)
+ 1. Run `npm install -g static-server`
+ 2. Run `static-server out`
+ 3. Point your web browser at [http://localhost:8080](http://localhost:9080)

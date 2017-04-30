@@ -1,414 +1,419 @@
 {
-	"meta": {
-		"studioName": "Two Scoop Games",
-		"googleAnalyticsID": "00100101010101",
-		"address": {
-			"line1": "607 W Main St",
-			"line2": "Suite 002",
-			"city": "Louisville",
-			"state": "Kentucky",
-			"zip": "40203",
-			"country": "United States",
-			"pressContact": "info@twoscoopgames.com",
-			"phone": "+1 (502) 715 2710",
-      "headerImage": ""
-		},
-		"foundingDate": "March 25, 2014",
-		"websiteName": "twoscoopgames.com",
-		"websiteURL": "http://twoscoopgames.com",
-		"description": "Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry and SyRUSH, and is currently working on Duolastic, an online 2 player game. Two Scoop Games has also produced many prototypes for various game jams while honing their craft. Two Scoop Games builds games for both web and mobile platforms. Two Scoop Games is an active participant in Louisville Makes Games!, Louisville's local game development community.<br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you. For a consultation email <a href='mailto:info@twoscoopgames.com'>info@twoscoopgames.com</a>",
+  "meta":{
+    "studioName":"Two Scoop Games",
+    "googleAnalyticsID":"00100101010101",
+    "address":{
+      "line1":"607 W Main St",
+      "line2":"Suite 002",
+      "city":"Louisville",
+      "state":"Kentucky",
+      "zip":"40203",
+      "country":"United States",
+      "pressContact":"info@twoscoopgames.com",
+      "phone":"+1 (502) 715 2710",
+      "headerImage":""
+    },
+    "foundingDate":"March 25, 2014",
+    "websiteName":"twoscoopgames.com",
+    "websiteURL":"http://twoscoopgames.com",
+    "description":"Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry and SyRUSH, and is currently working on Duolastic, an online 2 player game. Two Scoop Games has also produced many prototypes for various game jams while honing their craft. Two Scoop Games builds games for both web and mobile platforms. Two Scoop Games is an active participant in Louisville Makes Games!, Louisville's local game development community.<br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you. For a consultation email <a href='mailto:info@twoscoopgames.com'>info@twoscoopgames.com</a>",
+    "history":[
 
-		"history": [
-		]
-
-
-	},
-
-
-	"social": [{
-			"url": "https://twitter.com/TwoScoopGames",
-			"name": "Twitter"
-		},
-		{
-			"url": "http://twoscoopgames.tumblr.com/",
-			"name": "Devlog on tumblr"
-		},
-		{
-			"url": "http://two-scoop-games.itch.io",
-			"name": "Itch.io"
-		},
-		{
-			"url": "https://youtube.com/user/TwoScoopGames",
-			"name": "YouTube"
-		},
-		{
-			"url": "https://facebook.com/TwoScoopGames",
-			"name": "Facebook"
-		}
-	],
-
-
-
-	"projects": [
-    {
-		"url": "http://twoscoopgames.com/duolastic/",
-		"name": "Duolastic",
-    "dateStart": "January 2017",
-    "dateEnd": "present",
-    "current": true
-	},
-  {
-    "url": "http://twoscoopgames.com/syrush/",
-    "name": "SyRUSH",
-    "dateStart": "June 2014",
-    "dateEnd": "September 2014",
-    "releaseDate": "August 4th, 2014"
+    ]
   },
-  {
-    "url": "http://twoscoopgames.com/scurry/",
-    "name": "Scurry",
-    "dateStart": "November 2013",
-    "dateEnd": "July 214",
-    "releaseDate": "June 30th, 2014"
-  },
-  {
-   "url": "http://twoscoopgames.com/kickbot/",
-   "name": "Kick Bot",
-   "dateStart": "February 2014",
-   "dateEnd": "May 2014",
-   "releaseDate": "April 30th, 2014"
- }
-
-],
-
-
-
-  "prototypes": [
-  {
-		"url": "http://twoscoopgames.com/electropolis/",
-		"name": "Electropolis (prototype)",
-    "dateStart": "March 2016",
-    "dateEnd": ""
-	},
-  {
-		"url": "http://twoscoopgames.com/morningritual/",
-		"name": "Morning Ritual (prototype)",
-    "dateStart": "January 2016",
-    "dateEnd": ""
-	},
-  {
-		"url": "http://twoscoopgames.com/clusterjunk/",
-		"name": "Cluster Junk (prototype)",
-    "dateStart": "December 2015",
-    "dateEnd": ""
-	},
-  {
-   "url": "http://twoscoopgames.com/treatmentandcontrol/",
-   "name": "Treatment and Control (prototype)",
-   "dateStart": "August 2015",
-   "dateEnd": ""
- },
- {
-    "url": "http://twoscoopgames.com/uprooted/",
-    "name": "Uprooted (prototype)",
-    "dateStart": "April 2015",
-    "dateEnd": ""
-  },
-  {
-		"url": "http://twoscoopgames.com/thedaytheworldchanged/",
-		"name": "The Day the World Changed (prototype)",
-    "dateStart": "January 2015",
-    "dateEnd": ""
-	},
-  {
-		"url": "http://twoscoopgames.com/desserts/",
-		"name": "Desserts Killed Your Daddy (prototype)",
-    "dateStart": "December 2014",
-    "dateEnd": ""
-	},
-  {
-   "url": "http://twoscoopgames.com/stanleysqueaks/",
-   "name": "Stanley Squeaks and the Emerald Burrito (prototype)",
-   "dateStart": "August 2014",
-   "dateEnd": ""
- },
-  {
-		"url": "http://twoscoopgames.com/fluffykins/",
-		"name": "Mr. Fluffykins' Great Sorting Adventure (prototype)",
-    "dateStart": "April 2014",
-    "dateEnd": ""
-	},
- {
-		"url": "http://twoscoopgames.com/apartment213/",
-		"name": "Apartment 213 (prototype)",
-    "dateStart": "January 2014",
-    "dateEnd": ""
-	}
-],
-
-	"videos": [{
-			"name": "Two Scoop Games Demo Reel 2017",
-			"youtubeID": "bTZKGJgaXQQ"
-		}, {
-			"name": "SyRUSH Trailer",
-			"youtubeID": "063ccMxUd1s"
-		},
-		{
-			"name": "Scurry Trailer",
-			"youtubeID": "qp3YzxV8_ks"
-		},
-		{
-			"name": "Kick Bot Trailer",
-			"youtubeID": "ek1yJr6Od2I"
-		}
-	],
-
-	"logos": [{
-			"url": "/img/presskit/twoscoopgames-avatar-2015.png",
-			"image": "/img/presskit/twoscoopgames-avatar-2015.png",
-			"alt": "Two Scoop Games Logo"
-		},
-		{
-			"url": "/img/presskit/logo-mama.png",
-			"image": "/img/presskit/logo-mama.png",
-			"alt": "Two Scoop Games Logo"
-		},
-		{
-			"url": "/img/presskit/TwoScoopGames-single-color.png",
-			"image": "/img/presskit/TwoScoopGames-single-color.png",
-			"alt": "Two Scoop Games Logo"
-		}
-
-	],
-	"images": [{
-			"url": "/img/presskit/twoscoopgames-14.jpg",
-			"image": "/img/presskit/twoscoopgames-14-sm.jpg",
-			"alt": "Two Scoop Games Alex and Eric give a game dev talk at RunJumpDev"
-
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-3.jpg",
-			"image": "/img/presskit/twoscoopgames-3-sm.jpg",
-			"alt": "Two Scoop Games Alex and Eric at Louisville Mini Maker Faire 2014"
-
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-6.jpg",
-			"image": "/img/presskit/twoscoopgames-6-sm.jpg",
-			"alt": "Two Scoop Games Alex Bezuska on local WDRB Fox 41 tv for #ChrompTheBit 2015"
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-8.jpg",
-			"image": "/img/presskit/twoscoopgames-8-sm.jpg",
-			"alt": "Two Scoop Games at Free Range Arcade 2014"
-
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-12.jpg",
-			"image": "/img/presskit/twoscoopgames-12-sm.jpg",
-			"alt": "Two Scoop Games Alex and Eric finish Global Game Jam 2015"
-
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-7.jpg",
-			"image": "/img/presskit/twoscoopgames-7-sm.jpg",
-			"alt": "Two Scoop Games Alex Bezuska"
-
-		},
-		{
-			"url": "/img/presskit/twoscoopgames-9.jpg",
-			"image": "/img/presskit/twoscoopgames-9-sm.jpg",
-			"alt": "Two Scoop Games Alex and Eric researching during SyRUSH devlopment"
-
-		}
-	],
-
-
-
-	"awardsAndRecognition": [
+  "social":[
     {
-    "recognition": "Jupi's Jam Favorites Ludum Dare 33 - Jupiter Hadley",
-    "for": "Treatment and Control",
-    "date": "November, 2015"
+      "url":"https://twitter.com/TwoScoopGames",
+      "name":"Twitter"
     },
     {
-		"recognition": "Jupi's Jam Favorites Ludum Dare 29 - Jupiter Hadley",
-		"for": "Mr. Fluffykin's Great Sorting Adventure",
-		"date": "January, 2015"
-	}
-],
-
-	"podcasts": [
-{
-		"title": "Weekend Warriors: Game Development",
-		"author": "Eat Sleep Code Podcast",
-    "source": "Telerik",
-		"url": "https://soundcloud.com/esc-podcast/game-development",
-    "date": "April, 2015"
-	}
-],
-
-	"selectedArticles": [
-    {
-      "title": "Nonprofit seeks to open Louisville's only game development shared space",
-      "url": "http://www.bizjournals.com/louisville/news/2015/10/14/nonprofit-seeks-to-open-louisvilles-only-game.html",			"author": "David Serchuk",
-      "source": "Louisville Business First",
-      "date": "October, 2015"
+      "url":"http://twoscoopgames.tumblr.com/",
+      "name":"Devlog on tumblr"
     },
     {
-			"url": "https://www.louisville.com/content/indie-pendent-louisville",
-			"title": "INDIE-PENDENT LOUISVILLE!",
-			"author": "Gage Troutman",
-			"source": "Louisville.com",
-      "date": "December, 2014"
-		},
-		{
-			"url": "http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/",
-			"title": "Syrush: A virtual breakfast frenzy – Review",
-			"author": "Cokamouse",
-			"source": "Pookybox",
-      "date": "October, 2014"
-		}
-	],
-
-
-	"eventsAndConferences": [
-    {
-      "url": "http://www.bullittschools.org/15/Home",
-      "title": "Maryville Elementary School Career Day 2017",
-      "wedid": "Two Scoop Games presented about game development careers",
-      "location": "Louisville, KY",
-      "date": "April, 2017"
+      "url":"http://two-scoop-games.itch.io",
+      "name":"Itch.io"
     },
     {
-      "url": "http://vectorconf.com",
-      "title": "Vector Game Developer Conference",
-      "wedid": "Two Scoop Games presented about starting a game dev space",
-      "location": "Richmond, KY",
-      "date": "April, 2017"
+      "url":"https://youtube.com/user/TwoScoopGames",
+      "name":"YouTube"
     },
     {
-			"url": "http://lexplaycon.com/",
-			"title": "Lexplay gaming convention",
-      "wedid": "Two Scoop Games had a booth showing Cluster Junk",
-			"location": "Lexington, KY",
-			"date": "October, 2016"
-		},
+      "url":"https://facebook.com/TwoScoopGames",
+      "name":"Facebook"
+    }
+  ],
+  "projects":[
     {
-      "url": "http://vectorconf.com",
-      "title": "Vector Game Developer Conference",
-      "wedid": "Two Scoop Games presented about HTML5 & JavaScript games",
-      "location": "Richmond, KY",
-      "date": "April, 2016"
+      "url":"http://twoscoopgames.com/duolastic/",
+      "name":"Duolastic",
+      "dateStart":"January 2017",
+      "dateEnd":"present",
+      "current":true
     },
     {
-      "url": "http://www.codepalousa.com/",
-      "title": "CodePaLousa 2016",
-      "wedid": "Two Scoop Games taught a game development workshop",
-      "location": "Louisville, KY",
-      "date": "March, 2016"
+      "url":"http://twoscoopgames.com/syrush/",
+      "name":"SyRUSH",
+      "dateStart":"June 2014",
+      "dateEnd":"September 2014",
+      "releaseDate":"August 4th, 2014"
     },
     {
-      "url": "http://www.arcaderx.com/",
-      "title": "Louisville Arcade Expo 2016",
-      "wedid": "Two Scoop Games had a booth showing Morning Ritual",
-      "location": "Louisville, KY",
-      "date": "March, 2016"
-    },
-
-    {
-      "url": "http://www.warpzonelouisville.com/",
-      "title": "Warp Zone Louisville Grand Opening",
-      "wedid": "Two Scoop Games presented and showed Morning Ritual",
-      "location": "Louisville, KY",
-      "date": "February, 2016"
-    },
-
-    {
-      "url": "http://www.humana.io/",
-      "title": "Humana Digital Experience Center",
-      "wedid": "Two Scoop Games presented about game development careers",
-      "location": "Louisville, KY",
-      "date": "February, 2016"
-    },
-
-    {
-      "url": "http://www.codepalousa.com/",
-      "title": "CodePaLousa 2015",
-      "wedid": "Two Scoop Games taught a game development workshop",
-      "location": "Louisville, KY",
-      "date": "March, 2015"
+      "url":"http://twoscoopgames.com/scurry/",
+      "name":"Scurry",
+      "dateStart":"November 2013",
+      "dateEnd":"July 214",
+      "releaseDate":"June 30th, 2014"
     },
     {
-			"url": "https://www.facebook.com/events/1418760161757443/",
-			"title": "'Chomp The Bit' pop up arcade 2015",
-      "wedid": "Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito",
-			"location": "Louisville, KY",
-			"date": "April, 2015"
-		},
-		{
-			"url": "http://www.arcaderx.com/",
-			"title": "Louisville Arcade Expo 2015",
-      "wedid": "Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito and SyRUSH",
-			"location": "Louisville, KY",
-			"date": "March, 2015"
-		},
-		{
-			"url": "http://bignight.org/freerangearcade/",
-			"title": "Free Range Arcade 2014",
-      "wedid": "Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito and SyRUSH",
-			"location": "Bloomington, IN",
-			"date": "October, 2014"
-		},
-		{
-			"url": "http://makerfairelou.org",
-			"title": "Louisville Mini Maker Faire 2014",
-      "wedid": "Two Scoop Games had a booth showing Kick Bot, Scurry, and SyRUSH",
-			"location": "Louisville, KY",
-			"date": "September, 2014"
-		},
+      "url":"http://twoscoopgames.com/kickbot/",
+      "name":"Kick Bot",
+      "dateStart":"February 2014",
+      "dateEnd":"May 2014",
+      "releaseDate":"April 30th, 2014"
+    }
+  ],
+  "prototypes":[
     {
-			"url": "http://runjumpdev.org",
-			"title": "Run Jump Dev Presentation",
-      "wedid": "Two Scoop Games presented about creating web and mobile games in HTML5 & JavaScript",
-			"location": "Lexington, KY",
-			"date": "July, 2014"
-		}
-
-
-	],
-
-	"additionalLinks": [{
-			"title": "Alex Bezuska on Twitter",
-			"description": "Personal twitter for Alex Bezuska",
-			"url": "http://twitter.com/alexbezuska",
-			"linkText": "@alexbezuska"
-		},
-		{
-			"title": "Eric Lathrop on Twitter",
-			"description": "Personal twitter for Eric Lathrop",
-			"url": "http://twitter.com/ericlathrop",
-			"linkText": "@ericlathrop"
-		}
-	],
-
-	"teamAndRepeatingCollaborators": [{
-			"name": "Alex Bezuska",
-			"role": "Game Design, Art & Animation, Marketing",
-			"company": "Two Scoop Games"
-		}, {
-			"name": "Eric Lathrop",
-			"role": "Game Design, Programming",
-			"company": "Two Scoop Games"
-		}
-
-	],
-	"contact": [
+      "url":"http://twoscoopgames.com/electropolis/",
+      "name":"Electropolis (prototype)",
+      "dateStart":"March 2016",
+      "dateEnd":""
+    },
     {
-			"name": "Inquiries",
-			"url": "mailto:info@twoscoopgames.com",
-			"linkText": "info@twoscoopgames.com"
-		}
-	]
-
+      "url":"http://twoscoopgames.com/morningritual/",
+      "name":"Morning Ritual (prototype)",
+      "dateStart":"January 2016",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/clusterjunk/",
+      "name":"Cluster Junk (prototype)",
+      "dateStart":"December 2015",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/treatmentandcontrol/",
+      "name":"Treatment and Control (prototype)",
+      "dateStart":"August 2015",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/uprooted/",
+      "name":"Uprooted (prototype)",
+      "dateStart":"April 2015",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/thedaytheworldchanged/",
+      "name":"The Day the World Changed (prototype)",
+      "dateStart":"January 2015",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/desserts/",
+      "name":"Desserts Killed Your Daddy (prototype)",
+      "dateStart":"December 2014",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/stanleysqueaks/",
+      "name":"Stanley Squeaks and the Emerald Burrito (prototype)",
+      "dateStart":"August 2014",
+      "dateEnd":""
+    },
+    {
+      "url":"http://twoscoopgames.com/fluffykins/",
+      "name":"Mr. Fluffykins' Great Sorting Adventure (prototype)",
+      "dateStart":"April 2014",
+      "dateEnd":"",
+      "ludumdare":{
+        "Humor":"103",
+        "Innovation":"150",
+        "Graphics":"209",
+        "Overall":"245",
+        "Fun":"300",
+        "Mood":"465",
+        "Theme":"557",
+        "Audio":"618",
+        "Coolness":"1409"
+      }
+    },
+    {
+      "url":"http://twoscoopgames.com/apartment213/",
+      "name":"Apartment 213 (prototype)",
+      "dateStart":"January 2014",
+      "dateEnd":""
+    }
+  ],
+  "videos":[
+    {
+      "name":"Two Scoop Games Demo Reel 2017",
+      "youtubeID":"bTZKGJgaXQQ"
+    },
+    {
+      "name":"SyRUSH Trailer",
+      "youtubeID":"063ccMxUd1s"
+    },
+    {
+      "name":"Scurry Trailer",
+      "youtubeID":"qp3YzxV8_ks"
+    },
+    {
+      "name":"Kick Bot Trailer",
+      "youtubeID":"ek1yJr6Od2I"
+    }
+  ],
+  "logos":[
+    {
+      "url":"/img/presskit/twoscoopgames-avatar-2015.png",
+      "image":"/img/presskit/twoscoopgames-avatar-2015.png",
+      "alt":"Two Scoop Games Logo"
+    },
+    {
+      "url":"/img/presskit/logo-mama.png",
+      "image":"/img/presskit/logo-mama.png",
+      "alt":"Two Scoop Games Logo"
+    },
+    {
+      "url":"/img/presskit/TwoScoopGames-single-color.png",
+      "image":"/img/presskit/TwoScoopGames-single-color.png",
+      "alt":"Two Scoop Games Logo"
+    }
+  ],
+  "images":[
+    {
+      "url":"/img/presskit/twoscoopgames-14.jpg",
+      "image":"/img/presskit/twoscoopgames-14-sm.jpg",
+      "alt":"Two Scoop Games Alex and Eric give a game dev talk at RunJumpDev"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-3.jpg",
+      "image":"/img/presskit/twoscoopgames-3-sm.jpg",
+      "alt":"Two Scoop Games Alex and Eric at Louisville Mini Maker Faire 2014"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-6.jpg",
+      "image":"/img/presskit/twoscoopgames-6-sm.jpg",
+      "alt":"Two Scoop Games Alex Bezuska on local WDRB Fox 41 tv for #ChrompTheBit 2015"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-8.jpg",
+      "image":"/img/presskit/twoscoopgames-8-sm.jpg",
+      "alt":"Two Scoop Games at Free Range Arcade 2014"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-12.jpg",
+      "image":"/img/presskit/twoscoopgames-12-sm.jpg",
+      "alt":"Two Scoop Games Alex and Eric finish Global Game Jam 2015"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-7.jpg",
+      "image":"/img/presskit/twoscoopgames-7-sm.jpg",
+      "alt":"Two Scoop Games Alex Bezuska"
+    },
+    {
+      "url":"/img/presskit/twoscoopgames-9.jpg",
+      "image":"/img/presskit/twoscoopgames-9-sm.jpg",
+      "alt":"Two Scoop Games Alex and Eric researching during SyRUSH devlopment"
+    }
+  ],
+  "awardsAndRecognition":[
+    {
+      "recognition":"Jupi's Jam Favorites Ludum Dare 33 - Jupiter Hadley",
+      "for":"Treatment and Control",
+      "date":"November, 2015"
+    },
+    {
+      "recognition":"Jupi's Jam Favorites Ludum Dare 29 - Jupiter Hadley",
+      "for":"Mr. Fluffykin's Great Sorting Adventure",
+      "date":"January, 2015"
+    }
+  ],
+  "podcasts":[
+    {
+      "title":"Weekend Warriors: Game Development",
+      "author":"Eat Sleep Code Podcast",
+      "source":"Telerik",
+      "url":"https://soundcloud.com/esc-podcast/game-development",
+      "date":"April, 2015"
+    }
+  ],
+  "selectedArticles":[
+    {
+      "title":"Game developers are building a community to foster creativity",
+      "url":"http://www.ontherecordmag.com/game-developers-are-building-a-community-to-foster-creativity/",
+      "author":"Harper Carlton",
+      "source":"On the Record Magazine",
+      "date":"January, 2017"
+    },
+    {
+      "title":"Warp Zone Louisville Grand Opening!",
+      "url":"https://nerdlouisville.org/warp-zone-louisville-grand-opening/",
+      "author":"Matt McCloud",
+      "source":"Nerd Louisville",
+      "date":"February, 2016"
+    },
+    {
+      "title":"Nonprofit seeks to open Louisville's only game development shared space",
+      "url":"http://www.bizjournals.com/louisville/news/2015/10/14/nonprofit-seeks-to-open-louisvilles-only-game.html",
+      "author":"David Serchuk",
+      "source":"Louisville Business First",
+      "date":"October, 2015"
+    },
+    {
+      "title":"Music for Games",
+      "url":"http://chriskincaid.com/music-for-games/",
+      "author":"Chris Kincaid",
+      "source":"http://chriskincaid.com/",
+      "date":"August, 2015"
+    },
+    {
+      "url":"https://www.louisville.com/content/indie-pendent-louisville",
+      "title":"INDIE-PENDENT LOUISVILLE!",
+      "author":"Gage Troutman",
+      "source":"Louisville.com",
+      "date":"December, 2014"
+    },
+    {
+      "url":"http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/",
+      "title":"Syrush: A virtual breakfast frenzy – Review",
+      "author":"Cokamouse",
+      "source":"Pookybox",
+      "date":"October, 2014"
+    }
+  ],
+  "eventsAndConferences":[
+    {
+      "url":"http://www.bullittschools.org/15/Home",
+      "title":"Maryville Elementary School Career Day 2017",
+      "wedid":"Two Scoop Games presented about game development careers",
+      "location":"Louisville, KY",
+      "date":"April, 2017"
+    },
+    {
+      "url":"http://vectorconf.com",
+      "title":"Vector Game Developer Conference",
+      "wedid":"Two Scoop Games presented about starting a game dev space",
+      "location":"Richmond, KY",
+      "date":"April, 2017"
+    },
+    {
+      "url":"http://lexplaycon.com/",
+      "title":"Lexplay gaming convention",
+      "wedid":"Two Scoop Games had a booth showing Cluster Junk",
+      "location":"Lexington, KY",
+      "date":"October, 2016"
+    },
+    {
+      "url":"http://vectorconf.com",
+      "title":"Vector Game Developer Conference",
+      "wedid":"Two Scoop Games presented about HTML5 & JavaScript games",
+      "location":"Richmond, KY",
+      "date":"April, 2016"
+    },
+    {
+      "url":"http://www.codepalousa.com/",
+      "title":"CodePaLousa 2016",
+      "wedid":"Two Scoop Games taught a game development workshop",
+      "location":"Louisville, KY",
+      "date":"March, 2016"
+    },
+    {
+      "url":"http://www.arcaderx.com/",
+      "title":"Louisville Arcade Expo 2016",
+      "wedid":"Two Scoop Games had a booth showing Morning Ritual",
+      "location":"Louisville, KY",
+      "date":"March, 2016"
+    },
+    {
+      "url":"http://www.warpzonelouisville.com/",
+      "title":"Warp Zone Louisville Grand Opening",
+      "wedid":"Two Scoop Games presented and showed Morning Ritual",
+      "location":"Louisville, KY",
+      "date":"February, 2016"
+    },
+    {
+      "url":"http://www.humana.io/",
+      "title":"Humana Digital Experience Center",
+      "wedid":"Two Scoop Games presented about game development careers",
+      "location":"Louisville, KY",
+      "date":"February, 2016"
+    },
+    {
+      "url":"http://www.codepalousa.com/",
+      "title":"CodePaLousa 2015",
+      "wedid":"Two Scoop Games taught a game development workshop",
+      "location":"Louisville, KY",
+      "date":"March, 2015"
+    },
+    {
+      "url":"https://www.facebook.com/events/1418760161757443/",
+      "title":"'Chomp The Bit' pop up arcade 2015",
+      "wedid":"Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito",
+      "location":"Louisville, KY",
+      "date":"April, 2015"
+    },
+    {
+      "url":"http://www.arcaderx.com/",
+      "title":"Louisville Arcade Expo 2015",
+      "wedid":"Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito and SyRUSH",
+      "location":"Louisville, KY",
+      "date":"March, 2015"
+    },
+    {
+      "url":"http://bignight.org/freerangearcade/",
+      "title":"Free Range Arcade 2014",
+      "wedid":"Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito and SyRUSH",
+      "location":"Bloomington, IN",
+      "date":"October, 2014"
+    },
+    {
+      "url":"http://makerfairelou.org",
+      "title":"Louisville Mini Maker Faire 2014",
+      "wedid":"Two Scoop Games had a booth showing Kick Bot, Scurry, and SyRUSH",
+      "location":"Louisville, KY",
+      "date":"September, 2014"
+    },
+    {
+      "url":"http://runjumpdev.org",
+      "title":"Run Jump Dev Presentation",
+      "wedid":"Two Scoop Games presented about creating web and mobile games in HTML5 & JavaScript",
+      "location":"Lexington, KY",
+      "date":"July, 2014"
+    }
+  ],
+  "additionalLinks":[
+    {
+      "title":"Alex Bezuska on Twitter",
+      "description":"Personal twitter for Alex Bezuska",
+      "url":"http://twitter.com/alexbezuska",
+      "linkText":"@alexbezuska"
+    },
+    {
+      "title":"Eric Lathrop on Twitter",
+      "description":"Personal twitter for Eric Lathrop",
+      "url":"http://twitter.com/ericlathrop",
+      "linkText":"@ericlathrop"
+    }
+  ],
+  "teamAndRepeatingCollaborators":[
+    {
+      "name":"Alex Bezuska",
+      "role":"Game Design, Art & Animation, Marketing",
+      "company":"Two Scoop Games"
+    },
+    {
+      "name":"Eric Lathrop",
+      "role":"Game Design, Programming",
+      "company":"Two Scoop Games"
+    }
+  ],
+  "contact":[
+    {
+      "name":"Inquiries",
+      "url":"mailto:info@twoscoopgames.com",
+      "linkText":"info@twoscoopgames.com"
+    }
+  ]
 }
