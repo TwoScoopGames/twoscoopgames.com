@@ -1,157 +1,92 @@
-.buttons.row{
-	text-align: center;
-margin: 0 auto 20px 0;
+.store-buttons.row {
+  margin: 45px 0;
 }
 
-.storeBtn{
-	 @include breakpoint(baby-bear) {
-	 	display: block;
-      margin: 5px auto;
-
+.store-buttons{
+  .btn{
+    color: white;
+    padding: 2px 15px 2px 5px;
+    text-align: left;
+    border-radius: 25px;
+    margin: 5px;
+    img{
+      vertical-align: middle;
+      margin: 0;
+      padding: 4px;
+      max-width: 40px;
+      display: inline-block !important;
     }
-     @include breakpoint(papa-bear) {
-      margin: 10px;
-      display: inline-block;
-        border-radius: 15px;
+    p{
+      font-size: 14px;
+      vertical-align: middle;
+      margin: 0;
+      display: inline-block !important;
     }
-     @include breakpoint(mama-bear) {
-      margin: 10px;
-      display: inline-block;
-        border-radius: 15px;
-    }
-	vertical-align: top;
-	position: relative;
-
-
-	height: 65px;
-	text-decoration: none;
-
-	padding: 10px 10px 10px 55px;
-	font-size: 14px;
-
-		box-shadow: 0 1px 4px rgba(0,0,0,.2);
-
-	span{
-		display: block;
-		color: white;
-		&.big{
-			font-size: 24px;
-			margin: 0px;
-		}
-	}
-	&:after{
-		clear: both;
-		display: table;
-		content:"";
-	}
-	img{
-		top: 0px;
-		left: 0px;
-		width: 60px;
-		height: 60px;
-		position: absolute;
-
-		display: inline-block;
-	}
-
-	.slideOut{
-		padding: 8px 15px;
-		position: absolute;
-		display: none;
-		height: 65px;
-		left: -300px;
-		top: 0px;
-		width: 270px;
-	}
-	&:hover{
-		.slideOut{
-			position: absolute;
-			display: inline-block;
-			z-index: 999;
-			left: 65px;
-		}
-	}
-
-	.bar{
-	display: inline-block;
-	position: relative;
-
-	width: 200px;
+  }
 }
 
-} //.storebtn
 
 
-.alwaysOut{
-	margin-left: 8px;
-}
-$githubColor: #b4d88f;
-.gitHub{
-	background: $githubColor;
-	border: 1px solid darken($githubColor, 10%);
-	&:hover{
-		background: darken($githubColor, 10%);
-	}
-}
-$playNowColor: #901940;
-.playNow{
-	border: 1px solid darken($primary, 10%);
-	background: linear-gradient( lighten($primary, 5%), $primary );
-	&:hover{ background: lighten($primary, 10%); }
-	&:active{ background: darken($primary, 10%); }
+@mixin storeButtonColor($color){
+  border: 1px solid darken($color, 10%) !important;
+  background: linear-gradient( lighten($color, 5%), $color);
+  &:hover{
+    border: 1px solid $color !important;;
+    background: linear-gradient( lighten($color, 15%), lighten($color, 10%));
+  }
+  &:active{
+    border: 1px solid darken($color, 15%) !important;;
+    background: linear-gradient( darken($color, 15%), darken($color, 10%));
+  }
 }
 
-$chromeColor: #fcd246;
 
-.chrome{
-	background: $chromeColor;
-	border: 1px solid darken($chromeColor, 10%);
-	background: linear-gradient( lighten($chromeColor, 5%), $chromeColor );
-	&:hover{ background: lighten($chromeColor, 10%); }
-	&:active{ background: darken($chromeColor, 10%); }
-}
+$webColor:       #FF548F;
+$webtouchColor:  #FF548F;
+$iosColor:       #9061C2;
+$androidColor:   #b1e01c;
+$chromeColor:    #fcd246;
+$firefoxColor:   #FF9500;
+$linuxColor:     #b1e01c;
+$macColor:       #9061C2;
+$windowsColor:   #1aa9d9;
+$itchColor:      #ff5c5c;
+$splatColor:     #00cdbd;
 
-$iosColor: #3B5A9B;
-.ios{
-	background: $iosColor;
-	border: 1px solid darken($iosColor, 10%);
-	background: linear-gradient( lighten($iosColor, 5%), $iosColor );
-	&:hover{ background: lighten($iosColor, 10%); }
-	&:active{ background: darken($iosColor, 10%); }
-}
 
-$androidColor: #A2C437;
-.android{
-	background: $androidColor;
-	border: 1px solid darken($androidColor, 10%);
-	background: linear-gradient( lighten($androidColor, 5%), $androidColor );
-	&:hover{ background: lighten($androidColor, 10%); }
-	&:active{ background: darken($androidColor, 10%); }
-}
 
-$firefoxColor: #df7743;
-.firefox{
-	background: $firefoxColor;
-	border: 1px solid darken($firefoxColor, 10%);
-	background: linear-gradient( lighten($firefoxColor, 5%), $firefoxColor );
-	&:hover{ background: lighten($firefoxColor, 10%); }
-	&:active{ background: darken($firefoxColor, 10%); }
-}
-
-$windows8Color: #00ACED;
-.windows8{
-	background: $windows8Color;
-	border: 1px solid darken($windows8Color, 10%);
-	background: linear-gradient( lighten($windows8Color, 5%), $windows8Color );
-	&:hover{ background: lighten($windows8Color, 10%); }
-	&:active{ background: darken($windows8Color, 10%); }
-}
-
-$itchioColor: #ff5c5c;
-.itchio{
-	background: $itchioColor;
-	border: 1px solid darken($itchioColor, 10%);
-	background: linear-gradient( lighten($itchioColor, 5%), $itchioColor );
-	&:hover{ background: lighten($itchioColor, 10%); }
-	&:active{ background: darken($itchioColor, 10%); }
+.store-buttons{
+  .web{
+    @include storeButtonColor($webColor);
+  }
+  .webtouch{
+    @include storeButtonColor($webtouchColor);
+  }
+  .ios{
+    @include storeButtonColor($iosColor);
+  }
+  .android{
+    @include storeButtonColor($androidColor);
+  }
+  .chrome{
+    @include storeButtonColor($chromeColor);
+  }
+  .firefox{
+    @include storeButtonColor($firefoxColor);
+  }
+  .linux{
+    @include storeButtonColor($linuxColor);
+  }
+  .mac{
+    @include storeButtonColor($macColor);
+  }
+  .windows{
+    @include storeButtonColor($windowsColor);
+  }
+  .itch{
+    @include storeButtonColor($itchColor);
+  }
+  .splat{
+    @include storeButtonColor($splatColor);
+  }
 }

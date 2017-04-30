@@ -5,7 +5,7 @@ The web site for Two Scoop Games.
 
 ### Adding a new game
 
-1. add game in `data/games.json`
+#### add game in `data/games.json`
 
   Anatomy of a game:
   ```
@@ -37,12 +37,30 @@ The web site for Two Scoop Games.
       ],
       "storeButtons": {
           "web": "http://twoscoopgames.com/kickbot/game",
-          "github": "http://splatjs.com"
+          "splat": "http://splatjs.com"
       }
   }
   ```
 
-2. add a new gamename-comments.json file for the game
+#### Store buttons
+
+* Store buttons will only show up if you use one or more of the following key names in the storeButtons object for a game:
+ * web
+ * webtouch
+ * ios
+ * android
+ * chrome
+ * firefox
+ * linux
+ * mac
+ * windows
+ * itch
+ * splat
+
+* To add a new type of storeButton, you can add a new handlebars if statement block in ``/partials/_storeButtons.hbs`
+
+
+#### add a new gamename-comments.json file for the game
 
   ```
   [
@@ -56,7 +74,7 @@ The web site for Two Scoop Games.
   ]
 ```
 
-3. Add game in site.json
+#### Add game in site.json
 
   ```
   "site/kickbot/index.html.hbs": {

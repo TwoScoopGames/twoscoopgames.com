@@ -1,12 +1,12 @@
 <div class="top row">
-	<div class="col1-2">
+	<div class="col-sm-6">
 		<div class="description row">
-			<div class="col1-3">
+			<div class="col-sm-4">
 				{{#if logo}}
 					<img class="gameLogo" src="{{logo}}" alt="{{logo-alt}}"/>
 				{{/if}}
 			</div>
-			<div class="col2-3">
+			<div class="col-sm-8">
 				{{#if title}}
 					<h1>{{title}}</h1>
 				{{/if}}
@@ -15,7 +15,7 @@
 				{{/if}}
 				<p>{{description}}</p>
 				<div class="gameSocial row">
-					<span class="col1-1">
+					<span class="col-sm-12">
 						<a href="https://twitter.com/share" class="twitter-share-button" data-via="TwoScoopGames" data-size="large" data-hashtags="{{hashtag}}">Tweet</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 					</span>
@@ -23,7 +23,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col1-2">
+	<div class="col-sm-6">
 		<div id="slider" class="flexslider">
 			<ul class="slides">
 				{{#each videos}}
@@ -41,7 +41,7 @@
 	</div>
 </div><!-- top row -->
 
-<div class="buttons row">
+<div class="store-buttons row text-center">
 	{{> storeButtons storeButtons}}
 </div>
 

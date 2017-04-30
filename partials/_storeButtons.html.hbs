@@ -1,63 +1,76 @@
 {{#if web}}
-	<a class="storeBtn playNow" href="{{web}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/play.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Play Now</span>
-			<span>in your browser</span>
-		</div>
-	</a><!-- .storeBtn -->
+<a class="btn btnPrimary web " href="{{web}}" target="_blank">
+  <img src="/img/web.png"/>
+  <p>Play on Web</p>
+</a>
 {{/if}}
+
+{{#if webtouch}}
+<a class="btn btnPrimary webtouch " href="{{webtouch}}"target="_blank">
+  <img src="/img/touch.png"/>
+  <p>Touchscreen only</p>
+</a>
+{{/if}}
+
 {{#if ios}}
-	<a class="storeBtn ios" href="{{ios}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/apple.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Download</span>
-			<span>iOS App Store</span>
-		</div>
-	</a><!-- .storeBtn -->
+<a class="btn btnPrimary ios " href="{{ios}}" target="_blank">
+  <img src="/img/apple.png"/>
+  <p>App Store</p>
+</a>
 {{/if}}
+
 {{#if android}}
-	<a class="storeBtn android" href="{{android}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/android.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Download</span>
-			<span> Google Play Store</span>
-		</div>
-	</a><!-- .storeBtn -->
+<a class="btn btnPrimary android " href="{{android}}" target="_blank">
+  <img src="/img/android.png"/>
+  <p>Google Play Store</p>
+</a>
 {{/if}}
+
 {{#if chrome}}
-	<a class="storeBtn chrome" href="{{chrome}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/chrome.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Download</span>
-			<span>Chrome Web Store</span>
-		</div>
-	</a><!-- .storeBtn -->
+<a class="btn btnPrimary chrome " href="{{chrome}}"target="_blank">
+  <img src="/img/chrome.png"/>
+  <p>Chrome Web Store</p>
+</a>
 {{/if}}
+
 {{#if firefox}}
-	<a class="storeBtn firefox" href="{{firefox}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/firefox.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Download</span>
-			<span>Firefox Web Store</span>
-		</div>
-	</a><!-- .storeBtn -->
+<a class="btn btnPrimary firefox " href="{{firefox}}" target="_blank">
+  <img src="/img/firefox.png"/>
+  <p>Firefox Web Store</p>
+</a>
 {{/if}}
-{{#if windows8}}
-	<a class="storeBtn windows8" href="{{windows8}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/windows8.png" />
-		<div class="bar alwaysOut">
-			<span class="big">Download</span>
-			<span>Windows 8 Store</span>
-		</div>
-	</a><!-- .storeBtn -->
+
+{{#if linux}}
+<a class="btn btnPrimary linux " href="{{linux}}" target="_blank">
+  <img src="/img/linux.png" />
+  <p>Linux</p>
+</a>
 {{/if}}
-{{#if github}}
-	<a class="storeBtn gitHub" href="{{github}}" target="_blank">
-		<img src="http://twoscoopgames.com/img/github.png"/>
-		<div class="bar alwaysOut">
-			<span class="big">Open Source</span>
-			<span>Made with Splat Engine</span>
-		</div>
-	</a><!-- .storeBtn -->
+
+{{#if mac}}
+<a class="btn btnPrimary mac " href="{{mac}}" target="_blank">
+  <img src="/img/apple.png" />
+  <p>Mac OS</p>
+</a>
+{{/if}}
+
+{{#if windows}}
+<a class="btn btnPrimary windows " href="{{windows8}}"target="_blank">
+  <img src="/img/windows.png" />
+  <p>Windows</p>
+</a>
+{{/if}}
+
+{{#if itch}}
+<a class="btn btnPrimary itch " href="{{github}}" target="_blank">
+  <img src="/img/itch.png"/>
+  <p>itch.io</p>
+</a>
+{{/if}}
+
+{{#if splat}}
+<a class="btn btnPrimary splat " href="{{splat}}" target="_blank">
+  <img src="/img/splat.png"/>
+  <p>SplatJS</p>
+</a>
 {{/if}}

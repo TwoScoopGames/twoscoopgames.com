@@ -91,7 +91,7 @@ button, input {
 
 
 
-.col1-2 {
+.col-sm-6 {
   @include breakpoint(baby-bear) {
     width: 100%;
   }

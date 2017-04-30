@@ -50,8 +50,17 @@
         }
       ],
       "storeButtons": {
-          "web": "https://two-scoop-games.itch.io/electropolis",
-          "github": "http://splatjs.com"
+          "web": "#",
+          "webtouch": "https://two-scoop-games.itch.io/electropolis",
+          "ios": "#",
+          "android": "#",
+          "chrome": "#",
+          "firefox": "#",
+          "linux": "#",
+          "mac": "#",
+          "windows": "#",
+          "itch": "https://two-scoop-games.itch.io/electropolis",
+          "splat": "http://splatjs.com"
       }
   },
   "morningritual": {
