@@ -464,7 +464,7 @@
             "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
             "web": "http://twoscoopgames.com/kickbot/game",
             "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-            "chrome": "https://two-scoop-games.itch.io/kick-bot",
+            "itch": "https://two-scoop-games.itch.io/kick-bot",
             "splat": "http://splatjs.com"
         }
     },
