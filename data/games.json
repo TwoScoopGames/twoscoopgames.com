@@ -20,7 +20,7 @@
     "mediaCoverage": [
     ],
     "storeButtons": {
-        "github": "http://splatjs.com"
+      "splat": "http://splatjs.com"
     }
 },
   "electropolis": {
@@ -50,15 +50,7 @@
         }
       ],
       "storeButtons": {
-          "web": "#",
           "webtouch": "https://two-scoop-games.itch.io/electropolis",
-          "ios": "#",
-          "android": "#",
-          "chrome": "#",
-          "firefox": "#",
-          "linux": "#",
-          "mac": "#",
-          "windows": "#",
           "itch": "https://two-scoop-games.itch.io/electropolis",
           "splat": "http://splatjs.com"
       }
@@ -92,8 +84,9 @@
         }
       ],
       "storeButtons": {
-          "web": "http://twoscoopgames.com/morningritual/game/",
-          "github": "http://splatjs.com"
+          "webtouch": "http://twoscoopgames.com/morningritual/game/",
+          "itch": "https://two-scoop-games.itch.io/morning-ritual",
+          "splat": "http://splatjs.com"
       }
   },
   "clusterjunk": {
@@ -117,7 +110,8 @@
       ],
       "storeButtons": {
           "web": "http://twoscoopgames.com/ld34",
-          "github": "http://splatjs.com"
+          "itch": "https://two-scoop-games.itch.io/cluster-junk-kentucky-fried-pixels",
+          "splat": "http://splatjs.com"
       }
   },
   "treatmentandcontrol": {
@@ -149,7 +143,7 @@
       ],
       "storeButtons": {
           "web": "http://twoscoopgames.com/treatmentandcontrol/game/",
-          "github": "http://splatjs.com"
+          "splat": "http://splatjs.com"
       }
   },
     "stanleysqueaks": {
@@ -196,7 +190,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/stanleysqueaks/game",
-            "github": "http://splatjs.com"
+            "splat": "http://splatjs.com"
         }
     },
     "uprooted": {
@@ -218,7 +212,8 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ld32/",
-            "github": "http://splatjs.com"
+            "itch": "https://two-scoop-games.itch.io/uprooted",
+            "splat": "http://splatjs.com"
         }
     },
     "thedaytheworldchanged": {
@@ -262,7 +257,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ggj15/",
-            "github": "http://splatjs.com"
+            "splat": "http://splatjs.com"
         }
     },
     "desserts": {
@@ -304,7 +299,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/ludumdare31/",
-            "github": "http://splatjs.com"
+            "splat": "http://splatjs.com"
         }
     },
     "syrush": {
@@ -348,8 +343,9 @@
             }
         ],
         "storeButtons": {
+            "webtouch": "/syrush/game",
             "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
-            "github": "http://splatjs.com"
+            "splat": "http://splatjs.com"
         }
     },
     "fluffykins": {
@@ -407,7 +403,8 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/fluffykins/game",
-            "github": "http://splatjs.com"
+            "itch": "https://two-scoop-games.itch.io/mr-fluffykins-great-sorting-adventure",
+            "splat": "http://splatjs.com"
         }
     },
     "kickbot": {
@@ -467,7 +464,8 @@
             "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
             "web": "http://twoscoopgames.com/kickbot/game",
             "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-            "github": "http://splatjs.com"
+            "chrome": "https://two-scoop-games.itch.io/kick-bot",
+            "splat": "http://splatjs.com"
         }
     },
     "apartment213": {
@@ -510,7 +508,7 @@
         ],
         "storeButtons": {
             "web": "http://twoscoopgames.com/apartment213/game",
-            "github": "http://splatjs.com"
+            "splat": "http://splatjs.com"
         }
     },
     "scurry": {
@@ -570,7 +568,8 @@
             "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
             "web": "http://twoscoopgames.com/scurry/game",
             "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
-            "github": "http://splatjs.com"
+            "itch": "https://two-scoop-games.itch.io/scurry",
+            "splat": "http://splatjs.com"
         }
     }
 }
