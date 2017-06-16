@@ -1,4 +1,170 @@
 {
+  "kickbot": {
+      "title": "Kick Bot",
+      "logo": "/img/kickbot-logo.png",
+      "logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
+      "link": "/kickbot/",
+      "img": "/img/kickbot.png",
+      "hoverimg": "/img/kickbot-hover.gif",
+      "tagline": "A game that will really kick your bot!",
+      "description": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
+      "videos": [
+          "ek1yJr6Od2I"
+      ],
+      "screenshots": [
+          "/img/kickbot-ss-0.png",
+          "/img/kickbot-ss-1.png",
+          "/img/kickbot-ss-2.png",
+          "/img/kickbot-ss-3.png",
+          "/img/kickbot-ss-4.png",
+          "/img/kickbot-ss-5.png",
+          "/img/kickbot-ss-6.png"
+      ],
+      "hashtag": "kickbotgame",
+      "likeurl": "http://kickbotgame.com",
+      "mediaCoverage": [
+          {
+              "title": "I Have a Love/Hate Relationship with Kick Bot",
+              "image": "/img/kickbot-twodashstash.png",
+              "description": "Kick Bot is a sadistic and masochistic experience that I absolutely love.",
+              "link": "http://twodashstash.com/2014/05/lovehate-relationship-kick-bot/",
+              "linkText": "Read the full Article"
+          },
+          {
+              "title": "Larry Chupacabra Flappy Jam Finale Video",
+              "image": "/img/kickbot-larrychupacabra.png",
+              "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
+              "link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
+              "linkText": "Watch the video"
+          },
+          {
+              "title": "CinnamonToastKen Flappy Jam Video",
+              "image": "/img/kickbot-cinnamontoastken.png",
+              "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
+              "link": "http://youtu.be/FPalexORVYI?t=3m28s",
+              "linkText": "Watch the video"
+          },
+          {
+              "title": "Flappy Jam",
+              "image": "/img/kickbot-flappyjam.png",
+              "description": "The official Flappy Jam page for Kick Bot.",
+              "link": "http://itch.io/jam/flappyjam/rate/2676",
+              "linkText": "Flappy Jam"
+          }
+      ],
+      "storeButtons": {
+          "web": "http://twoscoopgames.com/kickbot/game",
+          "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+          "itch": "https://two-scoop-games.itch.io/kick-bot"
+      }
+  },
+  "scurry": {
+      "title": "Scurry",
+      "logo": "/img/scurry-logo.png",
+      "link": "/scurry/",
+      "img": "/img/scurry.png",
+      "tagline": "Run, jump, survive.",
+      "description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
+      "screenshots": [
+          "/img/scurry-ss-0.png",
+          "/img/scurry-ss-6.png",
+          "/img/scurry-ss-1.png",
+          "/img/scurry-ss-2.png",
+          "/img/scurry-ss-3.png",
+          "/img/scurry-ss-4.png",
+          "/img/scurry-ss-5.png"
+      ],
+      "mediaCoverage": [
+          {
+              "title": "Larry Chupacabra video review",
+              "image": "/img/chupacabra-scurry.png",
+              "description": "Larry reviews the iPad version of Scurry.",
+              "link": "https://www.youtube.com/watch?v=oGpBYrIkG-c&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=5",
+              "linkText": "Watch the video"
+          },
+          {
+              "title": "Room With Hands Up video review",
+              "image": "/img/rwhuscurry.png",
+              "description": "Jump along as RWHU pays scurry and gives his commentary.",
+              "link": "https://www.youtube.com/watch?v=JYJxbZj28R8&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=9",
+              "linkText": "Watch the video"
+          },
+          {
+              "title": "Scurry Featured on Indiestatik!",
+              "image": "/img/indiestatik-scurry.png",
+              "description": "If you’ve ever wanted to play a game as a cockroach protagonist, now’s your chance with Two Scoop Games‘ upcoming title, Scurry...",
+              "link": "http://indiestatik.com/2014/06/22/screenshot-scrutiny-june-21st-2014/",
+              "linkText": "Read full article"
+          },
+          {
+              "title": "YAY Scurry - Run Little Roach!",
+              "image": "/img/yay-scurry.png",
+              "description": "Youtuber YAYGaming  plays Scurry and give his oppinions!",
+              "link": "https://www.youtube.com/watch?v=hlQJLsouuiY&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=2",
+              "linkText": "Watch the video"
+          },
+          {
+              "title": "Scurry | BE ONE WITH THE COCKROACH",
+              "image": "/img/KittehLoaf-scurry.png",
+              "description": "Youtube review of Scurry by KittehLoaf",
+              "link": "https://www.youtube.com/watch?v=rSsa1Yu2CbU&index=4&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U",
+              "linkText": "Watch the video"
+          }
+      ],
+      "storeButtons": {
+          "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
+          "web": "http://twoscoopgames.com/scurry/game",
+          "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
+          "itch": "https://two-scoop-games.itch.io/scurry",
+          "splat": "http://splatjs.com"
+      }
+  },
+  "syrush": {
+      "title": "SyRUSH",
+      "logo": "/img/SyRUSH-large-icon3.png",
+      "link": "/syrush/",
+      "img": "/img/syrush.png",
+      "tagline": "Now Available on iPhone, iPad, & iPod Touch",
+      "description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
+      "videos": [
+          "063ccMxUd1s"
+      ],
+      "screenshots": [
+          "/img/syrush-ss-4.png",
+          "/img/syrush-ss-0.png",
+          "/img/syrush-ss-1.png",
+          "/img/syrush-ss-2.png",
+          "/img/syrush-ss-3.png"
+      ],
+      "mediaCoverage": [
+          {
+              "title": "SyRUSH featured on AppSpy",
+              "image": "/img/syrush-appspy.png",
+              "description": "'SyRUSH is the waffle simulator we've all been waiting for.'",
+              "link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
+              "linkText": "Read More"
+          },
+          {
+              "title": "Larry Chupacabra Reviews SyRUSH",
+              "image": "/img/syrush-larry.png",
+              "description": "Youtuber Larry Chupacabra plays and reviews SyRUSH for iOS!",
+              "link": "https://www.youtube.com/watch?v=kb5TbsCRlxw",
+              "linkText": "Watch now!"
+          },
+          {
+              "title": "A virtual breakfast frenzy – Review",
+              "image": "/img/syrush-pookybox.png",
+              "description": "Waffles? Yum! Shouldn’t that be enough to make you wanna play this one?...",
+              "link": "http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/",
+              "linkText": "Read More"
+          }
+      ],
+      "storeButtons": {
+          "webtouch": "/syrush/game",
+          "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
+          "splat": "http://splatjs.com"
+      }
+  },
   "duolastic": {
     "title": "Duolastic",
     "logo": "/img/duolastic-icon.png",
@@ -302,52 +468,7 @@
             "splat": "http://splatjs.com"
         }
     },
-    "syrush": {
-        "title": "SyRUSH",
-        "logo": "/img/SyRUSH-large-icon3.png",
-        "link": "/syrush/",
-        "img": "/img/syrush.png",
-        "tagline": "Now Available on iPhone, iPad, & iPod Touch",
-        "description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings. Now Available on iPhone, iPad, & iPod Touch. Coming soon to touch-enabled computers!",
-        "videos": [
-            "063ccMxUd1s"
-        ],
-        "screenshots": [
-            "/img/syrush-ss-4.png",
-            "/img/syrush-ss-0.png",
-            "/img/syrush-ss-1.png",
-            "/img/syrush-ss-2.png",
-            "/img/syrush-ss-3.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "SyRUSH featured on AppSpy",
-                "image": "/img/syrush-appspy.png",
-                "description": "'SyRUSH is the waffle simulator we've all been waiting for.'",
-                "link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for",
-                "linkText": "Read More"
-            },
-            {
-                "title": "Larry Chupacabra Reviews SyRUSH",
-                "image": "/img/syrush-larry.png",
-                "description": "Youtuber Larry Chupacabra plays and reviews SyRUSH for iOS!",
-                "link": "https://www.youtube.com/watch?v=kb5TbsCRlxw",
-                "linkText": "Watch now!"
-            },
-            {
-                "title": "A virtual breakfast frenzy – Review",
-                "image": "/img/syrush-pookybox.png",
-                "description": "Waffles? Yum! Shouldn’t that be enough to make you wanna play this one?...",
-                "link": "http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/",
-                "linkText": "Read More"
-            }
-        ],
-        "storeButtons": {
-            "webtouch": "/syrush/game",
-            "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
-            "splat": "http://splatjs.com"
-        }
-    },
+
     "fluffykins": {
         "title": "Mr. Fluffykins' Great Sorting Adventure",
         "logo": "/img/fluffykins-logo.png",
@@ -407,67 +528,7 @@
             "splat": "http://splatjs.com"
         }
     },
-    "kickbot": {
-        "title": "Kick Bot",
-        "logo": "/img/kickbot-logo.png",
-        "logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
-        "link": "/kickbot/",
-        "img": "/img/kickbot.png",
-        "hoverimg": "/img/kickbot-hover.gif",
-        "tagline": "A game that will really kick your bot!",
-        "description": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
-        "videos": [
-            "ek1yJr6Od2I"
-        ],
-        "screenshots": [
-            "/img/kickbot-ss-0.png",
-            "/img/kickbot-ss-1.png",
-            "/img/kickbot-ss-2.png",
-            "/img/kickbot-ss-3.png",
-            "/img/kickbot-ss-4.png",
-            "/img/kickbot-ss-5.png",
-            "/img/kickbot-ss-6.png"
-        ],
-        "hashtag": "kickbotgame",
-        "likeurl": "http://kickbotgame.com",
-        "mediaCoverage": [
-            {
-                "title": "I Have a Love/Hate Relationship with Kick Bot",
-                "image": "/img/kickbot-twodashstash.png",
-                "description": "Kick Bot is a sadistic and masochistic experience that I absolutely love.",
-                "link": "http://twodashstash.com/2014/05/lovehate-relationship-kick-bot/",
-                "linkText": "Read the full Article"
-            },
-            {
-                "title": "Larry Chupacabra Flappy Jam Finale Video",
-                "image": "/img/kickbot-larrychupacabra.png",
-                "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "CinnamonToastKen Flappy Jam Video",
-                "image": "/img/kickbot-cinnamontoastken.png",
-                "description": "Kick Bot is featured in a Flappy Jam lineup video, check it out and don't forget to like, comment, and subscribe!",
-                "link": "http://youtu.be/FPalexORVYI?t=3m28s",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Flappy Jam",
-                "image": "/img/kickbot-flappyjam.png",
-                "description": "The official Flappy Jam page for Kick Bot.",
-                "link": "http://itch.io/jam/flappyjam/rate/2676",
-                "linkText": "Flappy Jam"
-            }
-        ],
-        "storeButtons": {
-            "ios": "https://itunes.apple.com/us/app/kick-bot/id869188877?mt=8&uo=4",
-            "web": "http://twoscoopgames.com/kickbot/game",
-            "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-            "itch": "https://two-scoop-games.itch.io/kick-bot",
-            "splat": "http://splatjs.com"
-        }
-    },
+
     "apartment213": {
         "title": "Apartment 213",
         "logo": "/img/apt213-logo.png",
@@ -510,66 +571,6 @@
             "web": "http://twoscoopgames.com/apartment213/game",
             "splat": "http://splatjs.com"
         }
-    },
-    "scurry": {
-        "title": "Scurry",
-        "logo": "/img/scurry-logo.png",
-        "link": "/scurry/",
-        "img": "/img/scurry.png",
-        "tagline": "Run, jump, survive.",
-        "description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
-        "screenshots": [
-            "/img/scurry-ss-0.png",
-            "/img/scurry-ss-6.png",
-            "/img/scurry-ss-1.png",
-            "/img/scurry-ss-2.png",
-            "/img/scurry-ss-3.png",
-            "/img/scurry-ss-4.png",
-            "/img/scurry-ss-5.png"
-        ],
-        "mediaCoverage": [
-            {
-                "title": "Larry Chupacabra video review",
-                "image": "/img/chupacabra-scurry.png",
-                "description": "Larry reviews the iPad version of Scurry.",
-                "link": "https://www.youtube.com/watch?v=oGpBYrIkG-c&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=5",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Room With Hands Up video review",
-                "image": "/img/rwhuscurry.png",
-                "description": "Jump along as RWHU pays scurry and gives his commentary.",
-                "link": "https://www.youtube.com/watch?v=JYJxbZj28R8&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=9",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Scurry Featured on Indiestatik!",
-                "image": "/img/indiestatik-scurry.png",
-                "description": "If you’ve ever wanted to play a game as a cockroach protagonist, now’s your chance with Two Scoop Games‘ upcoming title, Scurry...",
-                "link": "http://indiestatik.com/2014/06/22/screenshot-scrutiny-june-21st-2014/",
-                "linkText": "Read full article"
-            },
-            {
-                "title": "YAY Scurry - Run Little Roach!",
-                "image": "/img/yay-scurry.png",
-                "description": "Youtuber YAYGaming  plays Scurry and give his oppinions!",
-                "link": "https://www.youtube.com/watch?v=hlQJLsouuiY&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U&index=2",
-                "linkText": "Watch the video"
-            },
-            {
-                "title": "Scurry | BE ONE WITH THE COCKROACH",
-                "image": "/img/KittehLoaf-scurry.png",
-                "description": "Youtube review of Scurry by KittehLoaf",
-                "link": "https://www.youtube.com/watch?v=rSsa1Yu2CbU&index=4&list=PLOWWgSp5qPw3fQQqz0IKuJ4HmOjFxwD2U",
-                "linkText": "Watch the video"
-            }
-        ],
-        "storeButtons": {
-            "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
-            "web": "http://twoscoopgames.com/scurry/game",
-            "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
-            "itch": "https://two-scoop-games.itch.io/scurry",
-            "splat": "http://splatjs.com"
-        }
     }
+
 }
