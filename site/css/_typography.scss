@@ -83,7 +83,8 @@ p a{
 
 .link-btn{
 
-  font-size: 35px;
+  font-size: 20px;
+  text-decoration: none !important;
   cursor: pointer !important;
   color: white;
   padding: 14px 18px !important;
@@ -96,6 +97,7 @@ p a{
   &.green{
     background: linear-gradient( lighten($green, 5%), $green);
     &:hover{
+      text-decoration: none !important;
       background: linear-gradient( lighten($green, 15%), lighten($green, 10%));
     }
     &:active{

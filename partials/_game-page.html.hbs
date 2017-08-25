@@ -1,154 +1,172 @@
 <section class="container">
 
-	<div class="spacer row">
+  <div class="spacer row">
 
-		<div class="col-sm-3">
-			<div class="icon module">
-				{{#if icon}}
-				<img src="{{icon}}" alt="{{logo-alt}}"/>
-				{{/if}}
-			</div> <!-- /logo module -->
-		</h1>
+    <div class="col-sm-3">
+      <div class="icon module">
+        {{#if icon}}
+        <img src="{{icon}}" alt="{{logo-alt}}"/>
+        {{/if}}
+      </div> <!-- /logo module -->
+    </h1>
 
-	</div>
+  </div>
 
-	<div class="col-sm-9">
-		<div class="pitch module">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-via="TwoScoopGames" data-size="large" data-hashtags="{{hashtag}}">Tweet</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <div class="col-sm-9">
+    <div class="pitch module">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-via="TwoScoopGames" data-size="large" data-hashtags="{{hashtag}}">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-			<h1>{{title}}</h1>
-			<h2>{{tagline}}</h2>
+      <h1>{{title}}</h1>
+      <h2>{{tagline}}</h2>
 
-			<p>{{pitch}}</p>
+      <p>{{pitch}}</p>
 
-			<h3>{{release-statement}}</h3>
-		</div> <!-- /pitch module -->
-	</div>
-
-</div>
-
-<div class="spacer row">
-
-	<div class="col-md-8 col-sm-12">
-
-		{{#if trailer}}
-		<div class="youtube-video module">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/{{trailer}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-		</div>
-		{{/if}}
-	</div>
-
-
-
-	<div class="col-md-4 col-sm-12 ">
-
-
-		<div class="store-buttons module">
-		{{> storeButtons storeButtons}}
-		</div>
-
-	</div>
+      <h3>{{release-statement}}</h3>
+    </div> <!-- /pitch module -->
+  </div>
 
 </div>
 
 <div class="spacer row">
 
-	<div class="col-md-12">
+  <div class="col-md-8 col-sm-12">
 
-		<div class="description module">
-
-			{{#if jam}}
-				<h1>Created for {{jam.title}}</h1>
-				<p>{{jam.date}}</p>
-				<p><strong>Theme:</strong> {{jam.theme}}</p>
-				<p><a href="{{link}}" target="_blank">Jam Page</a></p>
-			{{/if}}
-
-
-			{{#if description}}
-			<h1>About the game</h1>
-			<p>{{description}}</p>
-			{{/if}}
-
-			{{#if contributors}}
-			<h1>Contributors</h1>
-			<ul>
-				{{#each contributors}}
-					<li><a href="{{link}}" target="_blank"><strong>{{name}}</strong> - {{role}}</a></li>
-				{{/each}}
-			</ul>
-			{{/if}}
-
-
-			{{#if free-features}}
-			<h2>Free Features</h2>
-			<ul>
-				{{#each free-features}}
-				<li>{{free-feature}}</li>
-				{{/each}}
-			</ul>
-			{{/if}}
-
-
-			{{#if premium-features}}
-			<h2>Premium Features</h2>
-			<ul>
-				{{#each premium-features}}
-				<li>{{premium-feature}}</li>
-				{{/each}}
-			</ul>
-			{{/if}}
-
-		</div>
-
-		<div class="awards module">
-			{{#if awards}}
-			<h1>Awards &amp; Recognition</h1>
-
-				<ul>
-					{{#each awards}}
-						<li><a href="{{link}}" target="_blank">{{title}} - {{author}}</a></li>
-					{{/each}}
-				</ul>
-
-
-			{{/if}}
-
-		</div>
-
-		<div class="reviews module">
-			{{#if media}}
-			<h1>Reviews & Media</h1>
-
-			<ul>
-				{{#each media}}
-					<li><a href="{{link}}" target="_blank">{{title}} - {{author}}</a></li>
-				{{/each}}
-			</ul>
-
-
-			{{/if}}
-
-		</div>
-
-
-	</div>
-	<div>
+    {{#if trailer}}
+    <div class="youtube-video module">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{trailer}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    {{/if}}
+  </div>
 
 
 
+  <div class="col-md-4 col-sm-12 ">
 
-		<div class="screenshots row module">
 
-			{{#each screenshots}}
-			<div class="screenshot col-sm-6">
-				<div class="module">
-					<img src="{{this}}" />
-				</div>
-			</div>
-			{{/each}}
+    <div class="store-buttons module">
+      {{> storeButtons storeButtons}}
+    </div>
 
-		</div>
+  </div>
 
-	</section>
+</div>
+
+<div class="spacer row">
+
+  <div class="col-sm-8">
+
+
+    {{#if description}}
+    <div class="description module">
+      <h2>About the game</h2>
+      <p>{{description}}</p>
+    </div>
+    {{/if}}
+
+
+    {{#if free-features}}
+    <div class="free-features module">
+      <h3>Free Features</h3>
+      <ul>
+        {{#each free-features}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
+
+
+    {{#if premium-features}}
+    <div class="premium-features module">
+      <h3>Premium Features</h3>
+      <ul>
+        {{#each premium-features}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
+
+    {{#if media}}
+    <div class="reviews module">
+      <h3>Reviews & Media</h3>
+      <ul>
+        {{#each media}}
+        <li><p><a href="{{link}}" target="_blank">{{title}} - {{author}}</a></p></li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
+    
+
+    {{#if contributors}}
+    <div class="contributors module">
+      <h3>Contributors</h3>
+      <ul>
+        {{#each contributors}}
+        <li><a href="{{link}}" target="_blank"><strong>{{name}}</strong> - {{role}}</a></li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
+
+
+
+
+
+
+
+
+  </div><!-- left column -->
+
+  <div class="col-sm-4">
+    {{#if jam}}
+    <div class="jam">
+      <div class="module">
+        <h3>Game Jam</h3>
+        <p><strong>Created for</strong> {{jam.title}}</p>
+        <p>{{jam.date}}</p>
+        <p><strong>Theme:</strong> {{jam.theme}}</p>
+        <p><a href="{{link}}" target="_blank">View the Jam Page</a></p>
+      </div>
+    </div>
+    {{/if}}
+
+    {{#if awards}}
+    <div class="awards module">
+      <h3>Awards &amp; Recognition</h3>
+      <div class="row">
+
+        {{#each awards}}
+          <div class="award module">
+            <a href="{{link}}"> <img src="/{{image}}" alt="{{title}}"/></a>
+          </div>
+        {{/each}}
+      </div>
+    </div>
+    {{/if}}
+  </div><!-- right column -->
+
+
+
+
+
+  <div>
+
+
+
+
+    <div class="screenshots row module">
+
+      {{#each screenshots}}
+      <div class="screenshot col-sm-6">
+        <div class="module">
+          <img src="{{this}}" />
+        </div>
+      </div>
+      {{/each}}
+
+    </div>
+
+  </section>

@@ -10,12 +10,16 @@
     border-radius: 10px;
     box-shadow: 0 1px 4px rgba(0,0,0,.2);
     margin: 0  5px 15px 5px;
-    img{
+    img, i{
+      font-size: 40px;
       vertical-align: middle;
       margin: 0;
       padding: 4px;
       max-width: 60px;
       display: inline-block !important;
+    }
+    i{
+      padding: 10px;
     }
     p{
       font-size: 18px;
@@ -57,6 +61,9 @@ $splatColor:     $green-shadow;
 
 
 .store-buttons{
+  .mailinglist{
+    @include storeButtonColor($purple);
+  }
   .web{
     @include storeButtonColor($webColor);
   }

@@ -48,3 +48,31 @@
     margin: 0 0 25px 0;
   }
 }
+.awards, .jam, .description, .free-features, .premium-features, .contributors, .media{
+  margin-bottom: 60px;
+}
+
+.award.module{
+  max-width: 220px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+
+
+.jam{
+  perspective:1000px;
+  .module{
+    background: $purple;
+    padding: 5px 21px 14px 20px;
+    transition: all 0.2s;
+    &:hover{
+      transform: rotateY(-25deg);
+    }
+  }
+}
+
+
+.free-features li, .premium-features li{
+  margin-bottom: 10px;
+}

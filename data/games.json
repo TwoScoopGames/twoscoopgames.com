@@ -1,861 +1,946 @@
 {
-	"kickbotdx": {
-		"release": true,
-		"title": "Kick Bot DX",
-		"icon": "/img/kickbotdx-icon.png",
-		"logo-alt": "Kick Bot DX from Two Scoop Games.",
-		"link": "/kickbotdx/",
-		"img": "/img/kickbotdx.png",
-		"hoverimg": "",
-		"tagline": "",
-		"cornerband": "coming soon!",
+  "kickbotdx": {
+    "release": true,
+    "title": "Kick Bot DX",
+    "icon": "/img/kickbotdx-icon.png",
+    "logo-alt": "Kick Bot DX from Two Scoop Games.",
+    "link": "/kickbotdx/",
+    "img": "/img/kickbotdx.png",
+    "hoverimg": "",
+    "tagline": "",
+    "cornerband": "coming soon!",
 
-		"pitch": "An infinite wall-jumping game where you send different types of unlockable robots to their doom for...  research purposes.",
-		"release-statement": "Coming soon to Mobile and PC.",
+    "pitch": "An infinite wall-jumping game where you send different types of unlockable bots to their doom for...  research purposes.",
 
-		"jam": {
-			"title": "Kentucky Fried Pixels 2017",
-			"theme": "",
-			"link": "https://itch.io/jam/kfp2"
-		},
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			}
-		],
-		"trailer": "HA_tIeOOxS8",
-		"screenshots": [
-			"/img/kickbotdx-ss-0.png",
-			"/img/kickbotdx-ss-1.png",
-			"/img/kickbotdx-ss-2.png",
-			"/img/kickbotdx-ss-3.png",
-			"/img/kickbotdx-ss-4.png"
-		],
-		"hashtag": "kickbotgame",
-		"likeurl": "http://twoscoopgames.com/kickbotdx",
-		"media": [
+  "description": "Kick Bot is back and this time there are more hazards, more rewards, and more bots to test! Deep underground, scientists have been obsessively working on building the perfect wall-jumping bots. Thousands of bots have failed and fallen into the scrap heap. Can you prove you have what it takes to build and test the perfect bot?",
 
-		],
-		"storeButtons": {
-
-		}
-	},
-
-	"syrush": {
-		"release": true,
-		"title": "SyRUSH",
-		"icon": "/img/SyRUSH-large-icon3.png",
-		"link": "/syrush/",
-		"img": "/img/syrush.png",
-		"tagline": "The official Waffle simulator of breakfast!",
-		"pitch": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
-		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
-		"release-statement": "Available on iPhone, iPad, & iPod Touch.",
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "RoccoW",
-				"link": "https://soundcloud.com/roccow",
-				"role": "Music"
-			}
-		],
-		"trailer": "063ccMxUd1s",
-		"screenshots": [
-			"/img/syrush-ss-4.png",
-			"/img/syrush-ss-0.png",
-			"/img/syrush-ss-1.png",
-			"/img/syrush-ss-2.png",
-			"/img/syrush-ss-3.png"
-		],
-		"media": [{
-				"author": "AppSpy",
-				"title": "'SyRUSH is the waffle simulator we've all been waiting for.'",
-				"link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for"
-			},
-			{
-				"author": "Larry Chupacabra",
-				"title": "SyRush: Arcade Waffles for Breakfast! - Mobile Game Review (iOS) (video)",
-				"link": "https://www.youtube.com/watch?v=kb5TbsCRlxw"
-			},
-			{
-				"author": "Pookybox - Cokamouse",
-				"title": "Syrush: A virtual breakfast frenzy – Review",
-				"link": "http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/"
-			}
-		],
-
-		"storeButtons": {
-			"ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8",
-			"webtouch": "/syrush/game"
-
-		}
-	},
-	"scurry": {
-		"release": true,
-		"title": "Scurry",
-		"icon": "/img/scurry-logo.png",
-		"link": "/scurry/",
-		"img": "/img/scurry.png",
-		"tagline": "Run, jump, survive.",
-    "pitch": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
-    "release-statement": "Available on iPhone, iPad, & iPod Touch.",
-		"description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-      {
-        "name": "RoccoW",
-        "link": "https://soundcloud.com/roccow",
-        "role": "Music"
-      }
-		],
-		"trailer": "oGpBYrIkG-c",
-		"screenshots": [
-			"/img/scurry-ss-0.png",
-			"/img/scurry-ss-6.png",
-			"/img/scurry-ss-1.png",
-			"/img/scurry-ss-2.png",
-			"/img/scurry-ss-3.png",
-			"/img/scurry-ss-4.png",
-			"/img/scurry-ss-5.png"
-		],
-		"media": [{
-				"author": "Larry Chupacabra",
-				"title": "Scurry: Run, Jump, Survive - Mobile Game Review (video)",
-				"link": "https://youtu.be/oGpBYrIkG-c"
-			},
-			{
-				"author": "YAYGaming",
-				"title": "YAY Scurry - Run Little Roach! (video)",
-				"link": "https://youtu.be/hlQJLsouuiY"
-			}
-		],
-		"storeButtons": {
-			"ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
-			"web": "http://twoscoopgames.com/scurry/game",
-			"chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
-			"itch": "https://two-scoop-games.itch.io/scurry"
-		}
-	},
-
-
-	"kickbot": {
-		"release": true,
-		"title": "Kick Bot",
-		"icon": "/img/kickbot-logo.png",
-		"logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
-		"link": "/kickbot/",
-		"img": "/img/kickbot.png",
-		"hoverimg": "/img/kickbot-hover.gif",
-		"tagline": "A game that will really kick your bot!",
-		"pitch": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
-		"release-statement": "Available now on the Chrome Web Store and Itch.io!",
-
-		"jam": {
-			"title": "Flappy Jam",
-			"theme": "Make a hard, almost unplayable game",
-			"link": "https://itch.io/jam/flappyjam"
-		},
-
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "rolemusic",
-				"link": "http://rolemusic.sawsquarenoise.com/",
-				"role": "Music"
-			}
-		],
-		"trailer": "ek1yJr6Od2I",
-		"screenshots": [
-			"/img/kickbot-ss-0.png",
-			"/img/kickbot-ss-1.png",
-			"/img/kickbot-ss-2.png",
-			"/img/kickbot-ss-3.png",
-			"/img/kickbot-ss-4.png",
-			"/img/kickbot-ss-5.png",
-			"/img/kickbot-ss-6.png"
-		],
-		"hashtag": "kickbotgame",
-		"likeurl": "http://kickbotgame.com",
-		"media": [
-
-			{
-				"author": "Larry Chupacabra",
-				"title": "Flappy Jam Showcase Finale! (video)",
-				"link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s"
-			},
-			{
-				"author": "CinnamonToastKen",
-				"title": "Flappy Bird Clones Ep 1 (video)",
-				"link": "http://youtu.be/FPalexORVYI?t=3m28s"
-			},
-			{
-				"author": "Flappy Jam",
-				"title": "Ranked #23 in coolness, #38 overall (of 770)",
-				"link": "http://itch.io/jam/flappyjam/rate/2676"
-			}
-		],
-
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/kickbot/game",
-			"chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
-			"itch": "https://two-scoop-games.itch.io/kick-bot"
-		}
-	},
-
-
-
-	"duolastic": {
-		"prototype": true,
-		"title": "Duolastic",
-		"icon": "/img/duolastic-icon.png",
-		"link": "/duolastic/",
-		"img": "/img/duolastic.png",
-		"hoverimg": "/img/duolastic-hover.gif",
-		"cornerBand": "",
-		"tagline": "Challenge your friends anytime, anywhere!",
-    "pitch": "Online multiplayer game where you can send a link and challenge anyone.",
-    "release-statement":"Online beta - requires 2 players",
-		"description": "Online multiplayer game where you can send a link and challenge anyone.",
+    "free-features": [
+      "Procedurally-generated infinite level design!",
+      "Unlockable playable bots each with thier own look and special ability!",
+      "Collect research points and use scrapped bots to build parts for new ones!",
+      "New hazards including electrocuting tesla coils, high RPM sawblades, spike smashers and more!",
+      "Compare your high score with the world with built in social media sharing - each bot has it's own leaderboard!",
+      "Achievements for the most daring moves!",
+      "Music and SFX options!",
+      "Daily challenge mode - compete with your friends using the same placement of hazards!"
+    ],
+    "premium-features": [
+      "Can't wait? Pay to complete and unlock new bots for your collection!"
+    ],
+    "release-statement": "Coming soon to iPhone, iPad, iPod Touch, Android Devices and PC.",
 
     "jam": {
-			"title": "Global Game Jam 2017",
-			"theme": "Waves",
-			"link": "http://globalgamejam.org/2016/games/morning-ritual-13"
-		},
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-      {
-        "role": "Music and sound effects",
-        "name": "Additional credits here",
-        "link":"https://github.com/TwoScoopGames/Duolastic/blob/master/credits.md"
-      }
-		],
-		"trailer": "e94OgJhveIw",
-		"screenshots": [
-			"/img/duolastic-ss-0.png",
-			"/img/duolastic-ss-1.png",
-			"/img/duolastic-ss-2.png",
-			"/img/duolastic-ss-3.png"
-		],
-		"media": [],
-		"storeButtons": {
-      "web": "http://duolastic.twoscoopgames.com/"
-		}
-	},
-	"electropolis": {
-		"prototype": true,
-		"title": "Electropolis",
-		"icon": "/img/electropolis-icon.png",
-		"link": "/electropolis/",
-		"img": "/img/electropolis.png",
-		"cornerBand": "",
-		"tagline": "Powered by Lightning!",
-		"pitch": "Power a city by lightning by matching symbols in the clouds.",
-		"description": "Power a city by lightning by matching symbols in the clouds.",
-		"release-statement": "Available now to play in your browser.",
-    "jam": {
-			"title": "Train Jam 2016",
-			"theme": "Maximum Catpacity",
-			"link": "https://itch.io/jam/train-jam-2016/rate/57649"
-		},
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, UI, animation, and programming"
-			},
-			{
-				"name": "Cara Smith",
-				"link": "http://twitter.com/@howdycara",
-				"role": "Game Design and art"
-			},
-			{
-				"name": "Rex Soriano",
-				"link": "http://twitter.com/@Lolo_r",
-				"role": "Game Design and programming"
-			}
-		],
-		"trailer": "",
-		"screenshots": [
-			"/img/electropolis-ss-0.png",
-			"/img/electropolis-ss-1.png",
-			"/img/electropolis-ss-2.png",
-			"/img/electropolis-ss-3.png"
-		],
-		"media": [{
-			"author": "Jupiter Hadley",
-			"title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Train Jam 2016] [Part 3]",
-			"link": "https://youtu.be/Ox0YQLgTD1E?t=11m21s"
-		}],
-
-		"storeButtons": {
-			"webtouch": "https://two-scoop-games.itch.io/electropolis",
-			"itch": "https://two-scoop-games.itch.io/electropolis"
-		}
-	},
-	"morningritual": {
-		"prototype": true,
-		"title": "Morning Ritual",
-		"icon": "/img/morningritual-icon.png",
-		"link": "/morningritual/",
-		"img": "/img/morningritual.png",
-		"hoverimg": "/img/morningritual.gif",
-		"cornerBand": "",
-		"tagline": "Good Morning!",
-		"pitch": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day.",
-		"description": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day.",
-		"release-statement": "Available now to play in your browser.",
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, art, animation, and  additional programming"
-			},
-			{
-				"name": "Cara Smith",
-				"link": "http://twitter.com/@howdycara",
-				"role": "Game Design and art"
-			},
-			{
-				"name": "Chris Kincaid",
-				"link": "http://twitter.com/@chriskincaid",
-				"role": "Music and sound"
-			}
-		],
-		"trailer": "EfONONJ7GLU",
-		"screenshots": [
-			"/img/morningritual-ss-0.jpg",
-			"/img/morningritual-ss-1.jpg",
-			"/img/morningritual-ss-2.jpg",
-			"/img/morningritual-ss-3.jpg",
-			"/img/morningritual-ss-4.jpg"
-		],
-		"jam": {
-			"title": "Global Game Jam 2016",
-			"theme": "Ritual",
-			"link": "http://globalgamejam.org/2016/games/morning-ritual-13"
-		},
-
-		"storeButtons": {
-			"webtouch": "http://twoscoopgames.com/morningritual/game/",
-			"itch": "https://two-scoop-games.itch.io/morning-ritual"
-		}
-	},
-	"clusterjunk": {
-		"prototype": true,
-		"title": "Cluster Junk",
-		"icon": "/img/clusterjunk-icon.png",
-		"link": "/clusterjunk/",
-		"img": "/img/clusterjunk.png",
-		"cornerBand": "",
-		"tagline": "The Secret of Trash Island",
-		"description": "There are millions of tons of trash floating in the oceans. So what goes on while no one is looking in these trash piles? Explore the garbage of humans and try to become the largest trash island in the sea! But hurry, don't let the timer run out! ",
-		"pitch": "There are millions of tons of trash floating in the oceans. So what goes on while no one is looking in these trash piles?",
-		"release-statement": "Available now to play in your browser.",
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, art, animation, and additional programming"
-			},
-			{
-				"name": "Cara Smith",
-				"link": "http://twitter.com/@howdycara",
-				"role": "Game Design and art"
-			},
-			{
-				"name": "Ben Wiley",
-				"link": "http://twitter.com/@benwiley4000",
-				"role": "Music, sound, and additional programming"
-			}
-		],
-		"trailer": "-C0G0idsxtw",
-		"screenshots": [
-			"/img/clusterjunk-ss-0.jpg",
-			"/img/clusterjunk-ss-1.jpg",
-			"/img/clusterjunk-ss-2.jpg",
-			"/img/clusterjunk-ss-3.jpg"
-		],
-		"jam": {
-			"title": "Ludum Dare 34",
-			"date": "December 11th-14th, 2015",
-			"theme": "Growing",
-			"link": "http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=37347"
-		},
-		"media": [
-      {
-"author":"VisNomadic",
-      "title":"Indie Games: Cluster Junk",
-      "link":"https://youtu.be/-C0G0idsxtw"
+      "title": "Kentucky Fried Pixels 2017",
+      "theme": "",
+      "link": "https://itch.io/jam/kfp2"
+    },
+    "contributors": [{
+      "name": "Eric Lathrop",
+      "link": "http://twitter.com/@EricLathrop",
+      "role": "Game Design and Programming"
     },
     {
-      "author":"Jupiter Hadley",
-"title":"Jupi Plays Indie Games: ALL THE INDIE GAMES [Kentucky Fried Pixels Jam] [Part 1]",
-"link":"https://youtu.be/xEMuKNkZ_a0?t=11m39s"
+      "name": "Alex Bezuska",
+      "link": "http://twitter.com/@AlexBezuska",
+      "role": "Game Design, Art, and Animation"
+    }
+  ],
+  "trailer": "HA_tIeOOxS8",
+  "screenshots": [
+    "/img/kickbotdx-ss-0.png",
+    "/img/kickbotdx-ss-1.png",
+    "/img/kickbotdx-ss-2.png",
+    "/img/kickbotdx-ss-3.png",
+    "/img/kickbotdx-ss-4.png"
+  ],
+  "hashtag": "kickbotgame",
+  "likeurl": "http://twoscoopgames.com/kickbotdx",
+  "media": [
+
+  ],
+  "storeButtons": {
+    "mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
+  }
+},
+
+"syrush": {
+  "release": true,
+  "title": "SyRUSH",
+  "icon": "/img/SyRUSH-large-icon3.png",
+  "link": "/syrush/",
+  "img": "/img/syrush.png",
+  "tagline": "The official Waffle simulator of breakfast!",
+  "pitch": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
+  "description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
+  "release-statement": "Available on iPhone, iPad, & iPod Touch.",
+
+  "free-features": [
+    "Fast-paced infinite high score game!",
+    "Ramps up speed as you impove your skills as a waffle chef!",
+    "Designed for full ten-finger multi-touch!",
+    "Play the basic mode for as long as you like!",
+    "Challenge yourself to beat your best score!",
+    "Two delicious traditional waffle toppings!"
+  ],
+  "premium-features":[
+    "Get the full game with all features for only 99 cents!",
+    "Upgrade to 7 sugary toppings to master by adding powdered sugar, blueberries, strawberries, chocolate chips, and whipped cream!",
+    "Challenge your friends and the world with the SyRUSH leaderboard!",
+    "8 challenging achievements!"
+  ],
+
+
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "name": "RoccoW",
+    "link": "https://soundcloud.com/roccow",
+    "role": "Music"
+  }
+],
+"trailer": "063ccMxUd1s",
+"screenshots": [
+  "/img/syrush-ss-4.png",
+  "/img/syrush-ss-0.png",
+  "/img/syrush-ss-1.png",
+  "/img/syrush-ss-2.png",
+  "/img/syrush-ss-3.png"
+],
+"media": [{
+  "author": "AppSpy",
+  "title": "'SyRUSH is the waffle simulator we've all been waiting for.'",
+  "link": "http://www.appspy.com/news/9026/syrush-is-the-waffle-simulator-weve-all-been-waiting-for"
+},
+{
+  "author": "Larry Chupacabra",
+  "title": "SyRush: Arcade Waffles for Breakfast! - Mobile Game Review (iOS) (video)",
+  "link": "https://www.youtube.com/watch?v=kb5TbsCRlxw"
+},
+{
+  "author": "Pookybox - Cokamouse",
+  "title": "Syrush: A virtual breakfast frenzy – Review",
+  "link": "http://www.pookybox.com/syrush-virtual-breakfast-frenzy-review/"
 }
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/ld34",
-			"itch": "https://two-scoop-games.itch.io/cluster-junk-kentucky-fried-pixels"
-		}
-	},
-	"treatmentandcontrol": {
-		"prototype": true,
-		"title": "Treatment and Control",
-		"icon": "/img/treatmentandcontrol-icon.png",
-		"link": "/treatmentandcontrol/",
-		"img": "/img/treatmentandcontrol.png",
-		"cornerBand": "",
-		"tagline": "Who is in control?",
-		"pitch": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce.",
-		"release-statement": "Available now to play in your browser.",
-		"description": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce.",
+],
+
+"storeButtons": {
+  "ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8"
+
+}
+},
+"scurry": {
+  "release": true,
+  "title": "Scurry",
+  "icon": "/img/scurry-logo.png",
+  "link": "/scurry/",
+  "img": "/img/scurry.png",
+  "tagline": "Run, jump, survive.",
+  "pitch": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
+  "release-statement": "Available on iPhone, iPad, & iPod Touch.",
+  "description": "Scurry is a game where you play as a cockroach who is running through a grocery store, avoid obstacles, get sweet power-ups, and try not to fall! Try to get a high score and beat your friends!",
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "name": "RoccoW",
+    "link": "https://soundcloud.com/roccow",
+    "role": "Music"
+  }
+],
+"trailer": "oGpBYrIkG-c",
+"screenshots": [
+  "/img/scurry-ss-0.png",
+  "/img/scurry-ss-6.png",
+  "/img/scurry-ss-1.png",
+  "/img/scurry-ss-2.png",
+  "/img/scurry-ss-3.png",
+  "/img/scurry-ss-4.png",
+  "/img/scurry-ss-5.png"
+],
+"media": [{
+  "author": "Larry Chupacabra",
+  "title": "Scurry: Run, Jump, Survive - Mobile Game Review (video)",
+  "link": "https://youtu.be/oGpBYrIkG-c"
+},
+{
+  "author": "YAYGaming",
+  "title": "YAY Scurry - Run Little Roach! (video)",
+  "link": "https://youtu.be/hlQJLsouuiY"
+}
+],
+"storeButtons": {
+  "ios": "https://itunes.apple.com/us/app/scurry/id892274154?ls=1&mt=8",
+  "web": "http://twoscoopgames.com/scurry/game",
+  "chrome": "https://chrome.google.com/webstore/detail/scurry/djoifiholmpdceikfaajckcjepbjolof",
+  "itch": "https://two-scoop-games.itch.io/scurry"
+}
+},
+
+
+"kickbot": {
+  "release": true,
+  "title": "Kick Bot",
+  "icon": "/img/kickbot-logo.png",
+  "logo-alt": "Kick Bot - A game that will really kick your bot! from Two Scoop Games.",
+  "link": "/kickbot/",
+  "img": "/img/kickbot.png",
+  "hoverimg": "/img/kickbot-hover.gif",
+  "tagline": "A game that will really kick your bot!",
+  "pitch": "This game is all about quick reflexes and fast action. Maneuver through a procedurally-generated terrain of obstacles like spikes and laser beams. One wrong move and you’re a heap of metal. This game will drive you up the wall!",
+  "release-statement": "Available now on the Chrome Web Store and Itch.io!",
+
+  "jam": {
+    "title": "Flappy Jam",
+    "theme": "Make a hard, almost unplayable game",
+    "link": "https://itch.io/jam/flappyjam"
+  },
+
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "name": "rolemusic",
+    "link": "http://rolemusic.sawsquarenoise.com/",
+    "role": "Music"
+  }
+],
+"trailer": "ek1yJr6Od2I",
+"screenshots": [
+  "/img/kickbot-ss-0.png",
+  "/img/kickbot-ss-1.png",
+  "/img/kickbot-ss-2.png",
+  "/img/kickbot-ss-3.png",
+  "/img/kickbot-ss-4.png",
+  "/img/kickbot-ss-5.png",
+  "/img/kickbot-ss-6.png"
+],
+"hashtag": "kickbotgame",
+"likeurl": "http://kickbotgame.com",
+"media": [
+
+  {
+    "author": "Larry Chupacabra",
+    "title": "Flappy Jam Showcase Finale! (video)",
+    "link": "https://www.youtube.com/watch?v=AURN8-xu_tQ&feature=youtu.be&t=3m23s"
+  },
+  {
+    "author": "CinnamonToastKen",
+    "title": "Flappy Bird Clones Ep 1 (video)",
+    "link": "http://youtu.be/FPalexORVYI?t=3m28s"
+  },
+  {
+    "author": "Flappy Jam",
+    "title": "Ranked #23 in coolness, #38 overall (of 770)",
+    "link": "http://itch.io/jam/flappyjam/rate/2676"
+  }
+],
+
+"storeButtons": {
+  "web": "http://twoscoopgames.com/kickbot/game",
+  "chrome": "https://chrome.google.com/webstore/detail/kick-bot/lafjmgdfokjjbcbhbmcajlommahhgnlk",
+  "itch": "https://two-scoop-games.itch.io/kick-bot"
+}
+},
+
+
+
+"duolastic": {
+  "prototype": true,
+  "title": "Duolastic",
+  "icon": "/img/duolastic-icon.png",
+  "link": "/duolastic/",
+  "img": "/img/duolastic.png",
+  "hoverimg": "/img/duolastic-hover.gif",
+  "cornerBand": "",
+  "tagline": "Challenge your friends anytime, anywhere!",
+  "pitch": "Online multiplayer game where you can send a link and challenge anyone.",
+  "release-statement":"Online beta - requires 2 players",
+  "description": "Online multiplayer game where you can send a link and challenge anyone.",
+
+  "jam": {
+    "title": "Global Game Jam 2017",
+    "theme": "Waves",
+    "link": "http://globalgamejam.org/2016/games/morning-ritual-13"
+  },
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "role": "Music and sound effects",
+    "name": "Additional credits here",
+    "link":"https://github.com/TwoScoopGames/Duolastic/blob/master/credits.md"
+  }
+],
+"trailer": "e94OgJhveIw",
+"screenshots": [
+  "/img/duolastic-ss-0.png",
+  "/img/duolastic-ss-1.png",
+  "/img/duolastic-ss-2.png",
+  "/img/duolastic-ss-3.png"
+],
+"media": [],
+"storeButtons": {
+  "web": "http://duolastic.twoscoopgames.com/"
+}
+},
+"electropolis": {
+  "prototype": true,
+  "title": "Electropolis",
+  "icon": "/img/electropolis-icon.png",
+  "link": "/electropolis/",
+  "img": "/img/electropolis.png",
+  "cornerBand": "",
+  "tagline": "Powered by Lightning!",
+  "pitch": "Power a city by lightning by matching symbols in the clouds.",
+  "description": "Power a city by lightning by matching symbols in the clouds.",
+  "release-statement": "Available now to play in your browser.",
+  "jam": {
+    "title": "Train Jam 2016",
+    "theme": "Maximum Catpacity",
+    "link": "https://itch.io/jam/train-jam-2016/rate/57649"
+  },
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, UI, animation, and programming"
+  },
+  {
+    "name": "Cara Smith",
+    "link": "http://twitter.com/@howdycara",
+    "role": "Game Design and art"
+  },
+  {
+    "name": "Rex Soriano",
+    "link": "http://twitter.com/@Lolo_r",
+    "role": "Game Design and programming"
+  },
+  {
+    "name": "Lindar K. Greenwood",
+    "link": "http://thumpypuppy.com",
+    "role": "Music and sound"
+  }
+],
+"trailer": "CSkmM16lr_8",
+"screenshots": [
+  "/img/electropolis-ss-0.png",
+  "/img/electropolis-ss-1.png",
+  "/img/electropolis-ss-2.png",
+  "/img/electropolis-ss-3.png"
+],
+"media": [{
+  "author": "Jupiter Hadley",
+  "title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Train Jam 2016] [Part 3]",
+  "link": "https://youtu.be/Ox0YQLgTD1E?t=11m21s"
+  }],
+
+  "storeButtons": {
+    "itch": "https://two-scoop-games.itch.io/electropolis"
+  }
+},
+"morningritual": {
+  "prototype": true,
+  "title": "Morning Ritual",
+  "icon": "/img/morningritual-icon.png",
+  "link": "/morningritual/",
+  "img": "/img/morningritual.png",
+  "hoverimg": "/img/morningritual.gif",
+  "cornerBand": "",
+  "tagline": "Good Morning!",
+  "pitch": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day.",
+  "description": "Every morning we go through a delicate morning ritual to prepare ourselves for the onslaught of the day.",
+  "release-statement": "Available now to play in your browser.",
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, art, animation, and  additional programming"
+  },
+  {
+    "name": "Cara Smith",
+    "link": "http://twitter.com/@howdycara",
+    "role": "Game Design and art"
+  },
+  {
+    "name": "Chris Kincaid",
+    "link": "http://twitter.com/@chriskincaid",
+    "role": "Music and sound"
+  }
+],
+"trailer": "EfONONJ7GLU",
+"screenshots": [
+  "/img/morningritual-ss-0.jpg",
+  "/img/morningritual-ss-1.jpg",
+  "/img/morningritual-ss-2.jpg",
+  "/img/morningritual-ss-3.jpg",
+  "/img/morningritual-ss-4.jpg"
+],
+"jam": {
+  "title": "Global Game Jam 2016",
+  "theme": "Ritual",
+  "link": "http://globalgamejam.org/2016/games/morning-ritual-13"
+},
+
+"storeButtons": {
+  "webtouch": "http://twoscoopgames.com/morningritual/game/",
+  "itch": "https://two-scoop-games.itch.io/morning-ritual"
+}
+},
+"clusterjunk": {
+  "prototype": true,
+  "title": "Cluster Junk",
+  "icon": "/img/clusterjunk-icon.png",
+  "link": "/clusterjunk/",
+  "img": "/img/clusterjunk.png",
+  "cornerBand": "",
+  "tagline": "The Secret of Trash Island",
+  "description": "There are millions of tons of trash floating in the oceans. So what goes on while no one is looking in these trash piles? Explore the garbage of humans and try to become the largest trash island in the sea! But hurry, don't let the timer run out! ",
+  "pitch": "There are millions of tons of trash floating in the oceans. So what goes on while no one is looking in these trash piles?",
+  "release-statement": "Web demo version coming soon",
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, art, animation, and additional programming"
+  },
+  {
+    "name": "Cara Smith",
+    "link": "http://twitter.com/@howdycara",
+    "role": "Game Design and art"
+  },
+  {
+    "name": "Ben Wiley",
+    "link": "http://twitter.com/@benwiley4000",
+    "role": "Music, sound, and additional programming"
+  }
+],
+"trailer": "-C0G0idsxtw",
+"screenshots": [
+  "/img/clusterjunk-ss-0.jpg",
+  "/img/clusterjunk-ss-1.jpg",
+  "/img/clusterjunk-ss-2.jpg",
+  "/img/clusterjunk-ss-3.jpg"
+],
+"jam": {
+  "title": "Ludum Dare 34",
+  "date": "December 11th-14th, 2015",
+  "theme": "Growing",
+  "link": "http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=37347"
+},
+"media": [
+  {
+    "author":"VisNomadic",
+    "title":"Indie Games: Cluster Junk",
+    "link":"https://youtu.be/-C0G0idsxtw"
+  },
+  {
+    "author":"Jupiter Hadley",
+    "title":"Jupi Plays Indie Games: ALL THE INDIE GAMES [Kentucky Fried Pixels Jam] [Part 1]",
+    "link":"https://youtu.be/xEMuKNkZ_a0?t=11m39s"
+  }
+],
+"storeButtons": {
+
+}
+},
+"treatmentandcontrol": {
+  "prototype": true,
+  "title": "Treatment and Control",
+  "icon": "/img/treatmentandcontrol-icon.png",
+  "link": "/treatmentandcontrol/",
+  "img": "/img/treatmentandcontrol.png",
+  "cornerBand": "",
+  "tagline": "Who is in control?",
+  "pitch": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce.",
+  "release-statement": "Available now to play in your browser.",
+  "description": "Congratulations on your new job, citizen! You must report for duty on Monday to office #74 to distribute vital medication to our workforce.",
+
+  "jam": {
+    "title": "Ludum Dare 33",
+    "date": "August 21st-24th, 2015",
+    "theme": "You are the Monster",
+    "link": "http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=37347"
+  },
+
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "name": "Chris Kincaid",
+    "link": "http://twitter.com/@Kincaid_Music",
+    "role": "Music/sound"
+  }
+],
+"trailer": "HeaWMsnfNdg",
+"screenshots": [
+  "/img/treatmentandcontrol-ss-0.jpg",
+  "/img/treatmentandcontrol-ss-1.jpg",
+  "/img/treatmentandcontrol-ss-2.jpg",
+  "/img/treatmentandcontrol-ss-3.jpg",
+  "/img/treatmentandcontrol-ss-4.jpg"
+],
+
+"awards": [
+{
+  "image": "img/treatmentandcontrol-award1.svg",
+  "title": "Jupi's Jam Favorites Ludum Dare 33",
+  "link": "http://ludumdare.com/compo/author/twoscoopgames/"
+}
+],
+
+"media": [
+  {
+    "author": "Jupiter Hadley",
+    "title": "Jupi's Jam Favorites Ludum Dare 33",
+    "link": "http://fireside.gamejolt.com/post/jam-favorites-ludum-dare-33-part-1-uzbzpjci"
+  },
+  {
+    "author": "Amy Napkins",
+    "title": "Treatment and Control // The Matrix? (video)",
+    "link": "https://www.youtube.com/watch?v=HeaWMsnfNdg"
+    }],
+    "storeButtons": {
+      "web": "http://twoscoopgames.com/treatmentandcontrol/game/"
+    }
+  },
+  "stanleysqueaks": {
+    "prototype": true,
+    "title": "Stanley Squeaks and the Emerald Burrito",
+    "icon": "/img/stanleysqueaks-logo.png",
+    "link": "/stanleysqueaks/",
+    "img": "/img/stanleysqueaks.png",
+    "cornerBand": "",
+    "tagline": "Watch your step!",
+    "pitch": "Help Stanley solve puzzles and avoid traps in an ancient temple while on a quest to obtain the elusive emerald burrito.",
+    "release-statement": "Available now to play in your browser.",
+    "description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
 
     "jam": {
-			"title": "Ludum Dare 33",
-			"date": "August 21st-24th, 2015",
-			"theme": "You are the Monster",
-			"link": "http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=37347"
-		},
+      "title": "Ludum Dare 30",
+      "date": "August 22nd-25th, 2014",
+      "theme": "Connected Worlds",
+      "link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347"
+    },
+    "contributors": [{
+      "name": "Eric Lathrop",
+      "link": "http://twitter.com/@EricLathrop",
+      "role": "Game Design and Programming"
+    },
+    {
+      "name": "Alex Bezuska",
+      "link": "http://twitter.com/@AlexBezuska",
+      "role": "Game Design, Art, and Animation"
+    },
+    {
+      "name": "Wai Ying Lam",
+      "link": "http://twitter.com/@WaiYingLam",
+      "role": "additional Programming"
+    }
+  ],
+  "trailer": "IajbsXR5Cg0",
+  "screenshots": [
+    "/img/stanleysqueaks-ss-0.png",
+    "/img/stanleysqueaks-ss-1.png",
+    "/img/stanleysqueaks-ss-2.png",
+    "/img/stanleysqueaks-ss-3.png",
+    "/img/stanleysqueaks-ss-4.png",
+    "/img/stanleysqueaks-ss-5.png"
+  ],
+  "media": [{
+    "author": "WDRB Louisville",
+    "title": "Stanley Squeaks on local TV News",
+    "link": "http://www.wdrb.com/story/28746986/finger-derpy-mobile-game-launches-horse-racing-app-just-in-time-for-derby-season"
+  },
+  {
+    "author": "Lisa Brown",
+    "title": "Lisa and Nick of Insomniac Games play Stanley Squeaks and the Emerald Burrito  (video)",
+    "link": "https://www.youtube.com/watch?v=kJgd3HtUXpI"
+  },
+  {
+    "author": "Larry Chupacabra",
+    "title": "Ludum Dare 30 - Part 3 - Game Dev Lou: Indie Community Spotlight  (video)",
+    "link": "https://youtu.be/A1ntnx3qpgg?t=36m35s"
+  }
+],
+"storeButtons": {
+  "web": "http://twoscoopgames.com/stanleysqueaks/game"
+}
+},
+"uprooted": {
+  "prototype": true,
+  "title": "Uprooted",
+  "icon": "/img/uprooted-icon.png",
+  "link": "/uprooted/",
+  "img": "/img/uprooted.png",
+  "cornerBand": "",
+  "tagline": "Charge, jump, DESTROY!",
+  "description": "Help a lost carrot get back to the carrot patch, but watch out for evil rabbits!",
+  "pitch": "Help a lost carrot get back to the carrot patch, but watch out for evil rabbits!",
+  "release-statement": "Available now to play in your browser.",
+  "jam": {
+    "title": "Ludum Dare 32",
+    "date": "April 17th-20th, 2015",
+    "theme": "An Unconventional Weapon",
+    "link": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=37347"
+  },
 
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "Chris Kincaid",
-				"link": "http://twitter.com/@Kincaid_Music",
-				"role": "Music/sound"
-			}
-		],
-		"trailer": "HeaWMsnfNdg",
-		"screenshots": [
-			"/img/treatmentandcontrol-ss-0.jpg",
-			"/img/treatmentandcontrol-ss-1.jpg",
-			"/img/treatmentandcontrol-ss-2.jpg",
-			"/img/treatmentandcontrol-ss-3.jpg",
-			"/img/treatmentandcontrol-ss-4.jpg"
-		],
-		"media": [{
-			"author": "Amy Napkins",
-			"title": "Treatment and Control // The Matrix? (video)",
-			"link": "https://www.youtube.com/watch?v=HeaWMsnfNdg"
-		}],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/treatmentandcontrol/game/"
-		}
-	},
-	"stanleysqueaks": {
-		"prototype": true,
-		"title": "Stanley Squeaks and the Emerald Burrito",
-		"icon": "/img/stanleysqueaks-logo.png",
-		"link": "/stanleysqueaks/",
-		"img": "/img/stanleysqueaks.png",
-		"cornerBand": "",
-		"tagline": "Watch your step!",
-		"pitch": "Help Stanley solve puzzles and avoid traps in an ancient temple while on a quest to obtain the elusive emerald burrito.",
-		"release-statement": "Available now to play in your browser.",
-		"description": "Stanley Squeaks is an adventuring hamster on a quest to obtain the Emerald Burrito. Help Stanley solve puzzles and avoid traps in an ancient temple. This game is a puzzle platformer where the blocks you touch on the way to the treasure are destroyed on the way out, making it difficult to get out alive!",
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game Design and Programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game Design, Art, and Animation"
+  },
+  {
+    "name": "rolemusic",
+    "link": "http://rolemusic.sawsquarenoise.com/",
+    "role": "Music"
+  }
+],
+"trailer": "oYfJlpYClls",
+"screenshots": [
+  "/img/uprooted-ss-0.png",
+  "/img/uprooted-ss-1.png",
+  "/img/uprooted-ss-2.png",
+  "/img/uprooted-ss-3.png"
+],
+"media": [{
+  "author": "Larry Chupacabra",
+  "title": "Larry Does Ludum 32 - #3  (video)",
+  "link": "https://www.youtube.com/watch?v=d-LfFti-V1o"
+},
+{
+  "author": "TaeKyung TV",
+  "title": "Carrot Special Games // Funny Games  (video)",
+  "link": "https://www.youtube.com/watch?v=Ps-8g_LPZPw"
+}
+],
+"storeButtons": {
+  "web": "http://twoscoopgames.com/ld32/",
+  "itch": "https://two-scoop-games.itch.io/uprooted"
+}
+},
+"thedaytheworldchanged": {
+  "prototype": true,
+  "title": "The Day the World Changed",
+  "icon": "/img/thedaytheworldchanged-icon.png",
+  "link": "/thedaytheworldchanged/",
+  "img": "/img/thedaytheworldchanged.png",
+  "tagline": "One event can change a lifetime",
+  "description": "The Day the World Changed is a somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community.",
+  "pitch": "A somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community.",
+  "release-statement": "Available now to play in your browser.",
+  "trailer": "8kXhCsKgdNc",
 
-		"jam": {
-			"title": "Ludum Dare 30",
-			"date": "August 22nd-25th, 2014",
-			"theme": "Connected Worlds",
-			"link": "http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347"
-		},
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "Wai Ying Lam",
-				"link": "http://twitter.com/@WaiYingLam",
-				"role": "additional Programming"
-			}
-		],
-		"trailer": "IajbsXR5Cg0",
-		"screenshots": [
-			"/img/stanleysqueaks-ss-0.png",
-			"/img/stanleysqueaks-ss-1.png",
-			"/img/stanleysqueaks-ss-2.png",
-			"/img/stanleysqueaks-ss-3.png",
-			"/img/stanleysqueaks-ss-4.png",
-			"/img/stanleysqueaks-ss-5.png"
-		],
-		"media": [{
-				"author": "WDRB Louisville",
-				"title": "Stanley Squeaks on local TV News",
-				"link": "http://www.wdrb.com/story/28746986/finger-derpy-mobile-game-launches-horse-racing-app-just-in-time-for-derby-season"
-			},
-			{
-				"author": "Lisa Brown",
-				"title": "Lisa and Nick of Insomniac Games play Stanley Squeaks and the Emerald Burrito  (video)",
-				"link": "https://www.youtube.com/watch?v=kJgd3HtUXpI"
-			},
-			{
-				"author": "Larry Chupacabra",
-				"title": "Ludum Dare 30 - Part 3 - Game Dev Lou: Indie Community Spotlight  (video)",
-				"link": "https://youtu.be/A1ntnx3qpgg?t=36m35s"
-			}
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/stanleysqueaks/game"
-		}
-	},
-	"uprooted": {
-		"prototype": true,
-		"title": "Uprooted",
-		"icon": "/img/uprooted-icon.png",
-		"link": "/uprooted/",
-		"img": "/img/uprooted.png",
-		"cornerBand": "",
-		"tagline": "Charge, jump, DESTROY!",
-		"description": "Help a lost carrot get back to the carrot patch, but watch out for evil rabbits!",
-		"pitch": "Help a lost carrot get back to the carrot patch, but watch out for evil rabbits!",
-		"release-statement": "Available now to play in your browser.",
-		"jam": {
-			"title": "Ludum Dare 32",
-			"date": "April 17th-20th, 2015",
-			"theme": "An Unconventional Weapon",
-			"link": "http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=37347"
-		},
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game design, art, and animation"
+  },
+  {
+    "name": "Wake",
+    "link": "https://soundcloud.com/wake",
+    "role": "Music"
+  }
+],
+  "screenshots": [
+    "/img/thedaytheworldchanged-ss-0.png",
+    "/img/thedaytheworldchanged-ss-1.png",
+    "/img/thedaytheworldchanged-ss-2.png",
+    "/img/thedaytheworldchanged-ss-3.png"
+  ],
+  "jam": {
+    "title": "Global Game Jam 2015",
+    "date": "",
+    "theme": "What do we do now?",
+    "link": "http://globalgamejam.org/2015/games/day-world-changed"
 
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "rolemusic",
-				"link": "http://rolemusic.sawsquarenoise.com/",
-				"role": "Music"
-			}
-		],
-		"trailer": "oYfJlpYClls",
-		"screenshots": [
-			"/img/uprooted-ss-0.png",
-			"/img/uprooted-ss-1.png",
-			"/img/uprooted-ss-2.png",
-			"/img/uprooted-ss-3.png"
-		],
-		"media": [{
-				"author": "Larry Chupacabra",
-				"title": "Larry Does Ludum 32 - #3  (video)",
-				"link": "https://www.youtube.com/watch?v=d-LfFti-V1o"
-			},
-			{
-				"author": "TaeKyung TV",
-				"title": "Carrot Special Games // Funny Games  (video)",
-				"link": "https://www.youtube.com/watch?v=Ps-8g_LPZPw"
-			}
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/ld32/",
-			"itch": "https://two-scoop-games.itch.io/uprooted"
-		}
-	},
-	"thedaytheworldchanged": {
-		"prototype": true,
-		"title": "The Day the World Changed",
-		"icon": "/img/thedaytheworldchanged-icon.png",
-		"link": "/thedaytheworldchanged/",
-		"img": "/img/thedaytheworldchanged.png",
-		"tagline": "One event can change a lifetime",
-		"description": "The Day the World Changed is a somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community.",
-		"pitch": "A somber reflection on the troubles a new baby can bring to a family and how it can affect the whole community.",
-		"release-statement": "Available now to play in your browser.",
-		"trailer": "8kXhCsKgdNc",
-		"screenshots": [
-			"/img/thedaytheworldchanged-ss-0.png",
-			"/img/thedaytheworldchanged-ss-1.png",
-			"/img/thedaytheworldchanged-ss-2.png",
-			"/img/thedaytheworldchanged-ss-3.png"
-		],
-		"jam": {
-			"title": "Global Game Jam 2015",
-			"date": "",
-			"theme": "What do we do now?",
-			"link": "http://globalgamejam.org/2015/games/day-world-changed"
+  },
+  "media": [{
+    "author": "Larry Chupacabra",
+    "title": "GGJ 2015 - The Day the World Changed  (video)",
+    "link": "https://www.youtube.com/watch?v=LMYAKVxtKfk"
+  },
+  {
+    "author": "YayGaming",
+    "title": "YAY The Day The World Changed - Well Then...  (video)",
+    "link": "https://www.youtube.com/watch?v=Ny4kHKdt68c"
+  }
+],
+"storeButtons": {
+  "web": "http://twoscoopgames.com/ggj15/"
+}
+},
+"desserts": {
+  "prototype": true,
+  "title": "Desserts Killed Your Daddy",
+  "icon": "/img/desserts-icon.png",
+  "link": "/desserts/",
+  "img": "/img/desserts.png",
+  "cornerBand": "",
+  "tagline": "Fast-paced score-based arcade game",
+  "description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
+  "pitch": "Can you get to 50 points and defeat the GINGERBOSS?",
+  "release-statement": "Available now to play in your browser.",
 
-		},
-		"media": [{
-				"author": "Larry Chupacabra",
-				"title": "GGJ 2015 - The Day the World Changed  (video)",
-				"link": "https://www.youtube.com/watch?v=LMYAKVxtKfk"
-			},
-			{
-				"author": "YayGaming",
-				"title": "YAY The Day The World Changed - Well Then...  (video)",
-				"link": "https://www.youtube.com/watch?v=Ny4kHKdt68c"
-			}
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/ggj15/"
-		}
-	},
-	"desserts": {
-		"prototype": true,
-		"title": "Desserts Killed Your Daddy",
-		"icon": "/img/desserts-icon.png",
-		"link": "/desserts/",
-		"img": "/img/desserts.png",
-		"cornerBand": "",
-		"tagline": "Fast-paced score-based arcade game",
-		"description": "Defeat as many desserts as possible while keeping your health up with hearts. Enemies you will face are: 3 types of cake turtles, 4 types of walking cookies, and the terrifying GINGERBOSS! Can you get to 50 points and defeat the GINGERBOSS? Cans have a chance of containing a heart which you will need to refill your health. Game created for the Ludum Dare 31 Game Jam December 2014.",
-		"pitch": "Can you get to 50 points and defeat the GINGERBOSS?",
-		"release-statement": "Available now to play in your browser.",
+  "jam": {
+    "title": "Ludum Dare 31",
+    "date": "December 5th-8th, 2014",
+    "theme": "Entire Game on One Screen",
+    "link": "http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=37347"
+  },
 
-		"jam": {
-			"title": "Ludum Dare 31",
-			"date": "December 5th-8th, 2014",
-			"theme": "Entire Game on One Screen",
-			"link": "http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=37347"
-		},
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game design, art, and animation"
+  },
+  {
+    "name":"Ill Storms",
+    "link":"https://soundcloud.com/klownikus",
+    "role": "Music"
+  }
+],
 
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game design, art, and animation"
-			}
-		],
+"trailer": "3R9OXxwA97A",
+"screenshots": [
+  "/img/desserts-ss-0.png",
+  "/img/desserts-ss-1.png",
+  "/img/desserts-ss-2.png",
+  "/img/desserts-ss-3.png"
+],
+"media": [{
+  "author": "Larry Chupacabra",
+  "title": "Ludum Dare 31 - Part 1 ",
+  "link": "http://youtu.be/6nn34KYVxPM?t=8m7s"
+},
+{
+  "author": "Jupiter Hadley",
+  "title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Ludum Dare 31] [Part 7]  (video)",
+  "link": "http://youtu.be/bpNoFf0QyBM?t=13m40s"
+},
+{
+  "author": "Lisa Brown",
+  "title": "Feedback Stream - Ludum Dare 30 - Desserts Killed Your Daddy  (video)",
+  "link": "https://www.youtube.com/watch?v=qYmFSNpngnQ"
+}
+],
+"storeButtons": {
+  "web": "http://twoscoopgames.com/ludumdare31/"
+}
+},
 
-		"trailer": "qYmFSNpngnQ",
-		"screenshots": [
-			"/img/desserts-ss-0.png",
-			"/img/desserts-ss-1.png",
-			"/img/desserts-ss-2.png",
-			"/img/desserts-ss-3.png"
-		],
-		"media": [{
-				"author": "Larry Chupacabra",
-				"title": "Ludum Dare 31 - Part 1 ",
-				"link": "http://youtu.be/6nn34KYVxPM?t=8m7s"
-			},
-			{
-				"author": "Jupiter Hadley",
-				"title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Ludum Dare 31] [Part 7]  (video)",
-				"link": "http://youtu.be/bpNoFf0QyBM?t=13m40s"
-			},
-			{
-				"author": "Lisa Brown",
-				"title": "Feedback Stream - Ludum Dare 30 - Desserts Killed Your Daddy  (video)",
-				"link": "https://www.youtube.com/watch?v=qYmFSNpngnQ"
-			}
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/ludumdare31/"
-		}
-	},
+"fluffykins": {
+  "prototype": true,
+  "title": "Mr. Fluffykins' Great Sorting Adventure",
+  "icon": "/img/fluffykins-logo.png",
+  "link": "/fluffykins/",
+  "img": "/img/fluffykins.png",
+  "hoverimg": "/img/fluffykins-hover.gif",
+  "tagline": "AKA Where Your Internet Comes From",
+  "description": "​Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can! This game is a Two Scoop collaboration with team Pancake, our Ludum Dare 29 team which consisted of: Aaron Smith, Alex Bezuska, Anthony Quisenberry, Eric Lathrop, Rex Soriano, and Nathan Hutchens.​",
+  "pitch": "​Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer.",
 
-	"fluffykins": {
-		"prototype": true,
-		"title": "Mr. Fluffykins' Great Sorting Adventure",
-		"icon": "/img/fluffykins-logo.png",
-		"link": "/fluffykins/",
-		"img": "/img/fluffykins.png",
-		"hoverimg": "/img/fluffykins-hover.gif",
-		"tagline": "AKA Where Your Internet Comes From",
-		"description": "​Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer. Play as Mr. Fluffykins, the cat who sorts your email and deletes your spam. Try to keep the data flowing as long as you can! This game is a Two Scoop collaboration with team Pancake, our Ludum Dare 29 team which consisted of: Aaron Smith, Alex Bezuska, Anthony Quisenberry, Eric Lathrop, Rex Soriano, and Nathan Hutchens.​",
-		"pitch": "​Take a peek inside your home internet router to see how all those crazy cat pictures actually get to your computer.",
+  "release-statement": "Available now to play in your browser.",
 
-		"release-statement": "Available now to play in your browser.",
-		"jam": {
-			"title": "Ludum Dare 29",
-			"date": "April 25th-28th, 2014",
-			"theme": "Beneath the Surface",
-			"link": "http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37347"
-		},
+  "trailer": "ZsB_soaHNpI",
+  "jam": {
+    "title": "Ludum Dare 29",
+    "date": "April 25th-28th, 2014",
+    "theme": "Beneath the Surface",
+    "link": "http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37347"
+  },
 
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game design, art, and animation"
-			},
-			{
-				"name": "Rex Soriano",
-				"link": "http://twitter.com/lolo_r",
-				"role": "Game design, and programming"
-			},
-			{
-				"name": "Anthony Quisenberry",
-				"link": "http://twitter.com/aqquisenberry",
-				"role": "Game design, and programming"
-			},
-			{
-				"name": "Nathan Hutchens",
-				"link": "http://twitter.com/TheLucidBard",
-				"role": "Music and sound"
-			},
-			{
-				"name": "Aaron Smith",
-				"link": "http://twitter.com/aarondoodles",
-				"role": "Art"
-			}
-		],
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game design, art, and animation"
+  },
+  {
+    "name": "Rex Soriano",
+    "link": "http://twitter.com/lolo_r",
+    "role": "Game design, and programming"
+  },
+  {
+    "name": "Anthony Quisenberry",
+    "link": "http://twitter.com/aqquisenberry",
+    "role": "Game design, and programming"
+  },
+  {
+    "name": "Nathan Hutchens",
+    "link": "http://twitter.com/TheLucidBard",
+    "role": "Music and sound"
+  },
+  {
+    "name": "Aaron Smith",
+    "link": "http://twitter.com/aarondoodles",
+    "role": "Art"
+  }
+],
 
-		"trailer": "",
-		"screenshots": [
-			"/img/fluffykins-ss-0.png",
-			"/img/fluffykins-ss-1.png",
-			"/img/fluffykins-ss-2.png",
-			"/img/fluffykins-ss-3.png",
-			"/img/fluffykins-ss-4.png",
-			"/img/fluffykins-ss-5.png"
-		],
-		"media": [
 
-			{
-				"author": "Sylvain Wenger",
-				"title": "Ludum Dare 29 Best games list",
-				"link": "https://gist.github.com/bigsylvain/c11b68f11cc3ccd0915e"
+"screenshots": [
+  "/img/fluffykins-ss-0.png",
+  "/img/fluffykins-ss-1.png",
+  "/img/fluffykins-ss-2.png",
+  "/img/fluffykins-ss-3.png",
+  "/img/fluffykins-ss-4.png",
+  "/img/fluffykins-ss-5.png",
+    "/img/fluffykins-ss-6.png",
+      "/img/fluffykins-ss-7.png"
+],
+"awards": [
+{
+  "image": "img/fluffykins-award1.svg",
+  "title": "Jupi's Jam Favorites Ludum Dare 30",
+  "link": "http://ludumdare.com/compo/author/twoscoopgames/"
+}
+],
+"media": [
 
-			},
-			{
-				"author": "Larry Chupacabra",
-				"title": "Ludum Dare 29 Showcase - Part 2  (video)",
-				"link": "https://www.youtube.com/watch?v=ZqtwPW9QMLk&feature=youtu.be&t=4m30s"
-			},
-			{
-				"author": "Jupiter Hadley",
-				"title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Ludum Dare 29] [Part 4]  (video)",
-				"link": "https://www.youtube.com/watch?v=as-BlCZWXm0&feature=youtu.be&t=12m26s"
-			}
-		],
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/fluffykins/game",
-			"itch": "https://two-scoop-games.itch.io/mr-fluffykins-great-sorting-adventure"
-		}
-	},
 
-	"apartment213": {
-		"prototype": true,
-		"title": "Apartment 213",
-		"icon": "/img/apt213-logo.png",
-		"link": "/apartment213/",
-		"img": "/img/apartment213.png",
-		"hoverimg": "/img/apartment213-hover.gif",
-		"tagline": "4 Characters, 4 Perspectives",
-		"description": "This is a game about the ways several characters see the small apartment that their lives cross in. You start from the perspective of a small mouse and slowly switch perspectives with the antagonist of each character's own personal stories. These stories are colored by personal bias and each character's own concept of the apartment they interact in reveals more about that character than it does the apartment itself.",
-		"pitch": "A game about the ways several characters see the small apartment that their lives cross in.",
-		"release-statement": "Available now to play in your browser.",
 
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game design and programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game design, art, and animation"
-			},
-			{
-				"name": "Mattie Richards",
-				"link": "http://twitter.com/mintchipleaf",
-				"role": "Game design and programming"
-			},
-			{
-				"name": "Mike Revel",
-				"link": "http://twitter.com/mjrevel",
-				"role": "Game design, sound, and programming"
-			}
-		],
-		"trailer": "",
-		"screenshots": [
-			"/img/apt213-ss-0.png",
-			"/img/apt213-ss-1.png",
-			"/img/apt213-ss-2.png",
-			"/img/apt213-ss-3.png",
-			"/img/apt213-ss-4.png"
-		],
-		"jam": {
-			"title": "Global Game Jam 2014",
-			"date": "Janurary 24-26 2014",
-			"theme": "we don't see things as they are, we see them as we are",
-			"description": "The official Global Game Jam page for Apartment 213.",
-			"link": "http://globalgamejam.org/2014/games/apartment-213"
-		},
+  {
+    "author": "Sylvain Wenger",
+    "title": "Ludum Dare 29 Best games list",
+    "link": "https://gist.github.com/bigsylvain/c11b68f11cc3ccd0915e"
 
-		"storeButtons": {
-			"web": "http://twoscoopgames.com/apartment213/game"
-		}
-	}
+  },
+  {
+    "author": "Larry Chupacabra",
+    "title": "Ludum Dare 29 Showcase - Part 2  (video)",
+    "link": "https://www.youtube.com/watch?v=ZqtwPW9QMLk&feature=youtu.be&t=4m30s"
+  },
+  {
+    "author": "Jupiter Hadley",
+    "title": "Jupi Plays Indie Games: ALL THE INDIE GAMES [Ludum Dare 29] [Part 4]  (video)",
+    "link": "https://www.youtube.com/watch?v=as-BlCZWXm0&feature=youtu.be&t=12m26s"
+  }
+],
+"storeButtons": {
+  "web": "http://twoscoopgames.com/fluffykins/game",
+  "itch": "https://two-scoop-games.itch.io/mr-fluffykins-great-sorting-adventure"
+}
+},
+
+"apartment213": {
+  "prototype": true,
+  "title": "Apartment 213",
+  "icon": "/img/apt213-logo.png",
+  "link": "/apartment213/",
+  "img": "/img/apartment213.png",
+  "hoverimg": "/img/apartment213-hover.gif",
+  "tagline": "4 Characters, 4 Perspectives",
+  "description": "This is a game about the ways several characters see the small apartment that their lives cross in. You start from the perspective of a small mouse and slowly switch perspectives with the antagonist of each character's own personal stories. These stories are colored by personal bias and each character's own concept of the apartment they interact in reveals more about that character than it does the apartment itself.",
+  "pitch": "A game about the ways several characters see the small apartment that their lives cross in.",
+  "release-statement": "Available now to play in your browser.",
+
+  "contributors": [{
+    "name": "Eric Lathrop",
+    "link": "http://twitter.com/@EricLathrop",
+    "role": "Game design and programming"
+  },
+  {
+    "name": "Alex Bezuska",
+    "link": "http://twitter.com/@AlexBezuska",
+    "role": "Game design, art, and animation"
+  },
+  {
+    "name": "Mattie Richards",
+    "link": "http://twitter.com/mintchipleaf",
+    "role": "Game design and programming"
+  },
+  {
+    "name": "Mike Revel",
+    "link": "http://twitter.com/mjrevel",
+    "role": "Game design, sound, and programming"
+  }
+],
+"trailer": "FffkvbF-AQQ",
+"screenshots": [
+  "/img/apt213-ss-0.png",
+  "/img/apt213-ss-1.png",
+  "/img/apt213-ss-2.png",
+  "/img/apt213-ss-3.png",
+  "/img/apt213-ss-4.png"
+],
+"jam": {
+  "title": "Global Game Jam 2014",
+  "date": "Janurary 24-26 2014",
+  "theme": "we don't see things as they are, we see them as we are",
+  "description": "The official Global Game Jam page for Apartment 213.",
+  "link": "http://globalgamejam.org/2014/games/apartment-213"
+},
+
+"storeButtons": {
+  "web": "http://twoscoopgames.com/apartment213/game"
+}
+}
 
 }

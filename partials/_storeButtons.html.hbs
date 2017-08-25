@@ -1,16 +1,10 @@
-{{#if web}}
-<a class="btn btnPrimary web " href="{{web}}" target="_blank">
-  <img src="/img/web.png"/>
-  <p>Play on Web</p>
+{{#if mailinglist}}
+<a class="btn btnPrimary mailinglist" href="{{mailinglist}}" target="_blank">
+  <i class="fa fa-envelope"></i>
+  <p>Get email updates!</p>
 </a>
 {{/if}}
 
-{{#if webtouch}}
-<a class="btn btnPrimary webtouch " href="{{webtouch}}"target="_blank">
-  <img src="/img/touch.png"/>
-  <p>Play on Web (touch)</p>
-</a>
-{{/if}}
 
 {{#if ios}}
 <a class="btn btnPrimary ios " href="{{ios}}" target="_blank">
@@ -26,19 +20,7 @@
 </a>
 {{/if}}
 
-{{#if chrome}}
-<a class="btn btnPrimary chrome " href="{{chrome}}"target="_blank">
-  <img src="/img/chrome.png"/>
-  <p>Chrome Web Store</p>
-</a>
-{{/if}}
 
-{{#if firefox}}
-<a class="btn btnPrimary firefox " href="{{firefox}}" target="_blank">
-  <img src="/img/firefox.png"/>
-  <p>Firefox Web Store</p>
-</a>
-{{/if}}
 
 {{#if linux}}
 <a class="btn btnPrimary linux " href="{{linux}}" target="_blank">
@@ -61,12 +43,46 @@
 </a>
 {{/if}}
 
+{{#if chrome}}
+<a class="btn btnPrimary chrome " href="{{chrome}}"target="_blank">
+  <img src="/img/chrome.png"/>
+  <p>Chrome Web Store</p>
+</a>
+{{/if}}
+
+
 {{#if itch}}
 <a class="btn btnPrimary itch " href="{{itch}}" target="_blank">
   <img src="/img/itch.png"/>
   <p>itch.io</p>
 </a>
 {{/if}}
+
+
+{{#if web}}
+<a class="btn btnPrimary web " href="{{web}}" target="_blank">
+  <img src="/img/web.png"/>
+  <p>Play on Web</p>
+</a>
+{{/if}}
+
+{{#if webtouch}}
+<a class="btn btnPrimary webtouch " href="{{webtouch}}"target="_blank">
+  <img src="/img/touch.png"/>
+  <p>Play on Web (touch)</p>
+</a>
+{{/if}}
+
+
+
+{{#if firefox}}
+<a class="btn btnPrimary firefox " href="{{firefox}}" target="_blank">
+  <img src="/img/firefox.png"/>
+  <p>Firefox Web Store</p>
+</a>
+{{/if}}
+
+
 
 {{#if splat}}
 <a class="btn btnPrimary splat " href="{{splat}}" target="_blank">
