@@ -1,0 +1,42 @@
+.logo{
+  max-height: 300px;
+
+  @include breakpoint(lg) {
+    margin: 40px auto 8px auto;
+    max-width: 640px;
+    height: 281px;
+  }
+
+  @include breakpoint(md) {
+    margin: 0 auto;
+    max-width: 65%;
+    height: 281px;
+  }
+
+  @include breakpoint(sm) {
+    margin: 0 auto;
+    max-width: 71%;
+    height: 245px;
+  }
+  @include breakpoint(xs) {
+    margin: 0 auto;
+    max-width: 71%;
+    height: 140px;
+  }
+}
+
+.ir {
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  text-indent: -9999px;
+  background-image: url("../img/logo-mama.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.game-page .logo{
+  top: -10px;
+}

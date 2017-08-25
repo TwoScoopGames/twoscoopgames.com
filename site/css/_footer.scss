@@ -1,55 +1,36 @@
-.bottom-band {
+.footer-wrapper {
   width: 100%;
-  background: $primary;
+  background: $purple;
   color: white;
   margin: 50px auto 0 auto;
 }
 
-.game-page{
-
-.bottom-band {
-    position: relative;
-    @include breakpoint(papa-bear) {
-     top: 150px;
-   }
-   @include breakpoint(mama-bear) {
-     top: 150px;
-   }
-   @include breakpoint(baby-bear) {
-    top: 0px;
-  }
-}
-}
-
-
-footer {
-  @extend .pageWidth;
+.footer.container {
   margin: 0 auto;
-  h3 {
-    text-align: center;
-    background: darken($primary, 2%);
-    padding: 10px 25px;
+}
 
-    border-radius: 25px 25px 0 0;
-  }
-  ul{
-    padding: 0px;
-  }
-  li {
-    margin-left: 10%;
-    list-style-type: none;
-  }
-  a {
-    text-decoration: none;
-    color: white;
-  }
+.footer h3 {
+  text-align: center;
+  background: $purple-shadow;
+  padding: 10px 25px;
+  border-radius: 25px 25px 0 0;
+}
+
+.footer ul{
+  padding: 0px;
+}
+
+.footer li {
+  margin-left: 10%;
+  list-style-type: none;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
 }
 
 .legal {
   padding: 15px;
   text-align: center;
 }
-
-
-
-

@@ -1,24 +1,24 @@
-.store-buttons.row {
-  margin: 45px 0;
-}
 
 .store-buttons{
   .btn{
     cursor: pointer !important;
+    display: block;
+    width: 100%;
     color: white;
     padding: 2px 15px 2px 5px;
     text-align: left;
-    border-radius: 25px;
-    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    margin: 0  5px 15px 5px;
     img{
       vertical-align: middle;
       margin: 0;
       padding: 4px;
-      max-width: 40px;
+      max-width: 60px;
       display: inline-block !important;
     }
     p{
-      font-size: 14px;
+      font-size: 18px;
       vertical-align: middle;
       margin: 0;
       display: inline-block !important;
@@ -29,30 +29,30 @@
 
 
 @mixin storeButtonColor($color){
-  border: 1px solid darken($color, 10%) !important;
+  // border: 1px solid darken($color, 10%) !important;
   background: linear-gradient( lighten($color, 5%), $color);
   &:hover{
-    border: 1px solid $color !important;;
+    // border: 1px solid $color !important;;
     background: linear-gradient( lighten($color, 15%), lighten($color, 10%));
   }
   &:active{
-    border: 1px solid darken($color, 15%) !important;;
+    // border: 1px solid darken($color, 15%) !important;;
     background: linear-gradient( darken($color, 15%), darken($color, 10%));
   }
 }
 
 
-$webColor:       #FF548F;
-$webtouchColor:  #FF548F;
-$iosColor:       #9061C2;
-$androidColor:   #b1e01c;
-$chromeColor:    #fcd246;
-$firefoxColor:   #FF9500;
-$linuxColor:     #b1e01c;
-$macColor:       #9061C2;
-$windowsColor:   #1aa9d9;
-$itchColor:      #ff5c5c;
-$splatColor:     #00cdbd;
+$webColor:       $green-shadow;
+$webtouchColor:  $green-shadow;
+$iosColor:       $purple;
+$androidColor:   $purple;
+$chromeColor:    $purple;
+$firefoxColor:   $green-shadow;
+$linuxColor:     $purple-shadow;
+$macColor:       $purple-shadow;
+$windowsColor:   $purple-shadow;
+$itchColor:      $green;
+$splatColor:     $green-shadow;
 
 
 

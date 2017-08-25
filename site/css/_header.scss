@@ -1,92 +1,88 @@
+header{
+  margin: 0 auto;
+}
 
+header nav{
 
-
-.topNav{
+  background: $purple;
   width: 100%;
-  background: linear-gradient($primary, lighten($primary, 2%));
-  border-bottom: 1px solid darken($primary, 2%);
-  box-shadow: 0 1px 4px rgba(0,0,0,.3);
-
-  z-index: 9999;
-  color: white;
-
-  @include breakpoint(baby-bear) {
-    position: fixed;
-  }
-  @include breakpoint(mama-bear) {
-    position: fixed;
-  }
-  @include breakpoint(baby-bear) {
-   position: relative;
- }
-
- ul{
-  margin: 0 auto;
-  padding: 0px;
-  text-align: center;
-  li{
-    margin: 12px  15px 12px 15px;
-    list-style-type: none;
-    display: inline-block;
-    a{
-      font-size: 32px;
-      color: white;
-      padding: 12px 0 0 0;
-      width:55px;
-      height:55px;
-      display: block;
-      border-radius: 55px;
-      border: 1px solid darken($primary,2%);
-      background: linear-gradient($primary, darken($primary,1%));
-      box-shadow: 0 1px 2px rgba(0,0,0,.1);
-      text-align: center;
-      &:hover{
-        background: white;
-        color: darken($primary, 10%);
-      }
-
-    }
-  }
-}
-}
-
-
-
-.gamePage{
-  margin: 0 auto;
+  height: 180px;
   position: relative;
-  @include breakpoint(papa-bear) {
-   top: 150px;
-   width: 85%;
- }
- @include breakpoint(mama-bear) {
-   top: 150px;
-   width: 95%;
- }
- @include breakpoint(baby-bear) {
-  top: 0px;
-  width: 100%;
+  margin: 0 auto;
+  transform: rotate(-4deg);
+  top: -80px;
+
+  @media (max-width: 815px){
+    transform: rotate(0deg);
+  }
 }
+header nav:before {
+  z-index: -1;
+  top: -20px;
+    left: -89px;
+    width: 509px;
+    height: 200px;
+  background: $purple;
+
+  position: absolute;
+  content: "";
 }
 
 
+// nav
+header nav .nav-menu{
+  top: 95px;
+  @media (min-width: 816px){
+    left: 110px;
+    max-width: 60%;
+  }
+  position: relative;
+  transform: rotate(4deg);
+  @media (max-width: 815px){
+    top: 98px;
+    width: 80%;
+    transform: rotate(0deg);
+    display: block;
+    left: none !important;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+  }
 
-.shareTitle{
-  text-align: center;
+}
+header nav .nav-menu a{
+
+  display: inline-block;
+
+  @media (min-width: 626px){
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px 25px;
+    font-size: 20px;
+  }
+  @media (max-width: 625px){
+    font-size: 16px;
+    padding: 5px 5px;
+  }
+  border-radius: 8px;
+  text-decoration: none !important;
+
   color: white;
+  text-decoration: none;
 
-  border-radius: 5px 5px 0 0;
-  display: block;
-  margin: 8px auto 0 auto;
-  width: 400px;
-  font-size: 18px;
-  padding: 4px;
+  font-weight: 200;
+  font-family: "Lato", "helvetica neue", helvetica, verdana, sans-serif;
+  &:hover{
+    color: white;
+    background: rgba(255,255,255,0.1);
+  }
+  &:visited, &:active{
+    color: white;
+  }
 }
 
-.share{
 
-  display: block;
-  margin: 0 auto 8px auto;
-  width: 400px;
-  border-radius:  0 0 5px 5px;
+.page{
+  top: -60px;
+  position: relative;
 }

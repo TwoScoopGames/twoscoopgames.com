@@ -16,7 +16,7 @@
     "foundingDate":"March 25, 2014",
     "websiteName":"twoscoopgames.com",
     "websiteURL":"http://twoscoopgames.com",
-    "description":"Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry and SyRUSH, and is currently working on Duolastic, an online 2 player game. Two Scoop Games has also produced many prototypes for various game jams while honing their craft. Two Scoop Games builds games for both web and mobile platforms. Two Scoop Games is an active participant in Louisville Makes Games!, Louisville's local game development community.<br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you. For a consultation email <a href='mailto:info@twoscoopgames.com'>info@twoscoopgames.com</a>",
+    "description":"Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry and SyRUSH, and is currently working on Kick Bot DX, a sequal to one of thier most popular games. <br/><br/> Two Scoop Games has also produced many prototypes for various game jams while honing their craft.<br/><br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you. <br/>For a consultation email <a href='mailto:info@twoscoopgames.com'>info@twoscoopgames.com</a>",
     "history":[
 
     ]
@@ -28,7 +28,7 @@
     },
     {
       "url":"http://twoscoopgames.tumblr.com/",
-      "name":"Devlog on tumblr"
+      "name":"Blog on Tumblr"
     },
     {
       "url":"http://two-scoop-games.itch.io",
@@ -45,11 +45,11 @@
   ],
   "projects":[
     {
-      "url":"http://twoscoopgames.com/duolastic/",
-      "name":"Duolastic",
-      "dateStart":"January 2017",
-      "dateEnd":"present",
-      "current":true
+      "url":"http://twoscoopgames.com/kickbotdx/",
+      "name":"Kick Bot DX",
+      "dateStart":"June 2017",
+      "dateEnd":"Present",
+      "current": true
     },
     {
       "url":"http://twoscoopgames.com/syrush/",
@@ -74,6 +74,12 @@
     }
   ],
   "prototypes":[
+    {
+      "url":"http://twoscoopgames.com/duolastic/",
+      "name":"Duolastic",
+      "dateStart":"January 2017",
+      "dateEnd":"June, 2017"
+    },
     {
       "url":"http://twoscoopgames.com/electropolis/",
       "name":"Electropolis (prototype)",

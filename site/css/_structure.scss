@@ -1,48 +1,54 @@
 * {
   box-sizing: border-box;
-  box-sizing: border-box;
-  box-sizing: border-box;
 }
-
-.fl {
-  float: left;
+body{
+  width: 100vw;
 }
-
-.fr {
-  float: right;
-}
-
-.center {
-  margin: 0 auto;
-}
-
+//
+// .fl {
+//   float: left;
+// }
+//
+// .fr {
+//   float: right;
+// }
+//
+// .center {
+//   margin: 0 auto;
+// }
+//
 // Based on work by Chris Coyier
 // http://css-tricks.com/media-queries-sass-3-2-and-codekit/
 @mixin breakpoint($point) {
-  @if $point == papa-bear {
+  @if $point == lg {
     @media (min-width: 1025px)  {
       @content;
     }
   }
-  @else if $point == mama-bear {
-    @media (min-width: 731px) and (max-width: 1024px) {
+  @else if $point == md {
+    @media (min-width: 732px) and (max-width: 1024px) {
       @content;
     }
   }
-  @else if $point == baby-bear {
-    @media (min-width: 0px) and (max-width: 730px)  {
+  @else if $point == sm {
+    @media (min-width: 501px) and (max-width: 731px)  {
+      @content;
+    }
+  }
+  @else if $point == xs {
+    @media (min-width: 0px) and (max-width: 500px)  {
       @content;
     }
   }
 }
-
-
-//set your desired gutter here
-$col-gutter: 10px;
-$col-gutter-half: $col-gutter / 2;
-
-
+//
+//
+// //set your desired gutter here
+// $col-gutter: 10px;
+// $col-gutter-half: $col-gutter / 2;
+//
+//
 .module{
-  margin-left: $col-gutter-half;
-  margin-right: $col-gutter-half;
+  margin-left: 5px;
+  margin-right: 5px;
 }

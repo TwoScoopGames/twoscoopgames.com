@@ -5,97 +5,27 @@
 @import"structure";
 @import"colors";
 @import"typography";
-@import"social";
-@import"defaults";
+// @import"social";
+// @import"defaults";
 @import"nav";
 @import"header";
-@import"quotes";
-@import"banner-buttons";
+@import"logo";
+
+@import"game-icon";
+// @import"quotes";
+// @import"banner-buttons";
 @import"footer";
-@import"game-page-top";
-@import"media-coverage";
+// @import"game-page-top";
+// @import"media-coverage";
 @import"store-buttons";
 
 
+@import"game-page";
+@import"quotes";
 
-.games {
-  .module {
-    position: relative;
-    overflow: hidden;
-    margin: 35px 25px ;
-    border-radius: 20px;
-    box-shadow: 0 1px 4px rgba(0,0,0,.2);
-    @include breakpoint(baby-bear) {
-      margin: 0 0 10px 0;
-    }
-  }
 
-  img {
-    margin: 0px;
-  }
 
-  a {
-    margin: 0 auto;
-    padding: 0px;
-    color: darken($concrete, 4%);
-    text-decoration: none;
-  }
+@import"games-page";
 
-  h2 {
-    text-align: center;
-    font-weight: 300px;
-    margin: -10px 0 0 0;
-    padding: 25px 0;
-    background: white;
-    font-family: "helvetica", verdana, sans-serif;
-    font-weight: 200;
-    letter-spacing: .12rem;
-    width: 100%;
-    transition: (all .2s ease-in-out);
-    &:hover{
-      background: $primary;
-      color: white;
-    }
-    @media (max-width: 1150px) {
-      font-size: 16px;
-    }
-  }
-}
 
-.cornerBand {
-  font-size: 16px;
-  text-align: center;
-  min-width: 200px;
-  top: 30px;
-  right: -50px;
-  position: absolute;
-  background: $primary;
-  color: white;
-  padding: 10px;
-  transform:(rotate(45deg));
-}
-
-.whiteBox{
-  @extend .pageWidth;
-  position: relative;
-  padding: 15px;
-  background: white;
-  color: darken($concrete, 4%);
-  border-radius: 20px;
-  box-shadow: 0 1px 4px rgba(0,0,0,.2);
-}
-
-.about{
-  .module{
-    padding: 15px;
-  }
-  img{
-    border-radius: 25px;
-  }
-}
-
-.hide-on-mobile{
-  @include breakpoint(baby-bear) {
-    display: none;
-  }
-}
+@import"about-us";

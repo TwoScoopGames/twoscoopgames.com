@@ -1,17 +1,128 @@
-$normal-font-size: 16px;
-$normal-font-line-height: $normal-font-size * 1.5;
+// $normal-font-size: 16px;
+// $normal-font-line-height: $normal-font-size * 1.5;
+//
+// html {
+//   font-family: "helvetica", verdana, sans-serif;
+//   font-size: $normal-font-size;
+//   line-height: $normal-font-line-height;
+// }
+//
+// .center-inside {
+//   text-align: center;
+// }
+//
+//
+// a{
+// 	color: $primary;
+// }
+body{
+  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-feature-settings: "kern", "liga", "pnum";
+  font-size: 1.8em !important;
+  letter-spacing: 1.2px;
+  line-height: 1.3em !important;
+  font-weight: 200;
 
-html {
-  font-family: "helvetica", verdana, sans-serif;
-  font-size: $normal-font-size;
-  line-height: $normal-font-line-height;
+}
+//
+// @font-face {
+//     font-family: 'calafiaregular';
+//     src: url('/fonts/calafia-regular-webfont.woff2') format('woff2'),
+//          url('/fonts/calafia-regular-webfont.woff') format('woff');
+//     font-weight: normal;
+//     font-style: normal;
+//
+// }
+
+@font-face {
+  font-family: 'cubanoregular';
+  src: url('/fonts/cubano-regular-webfont.woff2') format('woff2'),
+  url('/fonts/cubano-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
-.center-inside {
-  text-align: center;
+h1, h3 {
+  font-family: 'cubanoregular', helvetica, sans-serif;
 }
+
+h1{
+  letter-spacing: 3px;
+}
+
+h2{
+  font-family: 'cubanoregular', helvetica, sans-serif;
+  // font-family: 'calafiaregular', helvetica, sans-serif;
+  letter-spacing: 2px;
+}
+
+h3{
+  letter-spacing: 2px;
+}
+
+
 
 
 a{
-	color: $primary;
+  color: white !important;
+  text-decoration: none;
+  &:hover{
+    opacity: 0.8;
+  }
+
+}
+
+
+p a{
+
+  text-decoration: underline;
+
+
+}
+
+
+.link-btn{
+
+  font-size: 35px;
+  cursor: pointer !important;
+  color: white;
+  padding: 14px 18px !important;
+  text-align: left;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  margin: 5px 5px 15px 5px;
+
+  display: inline-block;
+  &.green{
+    background: linear-gradient( lighten($green, 5%), $green);
+    &:hover{
+      background: linear-gradient( lighten($green, 15%), lighten($green, 10%));
+    }
+    &:active{
+      background: linear-gradient( darken($green, 15%), darken($green, 10%));
+    }
+  }
+  &.purple{
+    background: linear-gradient( lighten($purple, 5%), $purple);
+    &:hover{
+      background: linear-gradient( lighten($purple, 15%), lighten($purple, 10%));
+    }
+    &:active{
+      background: linear-gradient( darken($purple, 15%), darken($purple, 10%));
+    }
+  }
+
+  i{
+    vertical-align: middle;
+    margin: 0;
+    padding: 4px;
+    max-width: 60px;
+    display: inline-block !important;
+  }
+  p{
+
+    vertical-align: middle;
+    margin: 0;
+    display: inline-block !important;
+  }
 }

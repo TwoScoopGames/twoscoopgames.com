@@ -14,13 +14,15 @@
 		<![endif]-->
 		<header>
 			<nav>
-				<a href="/">Games</a>
-				<a href="/about-us">About</a>
-				<a href="http://twoscoopgames.tumblr.com/" target="_blank">Blog</a>
-				<a href="http://bit.ly/talk2twoscoop">Hire</a>
+				<div class="nav-menu">
+					<a href="/">Games</a>
+					<a href="/about-us">About</a>
+					<a href="http://twoscoopgames.tumblr.com/" target="_blank">Blog</a>
+					<a href="http://bit.ly/talk2twoscoop">Hire</a>
+				</div>
 			</nav>
-			<h1 class="logo">Two Scoop Games</h1>
 		</header>
+
 		<div class="page">
 			{{> body}}
 		</div>
@@ -28,7 +30,55 @@
 		{{> footer}}
 
 		<script src="/js/vendor/jquery-3.2.1.min.js"></script>
+
 		<script src="/js/main.js"></script>
 		{{> google-analytics}}
+
+		<script src="/js/vendor/jquery.fitvids.js"></script>
+		<script>
+		// fitvids
+		$(document).ready(function(){
+			$(".youtube-video").fitVids();
+		});
+
+		//comment sorting
+		var quotes = makeQuotesArray($('.quote'));
+		var filtered = fisherYates(quotes, 8);
+
+		numberQuotes($('.quote'));
+		showQuotes(filtered);
+
+		function numberQuotes(elements) {
+			var i = 0;
+			elements.each(function() {
+				$(this).attr("id", "quote"+ i);
+				i++;
+			});
+		}
+
+		function makeQuotesArray(elements) {
+			var array = [];
+			for (var i = 0; i < elements.length; i++) {
+				array.push(i);
+			};
+			return array;
+		}
+
+		function fisherYates(myArray, nb_picks) {
+			for (i = myArray.length - 1; i > 1  ; i--) {
+				var r = Math.floor(Math.random() * i);
+				var t = myArray[i];
+				myArray[i] = myArray[r];
+				myArray[r] = t;
+			}
+			return myArray.slice(0, nb_picks);
+		}
+
+		function showQuotes(array) {
+			for (var i = 0; i < array.length; i++) {
+				$('#quote'+array[i]).show();
+			}
+		}
+		</script>
 	</body>
 </html>

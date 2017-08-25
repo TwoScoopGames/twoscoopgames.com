@@ -10,85 +10,91 @@
     },
     "pages": {
         "site/syrush/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "SyRUSH by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/syrush",
             "shareMessage": "Check out SyRUSH from Two Scoop Games"
         },
         "site/apartment213/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Apartment 213 by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/apartment213",
             "shareMessage": "Check out Apartment 213 from Two Scoop Games"
         },
         "site/uprooted/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Uprooted by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/uprooted",
             "shareMessage": "Check out Uprooted from Two Scoop Games"
         },
         "site/fluffykins/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Mr. Fluffykins' Great Sorting Adventure by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/fluffykins",
             "shareMessage": "Check out Mr. Fluffykins' Great Sorting Adventure from Two Scoop Games"
         },
+        "site/kickbotdx/index.html.hbs": {
+            "layout": "layout/layout.html.hbs",
+            "title": "Kick Bot DX by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/kickbotdx",
+            "shareMessage": "Check out Kick Bot DX from Two Scoop Games"
+        },
         "site/kickbot/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Kick Bot by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/kickbot",
             "shareMessage": "Check out Kick Bot from Two Scoop Games"
         },
         "site/scurry/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Scurry by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/scurry",
             "shareMessage": "Check out Scurry from Two Scoop Games"
         },
         "site/stanleysqueaks/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Stanley Squeaks and the Emerald Burrito by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/stanleysqueaks",
             "shareMessage": "Check out Stanley Squeaks and the Emerald Burrito from Two Scoop Games"
         },
         "site/desserts/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Desserts Killed Your Daddy by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/desserts",
             "shareMessage": "Check out Desserts Killed Your Daddy from Two Scoop Games"
         },
         "site/thedaytheworldchanged/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "The Day the World Changed by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/thedaytheworldchanged",
             "shareMessage": "The Day the World Changed from Two Scoop Games"
         },
         "site/treatmentandcontrol/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Treatment and Control by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/treatmentandcontrol",
             "shareMessage": "Treatment and Control from Two Scoop Games"
         },
         "site/clusterjunk/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Cluster Junk by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/clusterjunk",
             "shareMessage": "Cluster Junk from Two Scoop Games"
         },
         "site/morningritual/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Morning Ritual by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/morningritual",
             "shareMessage": "Morning Ritual from Two Scoop Games"
         },
         "site/electropolis/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Electropolis by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/electropolis",
             "shareMessage": "Electropolis from Two Scoop Games"
         },
         "site/duolastic/index.html.hbs": {
-            "layout": "layout/game-page.html.hbs",
+            "layout": "layout/layout.html.hbs",
             "title": "Duolastic by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/duolastic",
             "shareMessage": "Duolastic from Two Scoop Games"
