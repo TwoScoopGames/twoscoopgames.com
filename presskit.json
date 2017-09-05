@@ -291,16 +291,23 @@
   ],
   "eventsAndConferences":[
     {
+      "url": "http://www.humana.io/articles/louisville-makes-games-2017/",
+      "title":"Humana Digital Experience Center",
+      "wedid":"Alex of Two Scoop Games presented about the Kentucky Fried Pixels game bundle which thier game Kick Bot DX is part of",
+      "location":"Louisville, KY",
+      "date":"August, 2017"
+    },
+    {
       "url":"http://www.bullittschools.org/15/Home",
       "title":"Maryville Elementary School Career Day 2017",
-      "wedid":"Two Scoop Games presented about game development careers",
+      "wedid":"Alex -f Two Scoop Games presented about game development careers",
       "location":"Louisville, KY",
       "date":"April, 2017"
     },
     {
       "url":"http://vectorconf.com",
       "title":"Vector Game Developer Conference",
-      "wedid":"Two Scoop Games presented about starting a game dev space",
+      "wedid":"Alex and Eric of Two Scoop Games presented about starting a game dev space",
       "location":"Richmond, KY",
       "date":"April, 2017"
     },
@@ -321,7 +328,7 @@
     {
       "url":"http://www.codepalousa.com/",
       "title":"CodePaLousa 2016",
-      "wedid":"Two Scoop Games taught a game development workshop",
+      "wedid":"Alex and Eric of Two Scoop Games taught a game development workshop",
       "location":"Louisville, KY",
       "date":"March, 2016"
     },
@@ -342,14 +349,14 @@
     {
       "url":"http://www.humana.io/",
       "title":"Humana Digital Experience Center",
-      "wedid":"Two Scoop Games presented about game development careers",
+      "wedid":"Alex of Two Scoop Games presented about game development careers",
       "location":"Louisville, KY",
       "date":"February, 2016"
     },
     {
       "url":"http://www.codepalousa.com/",
       "title":"CodePaLousa 2015",
-      "wedid":"Two Scoop Games taught a game development workshop",
+      "wedid":"Alex and Eric of Two Scoop Games taught a game development workshop",
       "location":"Louisville, KY",
       "date":"March, 2015"
     },
@@ -368,6 +375,13 @@
       "date":"March, 2015"
     },
     {
+      "url":"https://www.youtube.com/watch?v=5UuRj_1OG14",
+      "title":"Nodevember JavaScript Conference 2014",
+      "wedid":"Eric of Two Scoop Games gave a talk on HTML games featuring Stanley Squeaks and the Emerald Burrito",
+      "location":"Nashville, TN",
+      "date":"November, 2014"
+    },
+    {
       "url":"http://bignight.org/freerangearcade/",
       "title":"Free Range Arcade 2014",
       "wedid":"Two Scoop Games had a booth showing Stanley Squeaks and the Emerald Burrito and SyRUSH",
@@ -384,7 +398,7 @@
     {
       "url":"http://runjumpdev.org",
       "title":"Run Jump Dev Presentation",
-      "wedid":"Two Scoop Games presented about creating web and mobile games in HTML5 & JavaScript",
+      "wedid":"Alex and Eric of Two Scoop Games presented about creating web and mobile games in HTML5 & JavaScript",
       "location":"Lexington, KY",
       "date":"July, 2014"
     }
