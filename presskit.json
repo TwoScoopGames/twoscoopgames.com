@@ -16,7 +16,7 @@
     "foundingDate":"March 25, 2014",
     "websiteName":"twoscoopgames.com",
     "websiteURL":"http://twoscoopgames.com",
-    "description":"Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry and SyRUSH, and is currently working on Kick Bot DX, a sequal to one of thier most popular games. <br/><br/> Two Scoop Games has also produced many prototypes for various game jams while honing their craft.<br/><br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you. <br/>For a consultation email <a href='mailto:info@twoscoopgames.com'>info@twoscoopgames.com</a>",
+    "description":"Two Scoop Games is comprised of Alex Bezuska and Eric Lathrop. Based out of Louisville, Kentucky, Two Scoop Games has 3 major releases; Kick Bot, Scurry, and SyRUSH, and is currently working on PullPals. <br/><br/> Two Scoop Games has also produced many prototypes for various game jams while honing their craft.<br/><br/>Two Scoop Games is accepting contract work. If you or your company has a game related project, they can build it for you, visit <a href='http://twoscoopinteractive.com' target='_blank'>Two Scoop Interactive</a> for more info.",
     "history":[
 
     ]
@@ -44,6 +44,13 @@
     }
   ],
   "projects":[
+    {
+      "url":"https://ldjam.com/events/ludum-dare/40/$67473",
+      "name":"PullPals",
+      "dateStart":"December 2017",
+      "dateEnd":"Present",
+      "current": true
+    },
     {
       "url":"http://twoscoopgames.com/kickbotdx/",
       "name":"Kick Bot DX",
@@ -75,10 +82,16 @@
   ],
   "prototypes":[
     {
+      "url":"https://two-scoop-games.itch.io/fineage",
+      "name":"Fineage (prototype)",
+      "dateStart":"January 2018",
+      "dateEnd":""
+    },
+    {
       "url":"http://twoscoopgames.com/duolastic/",
-      "name":"Duolastic",
+      "name":"Duolastic (prototype)",
       "dateStart":"January 2017",
-      "dateEnd":"June, 2017"
+      "dateEnd":"June 2017"
     },
     {
       "url":"http://twoscoopgames.com/electropolis/",
@@ -96,7 +109,7 @@
       "url":"http://twoscoopgames.com/clusterjunk/",
       "name":"Cluster Junk (prototype)",
       "dateStart":"December 2015",
-      "dateEnd":""
+      "dateEnd":"September 2016"
     },
     {
       "url":"http://twoscoopgames.com/treatmentandcontrol/",
@@ -171,21 +184,7 @@
     }
   ],
   "logos":[
-    {
-      "url":"/img/presskit/twoscoopgames-avatar-2015.png",
-      "image":"/img/presskit/twoscoopgames-avatar-2015.png",
-      "alt":"Two Scoop Games Logo"
-    },
-    {
-      "url":"/img/presskit/logo-mama.png",
-      "image":"/img/presskit/logo-mama.png",
-      "alt":"Two Scoop Games Logo"
-    },
-    {
-      "url":"/img/presskit/TwoScoopGames-single-color.png",
-      "image":"/img/presskit/TwoScoopGames-single-color.png",
-      "alt":"Two Scoop Games Logo"
-    }
+
   ],
   "images":[
     {
@@ -199,11 +198,6 @@
       "alt":"Two Scoop Games Alex and Eric at Louisville Mini Maker Faire 2014"
     },
     {
-      "url":"/img/presskit/twoscoopgames-6.jpg",
-      "image":"/img/presskit/twoscoopgames-6-sm.jpg",
-      "alt":"Two Scoop Games Alex Bezuska on local WDRB Fox 41 tv for #ChrompTheBit 2015"
-    },
-    {
       "url":"/img/presskit/twoscoopgames-8.jpg",
       "image":"/img/presskit/twoscoopgames-8-sm.jpg",
       "alt":"Two Scoop Games at Free Range Arcade 2014"
@@ -212,16 +206,6 @@
       "url":"/img/presskit/twoscoopgames-12.jpg",
       "image":"/img/presskit/twoscoopgames-12-sm.jpg",
       "alt":"Two Scoop Games Alex and Eric finish Global Game Jam 2015"
-    },
-    {
-      "url":"/img/presskit/twoscoopgames-7.jpg",
-      "image":"/img/presskit/twoscoopgames-7-sm.jpg",
-      "alt":"Two Scoop Games Alex Bezuska"
-    },
-    {
-      "url":"/img/presskit/twoscoopgames-9.jpg",
-      "image":"/img/presskit/twoscoopgames-9-sm.jpg",
-      "alt":"Two Scoop Games Alex and Eric researching during SyRUSH devlopment"
     }
   ],
   "awardsAndRecognition":[
