@@ -57,7 +57,7 @@ The web site for Two Scoop Games.
  * itch
  * splat
 
-* To add a new type of storeButton, you can add a new handlebars if statement block in ``/partials/_storeButtons.hbs`
+* To add a new type of storeButton, you can add a new handlebars if statement block in `/partials/_storeButtons.hbs`
 
 
 #### add a new gamename-comments.json file for the game
@@ -76,14 +76,14 @@ The web site for Two Scoop Games.
 
 #### Add game in site.json
 
-  ```
+```
   "site/kickbot/index.html.hbs": {
       "layout": "layout/game-page.html.hbs",
       "title": "Kick Bot by Two Scoop Games",
       "shareUrl": "http://twoscoopgames.com/kickbot",
       "shareMessage": "Check out Kick Bot from Two Scoop Games"
   }
-  ```
+```
 
 
 ### Editing the presskit (presskitJS)
