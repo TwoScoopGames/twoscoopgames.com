@@ -1,4 +1,64 @@
 {
+  "pullpals": {
+    "release": true,
+    "title": "PullPals",
+    "icon": "/img/pullpals-icon.png",
+    "logo-alt": "PullPals from Two Scoop Games.",
+    "link": "/pullpals/",
+    "img": "/img/pullpals.png",
+    "hoverimg": "",
+    "tagline": "",
+    "cornerband": "coming soon!",
+
+    "pitch": "Stretch the limbs of cute monsters or grow new limbs as needed to complete each puzzling level.",
+
+  "description": "",
+
+    "free-features": [
+
+    ],
+    "premium-features": [
+
+    ],
+    "release-statement": "Coming soon to iPhone, iPad, iPod Touch, and Android Devices.",
+
+    "jam": {
+      "title": "Ludum Dare 40",
+      "date":"December 1-4, 2017",
+      "theme": "The more you have, the worse it is",
+      "link": "https://ldjam.com/events/ludum-dare/40/$67473"
+    },
+    "contributors": [{
+      "name": "Eric Lathrop",
+      "link": "http://twitter.com/@EricLathrop",
+      "role": "Game Design and Programming"
+    },
+    {
+      "name": "Alex Bezuska",
+      "link": "http://twitter.com/@AlexBezuska",
+      "role": "Game Design, Art, and Animation"
+    },
+    {
+      "name": "Jake Mercer",
+      "link": "https://m.soundcloud.com/jake-mercer-5",
+      "role": "Guest Musician"
+    }
+  ],
+  "trailer": "_Amz695euXo",
+  "screenshots": [
+    "/img/pullpals-ss-0.png",
+    "/img/pullpals-ss-1.png",
+    "/img/pullpals-ss-2.png"
+  ],
+  "hashtag": "pullpalsgame",
+  "likeurl": "http://twoscoopgames.com/pullpals",
+  "media": [
+
+  ],
+  "storeButtons": {
+    "mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
+  }
+},
   "kickbotdx": {
     "release": true,
     "title": "Kick Bot DX",
@@ -8,7 +68,7 @@
     "img": "/img/kickbotdx.png",
     "hoverimg": "",
     "tagline": "",
-    "cornerband": "coming soon!",
+    "cornerband": "",
 
     "pitch": "An infinite wall-jumping game where you send different types of unlockable bots to their doom for...  research purposes.",
 
@@ -265,7 +325,53 @@
 },
 
 
+"fineage": {
+  "prototype": true,
+  "title": "Fineage",
+  "icon": "/img/fineage-icon.png",
+  "link": "/fineage/",
+  "img": "/img/fineage.png",
+  "hoverimg": "",
+  "cornerBand": "",
+  "tagline": "",
+  "pitch": "Transmit charcteristics of your fish to your descendants on each playthrough.",
+  "release-statement":"",
+  "description": "",
 
+  "jam": {
+    "title": "Global Game Jam 2018",
+    "theme": "Transmission",
+    "link": "https://globalgamejam.org/2018/games/fineage"
+  },
+  "contributors": [
+    {
+      "name": "Eric Lathrop",
+      "link": "http://twitter.com/@EricLathrop",
+      "role": "Game Design and Programming"
+    },
+    {
+      "name": "Alex Bezuska",
+      "link": "http://twitter.com/@AlexBezuska",
+      "role": "Game Design, Character Art, and Animation"
+    },
+    {
+      "name": "Cara Smith",
+      "link": "http://twitter.com/@howdycara",
+      "role": "Game Design and Environment Art"
+    }
+  ],
+  "trailer": "",
+  "screenshots": [
+    "/img/fineage-ss-0.png",
+    "/img/fineage-ss-1.png",
+    "/img/fineage-ss-2.png",
+    "/img/fineage-ss-3.png"
+  ],
+  "media": [],
+  "storeButtons": {
+      "web": "https://two-scoop-games.itch.io/fineage"
+    }
+},
 "duolastic": {
   "prototype": true,
   "title": "Duolastic",

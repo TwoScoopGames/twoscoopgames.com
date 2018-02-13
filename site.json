@@ -98,6 +98,18 @@
             "title": "Duolastic by Two Scoop Games",
             "shareUrl": "http://twoscoopgames.com/duolastic",
             "shareMessage": "Duolastic from Two Scoop Games"
+        },
+        "site/pullpals/index.html.hbs": {
+            "layout": "layout/layout.html.hbs",
+            "title": "PullPals by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/pullpals",
+            "shareMessage": "PullPals from Two Scoop Games"
+        },
+        "site/fineage/index.html.hbs": {
+            "layout": "layout/layout.html.hbs",
+            "title": "Fineage by Two Scoop Games",
+            "shareUrl": "http://twoscoopgames.com/fineage",
+            "shareMessage": "Fineage from Two Scoop Games"
         }
     }
 }

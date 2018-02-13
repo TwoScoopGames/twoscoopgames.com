@@ -1,0 +1,10 @@
+{{>game-page games.pullpals}}
+
+<div class="container">
+<h3>What people are saying about PullPals</h3>
+<ul class="comments">
+	{{#each pullpals-comments}}
+		{{> comment}}
+	{{/each}}
+</ul>
+</div>
