@@ -275,6 +275,13 @@
   ],
   "eventsAndConferences":[
     {
+      "url":"http://www.arcaderx.com/",
+      "title":"Louisville Arcade Expo 2018",
+      "wedid":"Two Scoop Games had a booth showing PullPals",
+      "location":"Louisville, KY",
+      "date":"March, 2018"
+    },
+    {
       "url": "http://www.humana.io/articles/louisville-makes-games-2017/",
       "title":"Humana Digital Experience Center",
       "wedid":"Alex of Two Scoop Games presented about the Kentucky Fried Pixels game bundle which thier game Kick Bot DX is part of",
@@ -294,6 +301,13 @@
       "wedid":"Alex and Eric of Two Scoop Games presented about starting a game dev space",
       "location":"Richmond, KY",
       "date":"April, 2017"
+    },
+    {
+      "url":"http://www.arcaderx.com/",
+      "title":"Louisville Arcade Expo 2017",
+      "wedid":"Two Scoop Games had a booth showing Duolastic",
+      "location":"Louisville, KY",
+      "date":"March, 2017"
     },
     {
       "url":"http://lexplaycon.com/",
