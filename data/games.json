@@ -73,24 +73,19 @@
     "tagline": "",
     "cornerband": "",
 
-    "pitch": "An infinite wall-jumping game where you send different types of unlockable bots to their doom for...  research purposes.",
+    "pitch": "Test your skills against the world in the new and improved take on the original rage-inducing infinite wall-jumping robot game! ",
 
-  "description": "Kick Bot is back and this time there are more hazards, more rewards, and more bots to test! Deep underground, scientists have been obsessively working on building the perfect wall-jumping bots. Thousands of bots have failed and fallen into the scrap heap. Can you prove you have what it takes to build and test the perfect bot?",
+  "description": "Deep underground, scientists have been obsessively working on building the perfect wall-jumping bots. Thousands of bots have failed and fallen into the scrap heap. Can you prove you have what it takes to test the highest scoring bot?",
 
     "free-features": [
-      "Procedurally-generated infinite level design!",
-      "Unlockable playable bots each with thier own look and special ability!",
-      "Collect research points and use scrapped bots to build parts for new ones!",
-      "New hazards including electrocuting tesla coils, high RPM sawblades, spike smashers and more!",
-      "Compare your high score with the world with built in social media sharing - each bot has it's own leaderboard!",
-      "Achievements for the most daring moves!",
-      "Music and SFX options!",
-      "Daily challenge mode - compete with your friends using the same placement of hazards!"
+
     ],
     "premium-features": [
-      "Can't wait? Pay to complete and unlock new bots for your collection!"
+      "Procedurally-generated infinite level design!",
+      "Compare your high score with the world with built in leaderboards!",
+      "Music and SFX options!"
     ],
-    "release-statement": "Coming soon to iPhone, iPad, iPod Touch, Android Devices and PC.",
+    "release-statement": "Coming soon to iPhone, iPad, Chromebooks, and for the first time ever on Android!",
 
     "jam": {
       "title": "Kentucky Fried Pixels 2017",
