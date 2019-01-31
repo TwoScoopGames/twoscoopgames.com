@@ -1,4 +1,67 @@
 {
+  "movingin": {
+    "release": true,
+    "title": "Moving In",
+    "icon": "/img/movingin-icon.png",
+    "logo-alt": "Moving In",
+    "link": "/movingin/",
+    "img": "/img/movingin.png",
+    "hoverimg": "",
+    "tagline": "",
+    "cornerband": "Our 1st Card Game!",
+
+    "pitch": "A cooperative card game about relationships, furniture shopping, and compromise.",
+
+  "description": "For 2 players\nAges 8 and up\n Moving In is a cooperative game, i.e. a game where the players do not play against each other but work together towards a common goal. In this case they are partners moving in together and starting their first shared home. Each partner has their own personality and sense of style consisting of colors and styles they secretly love or hate. Partners must pay attention to the actions and choices of the other to learn about their personality. The partners must not have anything they hate in their home, and have one item they love. Through observation, deduction, and cooperation this couple must make the home work for them, or else they go their separate ways",
+
+    "free-features": [
+
+    ],
+    "premium-features": [
+
+    ],
+    "release-statement": "Coming soon",
+
+    "jam": {
+      "title": "Global Game jam",
+      "date":"Jan 25-27, 2019",
+      "theme": "What home means to you",
+      "link": "https://globalgamejam.org/2019/games/moving-1"
+    },
+    "contributors": [
+      {
+        "name": "Alex Bezuska",
+        "link": "http://twitter.com/@AlexBezuska",
+        "role": "Game Design, Art"
+      },{
+      "name": "Eric Lathrop",
+      "link": "http://twitter.com/@EricLathrop",
+      "role": "Game Design"
+    },
+    {
+      "name": "Barry Rowe",
+      "link": "http://twitter.com/@barryrowe",
+      "role": "Game Design"
+    }
+  ],
+  "trailer": "dGgbLqy76uY",
+  "screenshots": [
+    "/img/movingin-ss-0.png",
+    "/img/movingin-ss-1.png",
+    "/img/movingin-ss-2.png",
+    "/img/movingin-ss-3.png",
+    "/img/movingin-ss-4.png"
+  ],
+  "hashtag": "pullpalsgame",
+  "likeurl": "http://twoscoopgames.com/pullpals",
+  "media": [
+
+  ],
+  "storeButtons": {
+    "printandplay": "http://bit.ly/playmovingin",
+    "mailinglist": "http://bit.ly/movingingame"
+  }
+},
   "pullpals": {
     "release": true,
     "title": "PullPals",
