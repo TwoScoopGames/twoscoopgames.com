@@ -76,3 +76,21 @@ img {
 		margin-top: 25px;
 	}
 }
+
+
+.event.row, .talk.row{
+	margin-bottom: 15px;
+}
+
+.event.row img, .talk.row img{
+	max-width: 100%;
+}
+
+
+.image-square{
+
+}
+
+.image-square img {
+  max-height: 150px;
+}

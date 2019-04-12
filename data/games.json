@@ -136,25 +136,19 @@
     "tagline": "",
     "cornerband": "",
 
-    "pitch": "Test your skills against the world in the new and improved take on the original rage-inducing infinite wall-jumping robot game! ",
+    "pitch": "Coming soon",
 
-  "description": "Deep underground, scientists have been obsessively working on building the perfect wall-jumping bots. Thousands of bots have failed and fallen into the scrap heap. Can you prove you have what it takes to test the highest scoring bot?",
+  "description": "Coming soon",
 
     "free-features": [
 
     ],
     "premium-features": [
-      "Procedurally-generated infinite level design!",
-      "Compare your high score with the world with built in leaderboards!",
-      "Music and SFX options!"
-    ],
-    "release-statement": "Coming soon to iPhone, iPad, Chromebooks, and for the first time ever on Android!",
 
-    "jam": {
-      "title": "Kentucky Fried Pixels 2017",
-      "theme": "",
-      "link": "https://itch.io/jam/kfp2"
-    },
+    ],
+    "release-statement": "More info coming soon.",
+
+
     "contributors": [{
       "name": "Eric Lathrop",
       "link": "http://twitter.com/@EricLathrop",
@@ -164,15 +158,16 @@
       "name": "Alex Bezuska",
       "link": "http://twitter.com/@AlexBezuska",
       "role": "Game Design, Art, and Animation"
+    },
+    {
+      "name": "Jake Mercer",
+      "link": "https://m.soundcloud.com/jake-mercer-5",
+      "role": "Music and Sound Design"
     }
   ],
   "trailer": "HA_tIeOOxS8",
   "screenshots": [
     "/img/kickbotdx-ss-0.png",
-    "/img/kickbotdx-ss-1.png",
-    "/img/kickbotdx-ss-2.png",
-    "/img/kickbotdx-ss-3.png",
-    "/img/kickbotdx-ss-4.png"
   ],
   "hashtag": "kickbotgame",
   "likeurl": "http://twoscoopgames.com/kickbotdx",
@@ -180,6 +175,7 @@
 
   ],
   "storeButtons": {
+    "betasignup": "http://bit.ly/kbdx",
     "mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
   }
 },

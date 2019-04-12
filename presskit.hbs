@@ -12,6 +12,7 @@
   "http://cdnjs.cloudflare.com/ajax/libs/uikit/1.2.0/css/uikit.gradient.min.css" rel=
   "stylesheet" type="text/css" />
   <link href="/css/presskit.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 
 <body>
@@ -29,11 +30,12 @@
           {{#if projects}} <li><a href="#projects">Projects</a></li> {{/if}}
           {{#if videos}} <li><a href="#trailers">Videos</a></li> {{/if}}
           {{#if images}} <li><a href="#images">Images</a></li> {{/if}}
-          {{#if logos}} <li><a href="#logo">Logo &amp; Icon</a></li> {{/if}}
+          <!-- {{#if logos}} <li><a href="#logo">Logo &amp; Icon</a></li> {{/if}} -->
           {{#if awardsAndRecognition}} <li><a href="#awards">Awards &amp; Recognition</a></li> {{/if}}
           {{#if podcasts}} <li><a href="#podcasts">Podcasts</a></li> {{/if}}
           {{#if selectedArticles}} <li><a href="#quotes">Selected Articles</a></li> {{/if}}
-          {{#if eventsAndConferences}} <li><a href="#events">Events &amp; Conferences</a></li> {{/if}}
+          {{#if talks}} <li><a href="#talks">Talks</a></li> {{/if}}
+          {{#if events}} <li><a href="#events">Events</a></li> {{/if}}
           {{#if additionalLinks}} <li><a href="#links">Additional Links</a></li> {{/if}}
           {{#if teamAndRepeatingCollaborators}} <li><a href="#credits">Team</a></li> {{/if}}
           {{#if contact}} <li><a href="#contact">Contact</a></li> {{/if}}
@@ -230,8 +232,8 @@
         us</a>!</p>
         <hr />
         {{/if}}
-
-       <h2 id="logo">Logo &amp; Icon</h2>
+<!--
+       <h2 id="logo">Logo &amp; Icon</h2> -->
          {{!--
         <a href="images/logo.zip"></a>
 
@@ -253,6 +255,7 @@
 
         {{#if awardsAndRecognition}}
         <h2 id="awards">Awards &amp; Recognition</h2>
+
         <ul>
           {{#each awardsAndRecognition}}
           <li>"{{recognition}}" - <cite>{{for}}, {{date}}</cite></li>
@@ -267,10 +270,24 @@
         <h2 id="podcasts">Podcasts</h2>
         <ul>
           {{#each podcasts}}
-          <li>
-            <a href="{{url}}">{{title}}</a><br />
-            <cite>- {{author}}, {{source}} {{date}}</cite>
-          </li>
+          <div class="col-sm-6">
+          <div class="talk row">
+            <div class="col-sm-5">
+              <div class="image-square">
+                <img src="{{img}}" alt="{{title}} - {{location}} - {{date}}"/>
+              </div>
+          </div>
+            <div class="col-sm-7">
+            <strong>{{title}}</strong><br/>
+            <cite>{{source}} - {{author}} ({{date}})</cite>
+            <p>Listen on:<br/>
+              {{#each links}}
+              <a title="Listen to {{author}} - {{title}} on {{website}}"href="{{url}}">{{website}}</a>
+              {{/each}}
+            </div>
+            </div>
+          </div>
+
           {{/each}}
         </ul>
         <hr />
@@ -293,16 +310,48 @@
 
 
 
-        {{#if eventsAndConferences}}
-        <h2 id="events">Events & Conferences</h2>
-        <ul>
-          {{#each eventsAndConferences}}
-          <li><a href="{{url}}">{{title}}</a> {{location}}, {{date}}<br />
-          <cite>-{{wedid}}</cite>
-           </li>
+        {{#if talks}}
+        <h2 id="events">Talks</h2>
+        <div class="row">
+          {{#each talks}}
+          <div class="col-sm-6">
+          <div class="talk row">
+            <div class="col-sm-5">
+              <div class="image-square">
+                <img src="{{img}}" alt="{{title}} - {{location}} - {{date}}"/>
+              </div>
+          </div>
+            <div class="col-sm-7">
+            <a href="{{url}}">{{title}}</a><br/> {{location}}, {{date}}<br />
+            <cite>-{{wedid}}</cite>
+            </div>
+            </div>
+          </div>
           {{/each}}
-        </ul>
+        </div>
         <hr />
+        {{/if}}
+
+        {{#if events}}
+        <h2 id="events">Events</h2>
+        <div class="row">
+            {{#each events}}
+            <div class="col-sm-6">
+            <div class="event row">
+              <div class="col-sm-5">
+                <div class="image-square">
+                  <img src="{{img}}" alt="{{title}} - {{location}} - {{date}}"/>
+                </div>
+            </div>
+              <div class="col-sm-7">
+              <a href="{{url}}">{{title}}</a><br/> {{location}}, {{date}}<br />
+              <cite>-{{wedid}}</cite>
+              </div>
+              </div>
+            </div>
+            {{/each}}
+          </div>
+          <hr />
         {{/if}}
 
 
@@ -341,9 +390,7 @@
 
         </div>
         <hr />
-        {{!--<p><a href="http://dopresskit.com/">presskit()</a> by Rami Ismail (<a href=
-        "http://www.vlambeer.com/">Vlambeer</a>) - also thanks to <a href=
-        "sheet.php?p=credits">these fine folks</a></p>--}}
+
       </div>
     </div>
 
