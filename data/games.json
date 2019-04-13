@@ -336,6 +336,14 @@
 				"role": "Music"
 			}
 		],
+
+    "notice-me": {
+      "text": "We are looking for beta testers for KICK BOT DX, the upcoming sequel to Kick Bot!",
+      "cta-button": {
+        "url": "http://bit.ly/kbdxbeta",
+        "text": "Sign up now!"
+      }
+    },
 		"trailer": "ek1yJr6Od2I",
 		"screenshots": [
 			"/img/kickbot-ss-0.png",
