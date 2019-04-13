@@ -67,6 +67,9 @@ $splatColor:     $green-shadow;
   .mailinglist{
     @include storeButtonColor($purple);
   }
+  .betasignup{
+    @include storeButtonColor($webColor);
+  }
   .web{
     @include storeButtonColor($webColor);
   }

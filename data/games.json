@@ -1,26 +1,87 @@
 {
+	"kickbotdx": {
+		"release": true,
+		"title": "Kick Bot DX",
+		"icon": "/img/kickbotdx-icon.png",
+		"logo-alt": "Kick Bot DX from Two Scoop Games",
+		"link": "/kickbotdx/",
+		"img": "/img/kickbotdx.png",
+		"hoverimg": "",
+		"tagline": "",
+		"cornerband": "",
+
+		"pitch": "Coming soon",
+
+		"notice-me": {
+			"text": "We are looking for beta testers! sign up today!",
+			"cta-button": {
+				"url": "http://bit.ly/kbdxbeta",
+				"text": "Sign up now!"
+			}
+		},
+
+		"description": "Coming soon",
+
+		"features": [],
+		"release-statement": "More info coming soon",
+
+
+		"contributors": [{
+				"name": "Eric Lathrop",
+				"link": "http://twitter.com/@EricLathrop",
+				"role": "Game Design and Programming"
+			},
+			{
+				"name": "Alex Bezuska",
+				"link": "http://twitter.com/@AlexBezuska",
+				"role": "Game Design, Art, and Animation"
+			},
+			{
+				"name": "Jake Mercer",
+				"link": "https://m.soundcloud.com/jake-mercer-5",
+				"role": "Music and Sound Design"
+			}
+		],
+		"trailer": "",
+		"screenshots": [
+			"/img/kickbotdx-ss-0.png"
+		],
+		"hashtag": "kickbotgame",
+		"likeurl": "http://twoscoopgames.com/kickbotdx",
+		"media": [],
+		"storeButtons": {
+			"betasignup": "http://bit.ly/kbdxbeta",
+			"mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
+		}
+	},
+
 	"movingin": {
 		"release": true,
 		"title": "Moving In",
 		"icon": "/img/movingin-icon.png",
-		"logo-alt": "Moving In",
+		"logo-alt": "Moving In by Two Scoop Games",
 		"link": "/movingin/",
 		"img": "/img/movingin.png",
 		"hoverimg": "",
 		"tagline": "",
 		"cornerband": "Our 1st Card Game!",
 
-		"pitch": "A cooperative card game about relationships, furniture shopping, and compromise.",
+		"pitch": "A cooperative card game about relationships, furniture shopping, and compromise",
 
+		"notice-me": {
+			"text": "If you are a game publisher who can help us get Moving In into stores we are interesed in talking to you!",
+			"cta-button": {
+				"url": "mailto:info@twoscoopgames.com?subject=We%20would%20love%20to%20publish%20Moving%20In!",
+				"text": "Contact us today!"
+			}
+		},
 		"description": "For 2 players\nAges 8 and up\n Moving In is a cooperative game, i.e. a game where the players do not play against each other but work together towards a common goal. In this case they are partners moving in together and starting their first shared home. Each partner has their own personality and sense of style consisting of colors and styles they secretly love or hate. Partners must pay attention to the actions and choices of the other to learn about their personality. The partners must not have anything they hate in their home, and have one item they love. Through observation, deduction, and cooperation this couple must make the home work for them, or else they go their separate ways",
 
-		"free-features": [
-
+		"features": [
+			"This is a free print-and-play game, feel free to print a copy, cut it out and enjoy with friends!",
+			"Join our mailing list to find out about future Moving In news!"
 		],
-		"premium-features": [
-
-		],
-		"release-statement": "Coming soon",
+		"release-statement": "Free to print and play!",
 
 		"jam": {
 			"title": "Global Game jam",
@@ -52,7 +113,7 @@
 			"/img/movingin-ss-4.png"
 		],
 		"hashtag": "pullpalsgame",
-		"likeurl": "http://twoscoopgames.com/pullpals",
+		"likeurl": "http://twoscoopgames.com/movingin",
 		"media": [
 
 		],
@@ -72,17 +133,12 @@
 		"tagline": "",
 		"cornerband": "coming soon!",
 
-		"pitch": "Pull, move, and fling cute stretchy monster babies to solve puzzles! ",
+		"pitch": "Pull, move, and fling cute stretchy monster babies to solve puzzles!",
 
 		"description": "Follow hashtag #PullPals on instagram and twitter to see our development process and find out where we will be demoing PullPals next!",
 
-		"free-features": [
-
-		],
-		"premium-features": [
-
-		],
-		"release-statement": "Coming soon to iPhone, iPad, iPod Touch, and Android Devices.",
+		"features": [],
+		"release-statement": "Coming soon",
 
 		"jam": {
 			"title": "Ludum Dare 40",
@@ -103,7 +159,7 @@
 			{
 				"name": "Jake Mercer",
 				"link": "https://m.soundcloud.com/jake-mercer-5",
-				"role": "Guest Musician"
+				"role": "Music"
 			}
 		],
 		"trailer": "zhjR7Dy5Xtk",
@@ -124,58 +180,7 @@
 			"mailinglist": "http://eepurl.com/dzqbZr"
 		}
 	},
-	"kickbotdx": {
-		"release": true,
-		"title": "Kick Bot DX",
-		"icon": "/img/kickbotdx-icon.png",
-		"logo-alt": "Kick Bot DX from Two Scoop Games.",
-		"link": "/kickbotdx/",
-		"img": "/img/kickbotdx.png",
-		"hoverimg": "",
-		"tagline": "",
-		"cornerband": "",
 
-		"pitch": "Coming soon",
-
-		"description": "Coming soon",
-
-		"free-features": [
-
-		],
-		"premium-features": [
-
-		],
-		"release-statement": "More info coming soon.",
-
-
-		"contributors": [{
-				"name": "Eric Lathrop",
-				"link": "http://twitter.com/@EricLathrop",
-				"role": "Game Design and Programming"
-			},
-			{
-				"name": "Alex Bezuska",
-				"link": "http://twitter.com/@AlexBezuska",
-				"role": "Game Design, Art, and Animation"
-			},
-			{
-				"name": "Jake Mercer",
-				"link": "https://m.soundcloud.com/jake-mercer-5",
-				"role": "Music and Sound Design"
-			}
-		],
-		"trailer": "HA_tIeOOxS8",
-		"screenshots": [
-			"/img/kickbotdx-ss-0.png"
-		],
-		"hashtag": "kickbotgame",
-		"likeurl": "http://twoscoopgames.com/kickbotdx",
-		"media": [],
-		"storeButtons": {
-			"betasignup": "http://bit.ly/kbdx",
-			"mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
-		}
-	},
 
 	"syrush": {
 		"release": true,
@@ -186,23 +191,15 @@
 		"tagline": "The official Waffle simulator of breakfast!",
 		"pitch": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
 		"description": "Feel the rush in this fast-paced arcade style game where you tap waffle squares to fill your waffle with the perfect distribution of mouth-watering toppings.",
-		"release-statement": "Available on iPhone, iPad, & iPod Touch.",
+		"release-statement": "Play free on the web (requires touchscreen)",
 
-		"free-features": [
+		"features": [
 			"Fast-paced infinite high score game!",
 			"Ramps up speed as you impove your skills as a waffle chef!",
 			"Designed for full ten-finger multi-touch!",
-			"Play the basic mode for as long as you like!",
-			"Challenge yourself to beat your best score!",
-			"Two delicious traditional waffle toppings!"
+			"7 sugary toppings to master by adding powdered sugar, blueberries, strawberries, chocolate chips, and whipped cream!",
+			"Fast-paced infinite high score game!"
 		],
-		"premium-features": [
-			"Get the full game with all features for only 99 cents!",
-			"Upgrade to 7 sugary toppings to master by adding powdered sugar, blueberries, strawberries, chocolate chips, and whipped cream!",
-			"Challenge your friends and the world with the SyRUSH leaderboard!",
-			"8 challenging achievements!"
-		],
-
 
 		"contributors": [{
 				"name": "Eric Lathrop",
@@ -223,7 +220,6 @@
 		"trailer": "063ccMxUd1s",
 		"screenshots": [
 			"/img/syrush-ss-4.png",
-			"/img/syrush-ss-0.png",
 			"/img/syrush-ss-1.png",
 			"/img/syrush-ss-2.png",
 			"/img/syrush-ss-3.png"
@@ -246,7 +242,7 @@
 		],
 
 		"storeButtons": {
-			"ios": "https://itunes.apple.com/us/app/syrush/id903688443?mt=8"
+			"webtouch": "http://twoscoopgames.com/syrush/game/"
 
 		}
 	},

@@ -31,6 +31,18 @@
 <div class="spacer row">
 
   <div class="col-md-8 col-sm-12">
+    
+    {{#if notice-me}}
+    <div class="notice-me">
+      <div class="module">
+      <p>{{notice-me.text}}</p>
+      <div class="btn-container">
+        <a href="{{notice-me.cta-button.url}}" title="{{notice-me.text}}" class="btn">{{notice-me.cta-button.text}}</a>
+      </div>
+      </div>
+    </div>
+    {{/if}}
+
 
     {{#if trailer}}
     <div class="youtube-video module">
@@ -57,6 +69,7 @@
   <div class="col-sm-8">
 
 
+
     {{#if description}}
     <div class="description module">
       <h2>About the game</h2>
@@ -65,40 +78,15 @@
     {{/if}}
 
 
-    {{#if free-features}}
+    {{#if features}}
     <div class="free-features module">
-      <h3>Free Features</h3>
       <ul>
-        {{#each free-features}}
+        {{#each features}}
         <li>{{this}}</li>
         {{/each}}
       </ul>
     </div>
     {{/if}}
-
-
-    {{#if premium-features}}
-    <div class="premium-features module">
-      <h3>Premium Features</h3>
-      <ul>
-        {{#each premium-features}}
-        <li>{{this}}</li>
-        {{/each}}
-      </ul>
-    </div>
-    {{/if}}
-
-    {{#if media}}
-    <div class="reviews module">
-      <h3>Reviews & Media</h3>
-      <ul>
-        {{#each media}}
-        <li><p><a href="{{link}}" target="_blank">{{title}} - {{author}}</a></p></li>
-        {{/each}}
-      </ul>
-    </div>
-    {{/if}}
-
 
     {{#if contributors}}
     <div class="contributors module">
@@ -111,8 +99,18 @@
     </div>
     {{/if}}
 
+    <h4>{{title}} copyright &copy; Two Scoop Games LLC</h4>
 
-
+    {{#if media}}
+    <div class="reviews module">
+      <h3>Reviews & Media</h3>
+      <ul>
+        {{#each media}}
+        <li><p><a href="{{link}}" target="_blank">{{title}} - {{author}}</a></p></li>
+        {{/each}}
+      </ul>
+    </div>
+    {{/if}}
 
 
 
@@ -139,9 +137,9 @@
       <div class="row">
 
         {{#each awards}}
-          <div class="award module">
-            <a href="{{link}}"> <img src="/{{image}}" alt="{{title}}"/></a>
-          </div>
+        <div class="award module">
+          <a href="{{link}}"> <img src="/{{image}}" alt="{{title}}"/></a>
+        </div>
         {{/each}}
       </div>
     </div>
