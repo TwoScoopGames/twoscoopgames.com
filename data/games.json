@@ -10,7 +10,7 @@
 		"tagline": "",
 		"cornerband": "",
 
-		"pitch": "Coming soon",
+		"pitch": "Kick Bot DX is a fast paced precision platformer where your character spends the entire time wall-jumping and is controlled with just two buttons.",
 
 		"notice-me": {
 			"text": "We are looking for beta testers! sign up today!",
@@ -42,13 +42,21 @@
 				"role": "Music and Sound Design"
 			}
 		],
-		"trailer": "",
+		"trailer": "lbObFssQkf0",
 		"screenshots": [
 			"/img/kickbotdx-ss-0.png"
 		],
 		"hashtag": "kickbotgame",
 		"likeurl": "http://twoscoopgames.com/kickbotdx",
-		"media": [],
+		"media": [{
+			"img": "",
+			"publication": "Alpha Beta Gamer",
+			"author": "Calum Fraser",
+			"date": "April 14, 2019",
+			"title": "'Kick Bot DX – Beta Sign Up'",
+			"link": "https://www.alphabetagamer.com/kick-bot-dx-beta-sign-up/"
+
+		}],
 		"storeButtons": {
 			"betasignup": "http://bit.ly/kbdxbeta",
 			"mailinglist": "https://docs.google.com/forms/d/e/1FAIpQLSc0c3tDLq6GB47b3ybvkYbPWYoFJWLC3baU3S8r_a0vzUR1Ww/viewform"
@@ -337,13 +345,13 @@
 			}
 		],
 
-    "notice-me": {
-      "text": "We are looking for beta testers for KICK BOT DX, the upcoming sequel to Kick Bot!",
-      "cta-button": {
-        "url": "http://bit.ly/kbdxbeta",
-        "text": "Sign up now!"
-      }
-    },
+		"notice-me": {
+			"text": "We are looking for beta testers for KICK BOT DX, the upcoming sequel to Kick Bot!",
+			"cta-button": {
+				"url": "http://bit.ly/kbdxbeta",
+				"text": "Sign up now!"
+			}
+		},
 		"trailer": "ek1yJr6Od2I",
 		"screenshots": [
 			"/img/kickbot-ss-0.png",
